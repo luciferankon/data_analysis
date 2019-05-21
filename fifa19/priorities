@@ -1,0 +1,106 @@
+Forwards:
+1. crossing
+2. finishing
+3. heading Accuracy
+4. short passing
+5. volleys
+6. dribbling
+7. curve
+8. fkaccuracy
+9. long passing
+10. ballcontrol
+11. acceleration
+12. sprint speed
+13. agility
+14. reactions
+15. balance
+16. shot power
+17. jumping
+18. stamina
+19. strength
+20. long shots
+21. aggresion
+22. vision
+23. penalties
+
+
+Midfielders:
+1. crossing
+2. finishing
+3. heading Accuracy
+4. short passing
+5. volleys
+6. dribbling
+7. curve
+8. fkaccuracy
+9. long passing
+10. ballcontrol
+11. acceleration
+12. sprint speed
+13. agility
+14. reactions
+15. balance
+16. shot power
+17. jumping
+18. stamina
+19. strength
+20. long shots
+21. vision
+
+
+Defensive Midfielders:
+1. crossing
+2. finishing
+3. heading Accuracy
+4. short passing
+5. volleys
+6. dribbling
+7. curve
+8. fkaccuracy
+9. long passing
+10. ballcontrol
+11. acceleration
+12. sprint speed
+13. agility
+14. reactions
+15. balance
+16. shot power
+17. jumping
+18. stamina
+19. strength
+20. long shots
+21. vision
+22. composure
+23. marking
+24. standing tackle
+25. slinding tackle
+
+
+Defenders:
+1. sprint speed
+2. agility
+3. balance
+4. jumping
+5. stamina
+6. strength
+7. aggresion
+8. interceptions
+9. positioning
+10. composure
+11. marking
+12. standing tackle
+13. slinding tackle
+
+
+Goalkeepers:
+1. GKdiving
+2. GKhandling
+3. Gk kicking
+4. Gkpositioning
+5. Gkreflexes
+
+
+formula :
+
+
+(positionValue + average of the attribute values + overall)*potential/overall

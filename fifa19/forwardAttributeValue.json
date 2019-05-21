@@ -1,0 +1,10510 @@
+[
+  {
+    "name": "L. Messi",
+    "attributeValue": "84.565"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "attributeValue": "85.391"
+  },
+  {
+    "name": "E. Hazard",
+    "attributeValue": "82.000"
+  },
+  {
+    "name": "R. Lewandowski",
+    "attributeValue": "81.565"
+  },
+  {
+    "name": "P. Dybala",
+    "attributeValue": "82.043"
+  },
+  {
+    "name": "H. Kane",
+    "attributeValue": "80.565"
+  },
+  {
+    "name": "S. Agüero",
+    "attributeValue": "81.304"
+  },
+  {
+    "name": "G. Bale",
+    "attributeValue": "83.565"
+  },
+  {
+    "name": "M. Icardi",
+    "attributeValue": "73.652"
+  },
+  {
+    "name": "R. Lukaku",
+    "attributeValue": "77.000"
+  },
+  {
+    "name": "C. Immobile",
+    "attributeValue": "75.304"
+  },
+  {
+    "name": "D. Mertens",
+    "attributeValue": "77.217"
+  },
+  {
+    "name": "Bernardo Silva",
+    "attributeValue": "75.000"
+  },
+  {
+    "name": "R. Sterling",
+    "attributeValue": "73.783"
+  },
+  {
+    "name": "Iniesta",
+    "attributeValue": "73.304"
+  },
+  {
+    "name": "Marco Asensio",
+    "attributeValue": "76.174"
+  },
+  {
+    "name": "R. Mahrez",
+    "attributeValue": "76.696"
+  },
+  {
+    "name": "A. Lacazette",
+    "attributeValue": "78.000"
+  },
+  {
+    "name": "A. Sánchez",
+    "attributeValue": "81.087"
+  },
+  {
+    "name": "E. Džeko",
+    "attributeValue": "70.739"
+  },
+  {
+    "name": "K. Benzema",
+    "attributeValue": "77.261"
+  },
+  {
+    "name": "M. Depay",
+    "attributeValue": "80.087"
+  },
+  {
+    "name": "Iago Aspas",
+    "attributeValue": "77.913"
+  },
+  {
+    "name": "M. Mandžukić",
+    "attributeValue": "74.652"
+  },
+  {
+    "name": "Willian",
+    "attributeValue": "74.217"
+  },
+  {
+    "name": "Jonas",
+    "attributeValue": "76.826"
+  },
+  {
+    "name": "O. Dembélé",
+    "attributeValue": "74.957"
+  },
+  {
+    "name": "Gabriel Jesus",
+    "attributeValue": "77.739"
+  },
+  {
+    "name": "Ronaldo Cabrais",
+    "attributeValue": "78.957"
+  },
+  {
+    "name": "Louri Beretta",
+    "attributeValue": "71.783"
+  },
+  {
+    "name": "T. Werner",
+    "attributeValue": "74.652"
+  },
+  {
+    "name": "Lucas Vázquez",
+    "attributeValue": "75.522"
+  },
+  {
+    "name": "S. Gnabry",
+    "attributeValue": "75.435"
+  },
+  {
+    "name": "Suso",
+    "attributeValue": "74.609"
+  },
+  {
+    "name": "Rodrigo",
+    "attributeValue": "77.174"
+  },
+  {
+    "name": "B. Dost",
+    "attributeValue": "65.391"
+  },
+  {
+    "name": "Malcom",
+    "attributeValue": "76.522"
+  },
+  {
+    "name": "J. Vardy",
+    "attributeValue": "75.087"
+  },
+  {
+    "name": "Morata",
+    "attributeValue": "73.217"
+  },
+  {
+    "name": "C. Bakambu",
+    "attributeValue": "76.478"
+  },
+  {
+    "name": "Luis Alberto",
+    "attributeValue": "74.000"
+  },
+  {
+    "name": "Jonathan Viera",
+    "attributeValue": "76.696"
+  },
+  {
+    "name": "Willian José",
+    "attributeValue": "71.870"
+  },
+  {
+    "name": "Pedro",
+    "attributeValue": "72.739"
+  },
+  {
+    "name": "S. Giovinco",
+    "attributeValue": "76.000"
+  },
+  {
+    "name": "M. Kruse",
+    "attributeValue": "76.609"
+  },
+  {
+    "name": "O. Giroud",
+    "attributeValue": "72.130"
+  },
+  {
+    "name": "David Villa",
+    "attributeValue": "75.478"
+  },
+  {
+    "name": "Aduriz",
+    "attributeValue": "71.957"
+  },
+  {
+    "name": "A. Milik",
+    "attributeValue": "72.043"
+  },
+  {
+    "name": "T. Hazard",
+    "attributeValue": "75.739"
+  },
+  {
+    "name": "K. Volland",
+    "attributeValue": "78.478"
+  },
+  {
+    "name": "Paco Alcácer",
+    "attributeValue": "73.304"
+  },
+  {
+    "name": "S. Verdi",
+    "attributeValue": "75.000"
+  },
+  {
+    "name": "E. Salvio",
+    "attributeValue": "77.609"
+  },
+  {
+    "name": "F. Smolov",
+    "attributeValue": "74.391"
+  },
+  {
+    "name": "L. Stindl",
+    "attributeValue": "76.609"
+  },
+  {
+    "name": "C. Vela",
+    "attributeValue": "76.000"
+  },
+  {
+    "name": "B. Gomis",
+    "attributeValue": "70.826"
+  },
+  {
+    "name": "Raffael",
+    "attributeValue": "75.696"
+  },
+  {
+    "name": "M. Gómez",
+    "attributeValue": "68.609"
+  },
+  {
+    "name": "Mariano",
+    "attributeValue": "75.957"
+  },
+  {
+    "name": "Rafa",
+    "attributeValue": "70.522"
+  },
+  {
+    "name": "M. Batshuayi",
+    "attributeValue": "70.957"
+  },
+  {
+    "name": "M. Uth",
+    "attributeValue": "73.087"
+  },
+  {
+    "name": "L. Muriel",
+    "attributeValue": "73.565"
+  },
+  {
+    "name": "V. Aboubakar",
+    "attributeValue": "76.217"
+  },
+  {
+    "name": "Iago Falqué",
+    "attributeValue": "72.565"
+  },
+  {
+    "name": "L. de Jong",
+    "attributeValue": "70.696"
+  },
+  {
+    "name": "Susaeta",
+    "attributeValue": "74.087"
+  },
+  {
+    "name": "C. Stuani",
+    "attributeValue": "73.957"
+  },
+  {
+    "name": "Alexandre Pato",
+    "attributeValue": "73.913"
+  },
+  {
+    "name": "K. Gameiro",
+    "attributeValue": "76.261"
+  },
+  {
+    "name": "D. Valeri",
+    "attributeValue": "74.783"
+  },
+  {
+    "name": "D. Sturridge",
+    "attributeValue": "71.217"
+  },
+  {
+    "name": "A. Gignac",
+    "attributeValue": "74.043"
+  },
+  {
+    "name": "W. Rooney",
+    "attributeValue": "77.783"
+  },
+  {
+    "name": "David Neres",
+    "attributeValue": "70.870"
+  },
+  {
+    "name": "Richarlison",
+    "attributeValue": "74.739"
+  },
+  {
+    "name": "L. Martínez",
+    "attributeValue": "71.348"
+  },
+  {
+    "name": "Luimo Boas Santos",
+    "attributeValue": "73.000"
+  },
+  {
+    "name": "André Silva",
+    "attributeValue": "72.304"
+  },
+  {
+    "name": "C. Pavón",
+    "attributeValue": "74.957"
+  },
+  {
+    "name": "A. Sanabria",
+    "attributeValue": "71.652"
+  },
+  {
+    "name": "M. Philipp",
+    "attributeValue": "73.087"
+  },
+  {
+    "name": "L. Alario",
+    "attributeValue": "69.478"
+  },
+  {
+    "name": "D. Benedetto",
+    "attributeValue": "73.478"
+  },
+  {
+    "name": "Zé Luís",
+    "attributeValue": "71.609"
+  },
+  {
+    "name": "S. Berghuis",
+    "attributeValue": "73.565"
+  },
+  {
+    "name": "Sergio León",
+    "attributeValue": "71.478"
+  },
+  {
+    "name": "C. Wilson",
+    "attributeValue": "71.217"
+  },
+  {
+    "name": "C. Tosun",
+    "attributeValue": "73.826"
+  },
+  {
+    "name": "Kike García",
+    "attributeValue": "68.391"
+  },
+  {
+    "name": "Elkeson",
+    "attributeValue": "76.348"
+  },
+  {
+    "name": "Ricardo Goulart",
+    "attributeValue": "73.957"
+  },
+  {
+    "name": "N. Kalinić",
+    "attributeValue": "68.957"
+  },
+  {
+    "name": "S. Jovetić",
+    "attributeValue": "74.739"
+  },
+  {
+    "name": "J. Hernández",
+    "attributeValue": "70.391"
+  },
+  {
+    "name": "Ángel",
+    "attributeValue": "70.087"
+  },
+  {
+    "name": "B. Yılmaz",
+    "attributeValue": "71.957"
+  },
+  {
+    "name": "E. Adebayor",
+    "attributeValue": "69.609"
+  },
+  {
+    "name": "F. Chiesa",
+    "attributeValue": "71.217"
+  },
+  {
+    "name": "Dyego Sousa",
+    "attributeValue": "65.696"
+  },
+  {
+    "name": "G. Simeone",
+    "attributeValue": "71.087"
+  },
+  {
+    "name": "D. Berardi",
+    "attributeValue": "75.217"
+  },
+  {
+    "name": "A. Januzaj",
+    "attributeValue": "68.913"
+  },
+  {
+    "name": "Y. Poulsen",
+    "attributeValue": "70.826"
+  },
+  {
+    "name": "Leo Baptistao",
+    "attributeValue": "71.609"
+  },
+  {
+    "name": "E. Sala",
+    "attributeValue": "70.565"
+  },
+  {
+    "name": "S. García",
+    "attributeValue": "71.957"
+  },
+  {
+    "name": "Lucas Pérez",
+    "attributeValue": "75.130"
+  },
+  {
+    "name": "V. Moses",
+    "attributeValue": "73.304"
+  },
+  {
+    "name": "Fábio Coentrão",
+    "attributeValue": "72.652"
+  },
+  {
+    "name": "A. Dzyuba",
+    "attributeValue": "69.130"
+  },
+  {
+    "name": "Gervinho",
+    "attributeValue": "70.739"
+  },
+  {
+    "name": "L. Podolski",
+    "attributeValue": "76.174"
+  },
+  {
+    "name": "M. Harnik",
+    "attributeValue": "72.739"
+  },
+  {
+    "name": "V. Germain",
+    "attributeValue": "75.130"
+  },
+  {
+    "name": "E. Choupo-Moting",
+    "attributeValue": "71.174"
+  },
+  {
+    "name": "M. Gabbiadini",
+    "attributeValue": "71.261"
+  },
+  {
+    "name": "G. Bou",
+    "attributeValue": "72.870"
+  },
+  {
+    "name": "Jonatan Soriano",
+    "attributeValue": "73.043"
+  },
+  {
+    "name": "J. Martínez",
+    "attributeValue": "70.652"
+  },
+  {
+    "name": "A. Carroll",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "T. Gutiérrez",
+    "attributeValue": "72.783"
+  },
+  {
+    "name": "A. Prijović",
+    "attributeValue": "65.913"
+  },
+  {
+    "name": "K. Huntelaar",
+    "attributeValue": "67.304"
+  },
+  {
+    "name": "R. Ábila",
+    "attributeValue": "68.174"
+  },
+  {
+    "name": "J. Sand",
+    "attributeValue": "68.348"
+  },
+  {
+    "name": "Vágner Love",
+    "attributeValue": "70.870"
+  },
+  {
+    "name": "M. Zárate",
+    "attributeValue": "73.609"
+  },
+  {
+    "name": "Munir",
+    "attributeValue": "71.478"
+  },
+  {
+    "name": "G. Sio",
+    "attributeValue": "74.087"
+  },
+  {
+    "name": "Jô",
+    "attributeValue": "69.348"
+  },
+  {
+    "name": "O. Ighalo",
+    "attributeValue": "69.826"
+  },
+  {
+    "name": "J. Defoe",
+    "attributeValue": "69.348"
+  },
+  {
+    "name": "Djaniny",
+    "attributeValue": "71.000"
+  },
+  {
+    "name": "C. Wood",
+    "attributeValue": "69.826"
+  },
+  {
+    "name": "R. Inglese",
+    "attributeValue": "63.478"
+  },
+  {
+    "name": "G. Murray",
+    "attributeValue": "65.435"
+  },
+  {
+    "name": "N. Castillo",
+    "attributeValue": "71.304"
+  },
+  {
+    "name": "D. Origi",
+    "attributeValue": "69.348"
+  },
+  {
+    "name": "F. Caicedo",
+    "attributeValue": "70.696"
+  },
+  {
+    "name": "A. Mitrović",
+    "attributeValue": "67.261"
+  },
+  {
+    "name": "D. Cvitanich",
+    "attributeValue": "72.000"
+  },
+  {
+    "name": "K. Lasagna",
+    "attributeValue": "68.913"
+  },
+  {
+    "name": "E. Gigliotti",
+    "attributeValue": "67.565"
+  },
+  {
+    "name": "N. Jørgensen",
+    "attributeValue": "71.609"
+  },
+  {
+    "name": "J. Augustin",
+    "attributeValue": "67.957"
+  },
+  {
+    "name": "Borja Iglesias",
+    "attributeValue": "66.826"
+  },
+  {
+    "name": "F. Ferreyra",
+    "attributeValue": "68.478"
+  },
+  {
+    "name": "K. Mitroglou",
+    "attributeValue": "67.739"
+  },
+  {
+    "name": "Rubén Castro",
+    "attributeValue": "70.478"
+  },
+  {
+    "name": "E. Ünal",
+    "attributeValue": "69.478"
+  },
+  {
+    "name": "F. Andone",
+    "attributeValue": "71.957"
+  },
+  {
+    "name": "Adrián",
+    "attributeValue": "69.652"
+  },
+  {
+    "name": "R. Funes Mori",
+    "attributeValue": "73.696"
+  },
+  {
+    "name": "P. Schick",
+    "attributeValue": "70.348"
+  },
+  {
+    "name": "N. Blandi",
+    "attributeValue": "67.391"
+  },
+  {
+    "name": "Wu Lei",
+    "attributeValue": "72.696"
+  },
+  {
+    "name": "Gabriel Boschilia",
+    "attributeValue": "69.565"
+  },
+  {
+    "name": "W. Bony",
+    "attributeValue": "65.826"
+  },
+  {
+    "name": "S. Doumbia",
+    "attributeValue": "70.957"
+  },
+  {
+    "name": "F. Acheampong",
+    "attributeValue": "73.739"
+  },
+  {
+    "name": "A. Barnes",
+    "attributeValue": "71.783"
+  },
+  {
+    "name": "Alan Kardec",
+    "attributeValue": "68.957"
+  },
+  {
+    "name": "E. Boateng",
+    "attributeValue": "70.739"
+  },
+  {
+    "name": "I. Popov",
+    "attributeValue": "72.217"
+  },
+  {
+    "name": "S. Vokes",
+    "attributeValue": "68.826"
+  },
+  {
+    "name": "Ayoze Pérez",
+    "attributeValue": "70.609"
+  },
+  {
+    "name": "Júnior Moraes",
+    "attributeValue": "64.478"
+  },
+  {
+    "name": "B. Fornaroli",
+    "attributeValue": "71.609"
+  },
+  {
+    "name": "M. Rashica",
+    "attributeValue": "69.826"
+  },
+  {
+    "name": "C. Benteke",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "D. Pabón",
+    "attributeValue": "76.087"
+  },
+  {
+    "name": "L. Teodorczyk",
+    "attributeValue": "67.565"
+  },
+  {
+    "name": "M. Destro",
+    "attributeValue": "67.478"
+  },
+  {
+    "name": "H. Onyekuru",
+    "attributeValue": "70.435"
+  },
+  {
+    "name": "Soldado",
+    "attributeValue": "70.478"
+  },
+  {
+    "name": "Y. Ōsako",
+    "attributeValue": "70.609"
+  },
+  {
+    "name": "A. Ruiz",
+    "attributeValue": "73.087"
+  },
+  {
+    "name": "K. Dolberg",
+    "attributeValue": "69.609"
+  },
+  {
+    "name": "L. Vietto",
+    "attributeValue": "72.000"
+  },
+  {
+    "name": "A. Paloschi",
+    "attributeValue": "69.348"
+  },
+  {
+    "name": "Llorente",
+    "attributeValue": "61.000"
+  },
+  {
+    "name": "A. Gray",
+    "attributeValue": "69.957"
+  },
+  {
+    "name": "B. Dzsudzsák",
+    "attributeValue": "73.435"
+  },
+  {
+    "name": "I. Slimani",
+    "attributeValue": "69.696"
+  },
+  {
+    "name": "G. Lapadula",
+    "attributeValue": "70.130"
+  },
+  {
+    "name": "Dênildo Stein",
+    "attributeValue": "67.565"
+  },
+  {
+    "name": "Y. Mutō",
+    "attributeValue": "70.130"
+  },
+  {
+    "name": "J. Altidore",
+    "attributeValue": "69.652"
+  },
+  {
+    "name": "S. Blanco",
+    "attributeValue": "73.000"
+  },
+  {
+    "name": "M. Konaté",
+    "attributeValue": "66.609"
+  },
+  {
+    "name": "J. Briand",
+    "attributeValue": "72.565"
+  },
+  {
+    "name": "J. Ayew",
+    "attributeValue": "73.783"
+  },
+  {
+    "name": "N. Sansone",
+    "attributeValue": "73.391"
+  },
+  {
+    "name": "M. Dembélé",
+    "attributeValue": "69.304"
+  },
+  {
+    "name": "E. Valencia",
+    "attributeValue": "73.565"
+  },
+  {
+    "name": "De Tomás",
+    "attributeValue": "68.217"
+  },
+  {
+    "name": "Alan Carvalho",
+    "attributeValue": "71.783"
+  },
+  {
+    "name": "I. Santini",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "M. Boselli",
+    "attributeValue": "67.348"
+  },
+  {
+    "name": "B. Embolo",
+    "attributeValue": "69.957"
+  },
+  {
+    "name": "A. Samedov",
+    "attributeValue": "73.565"
+  },
+  {
+    "name": "I. Belfodil",
+    "attributeValue": "70.522"
+  },
+  {
+    "name": "J. Campbell",
+    "attributeValue": "73.391"
+  },
+  {
+    "name": "Y. Kobayashi",
+    "attributeValue": "70.087"
+  },
+  {
+    "name": "F. Montero",
+    "attributeValue": "74.174"
+  },
+  {
+    "name": "M. Samatta",
+    "attributeValue": "69.217"
+  },
+  {
+    "name": "A. Szalai",
+    "attributeValue": "65.696"
+  },
+  {
+    "name": "J. Iturbe",
+    "attributeValue": "70.826"
+  },
+  {
+    "name": "H. Soudani",
+    "attributeValue": "71.130"
+  },
+  {
+    "name": "D. Mbokani",
+    "attributeValue": "68.391"
+  },
+  {
+    "name": "R. Ruidíaz",
+    "attributeValue": "71.217"
+  },
+  {
+    "name": "Fran Sol",
+    "attributeValue": "66.739"
+  },
+  {
+    "name": "M. Braithwaite",
+    "attributeValue": "73.522"
+  },
+  {
+    "name": "K. Ansarifard",
+    "attributeValue": "67.478"
+  },
+  {
+    "name": "Borja Mayoral",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "C. Beauvue",
+    "attributeValue": "69.696"
+  },
+  {
+    "name": "Júlio Tavares",
+    "attributeValue": "62.609"
+  },
+  {
+    "name": "F. Di Santo",
+    "attributeValue": "70.217"
+  },
+  {
+    "name": "Hélder Costa",
+    "attributeValue": "69.391"
+  },
+  {
+    "name": "R. Berić",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "S. Okazaki",
+    "attributeValue": "71.391"
+  },
+  {
+    "name": "N. Nikolić",
+    "attributeValue": "68.391"
+  },
+  {
+    "name": "J. Locadia",
+    "attributeValue": "70.478"
+  },
+  {
+    "name": "Felipe Vizeu",
+    "attributeValue": "65.826"
+  },
+  {
+    "name": "C. Ciano",
+    "attributeValue": "70.783"
+  },
+  {
+    "name": "Éder",
+    "attributeValue": "68.565"
+  },
+  {
+    "name": "P. Cissé",
+    "attributeValue": "70.087"
+  },
+  {
+    "name": "J. Drmić",
+    "attributeValue": "70.696"
+  },
+  {
+    "name": "R. Steffen",
+    "attributeValue": "73.478"
+  },
+  {
+    "name": "Carlitos",
+    "attributeValue": "73.435"
+  },
+  {
+    "name": "Fabrício",
+    "attributeValue": "72.696"
+  },
+  {
+    "name": "K. Babacar",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "P. Tau",
+    "attributeValue": "68.261"
+  },
+  {
+    "name": "D. Rolán",
+    "attributeValue": "71.130"
+  },
+  {
+    "name": "G. dos Santos",
+    "attributeValue": "71.957"
+  },
+  {
+    "name": "Sandro",
+    "attributeValue": "70.522"
+  },
+  {
+    "name": "Gonçalo Paciência",
+    "attributeValue": "68.217"
+  },
+  {
+    "name": "M. Suárez",
+    "attributeValue": "67.478"
+  },
+  {
+    "name": "J. Urretaviscaya",
+    "attributeValue": "70.522"
+  },
+  {
+    "name": "M. Krmenčík",
+    "attributeValue": "66.217"
+  },
+  {
+    "name": "Borja Valle",
+    "attributeValue": "68.565"
+  },
+  {
+    "name": "N. Roux",
+    "attributeValue": "70.261"
+  },
+  {
+    "name": "K. Fofana",
+    "attributeValue": "69.957"
+  },
+  {
+    "name": "Borja Bastón",
+    "attributeValue": "64.826"
+  },
+  {
+    "name": "K. Iheanacho",
+    "attributeValue": "69.000"
+  },
+  {
+    "name": "F. Niederlechner",
+    "attributeValue": "67.478"
+  },
+  {
+    "name": "Adama",
+    "attributeValue": "68.000"
+  },
+  {
+    "name": "L. Depoitre",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "C. Musonda",
+    "attributeValue": "65.348"
+  },
+  {
+    "name": "O. Niasse",
+    "attributeValue": "67.000"
+  },
+  {
+    "name": "A. Cornelius",
+    "attributeValue": "65.087"
+  },
+  {
+    "name": "C. Larin",
+    "attributeValue": "60.739"
+  },
+  {
+    "name": "A. Hurtado",
+    "attributeValue": "72.826"
+  },
+  {
+    "name": "V. Janssen",
+    "attributeValue": "65.391"
+  },
+  {
+    "name": "J. Hernández",
+    "attributeValue": "67.870"
+  },
+  {
+    "name": "Bobô",
+    "attributeValue": "68.391"
+  },
+  {
+    "name": "D. Ba",
+    "attributeValue": "70.609"
+  },
+  {
+    "name": "A. Silva",
+    "attributeValue": "72.043"
+  },
+  {
+    "name": "M. Cornet",
+    "attributeValue": "71.739"
+  },
+  {
+    "name": "O. Kharbin",
+    "attributeValue": "68.739"
+  },
+  {
+    "name": "Sergi Guardiola",
+    "attributeValue": "65.609"
+  },
+  {
+    "name": "A. Hamdallah",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "O. Watkins",
+    "attributeValue": "66.826"
+  },
+  {
+    "name": "G. Lezcano",
+    "attributeValue": "72.261"
+  },
+  {
+    "name": "Guerrero",
+    "attributeValue": "68.783"
+  },
+  {
+    "name": "K. Boutaïb",
+    "attributeValue": "63.652"
+  },
+  {
+    "name": "J. Vossen",
+    "attributeValue": "70.783"
+  },
+  {
+    "name": "A. Morelos",
+    "attributeValue": "67.478"
+  },
+  {
+    "name": "D. Sakho",
+    "attributeValue": "67.391"
+  },
+  {
+    "name": "M. Waris",
+    "attributeValue": "71.043"
+  },
+  {
+    "name": "T. Matavž",
+    "attributeValue": "64.348"
+  },
+  {
+    "name": "Daniel Candeias",
+    "attributeValue": "71.087"
+  },
+  {
+    "name": "D. Calvert-Lewin",
+    "attributeValue": "66.739"
+  },
+  {
+    "name": "Joselu",
+    "attributeValue": "66.870"
+  },
+  {
+    "name": "L. Griffiths",
+    "attributeValue": "72.000"
+  },
+  {
+    "name": "E. Crivelli",
+    "attributeValue": "65.261"
+  },
+  {
+    "name": "K. Roofe",
+    "attributeValue": "70.652"
+  },
+  {
+    "name": "C. Njie",
+    "attributeValue": "70.565"
+  },
+  {
+    "name": "B. Kuwas",
+    "attributeValue": "69.522"
+  },
+  {
+    "name": "L. Dimata",
+    "attributeValue": "66.000"
+  },
+  {
+    "name": "R. Quaison",
+    "attributeValue": "68.870"
+  },
+  {
+    "name": "N. Maupay",
+    "attributeValue": "68.652"
+  },
+  {
+    "name": "Fernandão",
+    "attributeValue": "61.609"
+  },
+  {
+    "name": "Suk Hyun Jun",
+    "attributeValue": "67.217"
+  },
+  {
+    "name": "J. Kembo-Ekoko",
+    "attributeValue": "70.652"
+  },
+  {
+    "name": "C. Pizarro",
+    "attributeValue": "68.043"
+  },
+  {
+    "name": "D. Kreilach",
+    "attributeValue": "70.696"
+  },
+  {
+    "name": "A. Ciciretti",
+    "attributeValue": "67.087"
+  },
+  {
+    "name": "A. Hassan",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "F. Mubele",
+    "attributeValue": "70.565"
+  },
+  {
+    "name": "R. Meggiorini",
+    "attributeValue": "69.087"
+  },
+  {
+    "name": "Hélton Celanova",
+    "attributeValue": "65.435"
+  },
+  {
+    "name": "Erick Gameira",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "Jadson Vidigal",
+    "attributeValue": "67.043"
+  },
+  {
+    "name": "O. Kayode",
+    "attributeValue": "69.087"
+  },
+  {
+    "name": "I. Nestorovski",
+    "attributeValue": "65.957"
+  },
+  {
+    "name": "L. Narsingh",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "H. Rodallega",
+    "attributeValue": "72.087"
+  },
+  {
+    "name": "M. Caraglio",
+    "attributeValue": "66.870"
+  },
+  {
+    "name": "F. Santander",
+    "attributeValue": "68.565"
+  },
+  {
+    "name": "C. Rius",
+    "attributeValue": "66.043"
+  },
+  {
+    "name": "A. Gyan",
+    "attributeValue": "69.130"
+  },
+  {
+    "name": "H. Seferović",
+    "attributeValue": "69.522"
+  },
+  {
+    "name": "K. Piątek",
+    "attributeValue": "62.739"
+  },
+  {
+    "name": "A. Jahović",
+    "attributeValue": "60.174"
+  },
+  {
+    "name": "I. Pussetto",
+    "attributeValue": "66.957"
+  },
+  {
+    "name": "A. Ajeti",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "A. Besedin",
+    "attributeValue": "59.391"
+  },
+  {
+    "name": "S. Kalu",
+    "attributeValue": "67.913"
+  },
+  {
+    "name": "T. Pukki",
+    "attributeValue": "65.870"
+  },
+  {
+    "name": "William",
+    "attributeValue": "68.783"
+  },
+  {
+    "name": "K. Konaté",
+    "attributeValue": "72.478"
+  },
+  {
+    "name": "R. Mora",
+    "attributeValue": "73.130"
+  },
+  {
+    "name": "L. Grabban",
+    "attributeValue": "66.348"
+  },
+  {
+    "name": "A. Pulido",
+    "attributeValue": "69.391"
+  },
+  {
+    "name": "Roger Guedes",
+    "attributeValue": "67.783"
+  },
+  {
+    "name": "M. Pucciarelli",
+    "attributeValue": "69.435"
+  },
+  {
+    "name": "S. Floccari",
+    "attributeValue": "66.435"
+  },
+  {
+    "name": "S. Okaka",
+    "attributeValue": "64.826"
+  },
+  {
+    "name": "J. Kodjia",
+    "attributeValue": "67.783"
+  },
+  {
+    "name": "K. Kamara",
+    "attributeValue": "69.783"
+  },
+  {
+    "name": "L. Fernández",
+    "attributeValue": "69.087"
+  },
+  {
+    "name": "A. Lozano",
+    "attributeValue": "66.783"
+  },
+  {
+    "name": "T. Abraham",
+    "attributeValue": "63.522"
+  },
+  {
+    "name": "M. Diop",
+    "attributeValue": "68.043"
+  },
+  {
+    "name": "F. Forestieri",
+    "attributeValue": "73.565"
+  },
+  {
+    "name": "O. Gladkyi",
+    "attributeValue": "65.913"
+  },
+  {
+    "name": "M. Ødegaard",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "F. Jara",
+    "attributeValue": "70.043"
+  },
+  {
+    "name": "M. Diouf",
+    "attributeValue": "70.217"
+  },
+  {
+    "name": "A. Cerci",
+    "attributeValue": "70.391"
+  },
+  {
+    "name": "A. Koné",
+    "attributeValue": "68.087"
+  },
+  {
+    "name": "M. Diagne",
+    "attributeValue": "57.957"
+  },
+  {
+    "name": "J. Fuenzalida",
+    "attributeValue": "70.826"
+  },
+  {
+    "name": "J. Biabiany",
+    "attributeValue": "68.870"
+  },
+  {
+    "name": "Camilo",
+    "attributeValue": "71.957"
+  },
+  {
+    "name": "Welthon",
+    "attributeValue": "71.957"
+  },
+  {
+    "name": "S. Araujo",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "E. Derdiyok",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "R. Nuzzolo",
+    "attributeValue": "70.348"
+  },
+  {
+    "name": "Léo Bonatini",
+    "attributeValue": "69.087"
+  },
+  {
+    "name": "B. Fernández",
+    "attributeValue": "71.130"
+  },
+  {
+    "name": "J. Lucero",
+    "attributeValue": "67.652"
+  },
+  {
+    "name": "Y. Seleznyov",
+    "attributeValue": "66.174"
+  },
+  {
+    "name": "Diego Oliveira",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "S. Armenteros",
+    "attributeValue": "67.435"
+  },
+  {
+    "name": "M. Ishak",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "S. Zoller",
+    "attributeValue": "67.609"
+  },
+  {
+    "name": "B. Assombalonga",
+    "attributeValue": "66.826"
+  },
+  {
+    "name": "Gerso",
+    "attributeValue": "66.130"
+  },
+  {
+    "name": "D. Ciofani",
+    "attributeValue": "58.087"
+  },
+  {
+    "name": "Diego Farías",
+    "attributeValue": "67.739"
+  },
+  {
+    "name": "M. Santos",
+    "attributeValue": "69.913"
+  },
+  {
+    "name": "M. Britos",
+    "attributeValue": "71.565"
+  },
+  {
+    "name": "Ivo Rodrigues",
+    "attributeValue": "70.304"
+  },
+  {
+    "name": "T. Minamino",
+    "attributeValue": "69.826"
+  },
+  {
+    "name": "Y. Sanogo",
+    "attributeValue": "63.609"
+  },
+  {
+    "name": "Orlando Sá",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "T. Ince",
+    "attributeValue": "66.522"
+  },
+  {
+    "name": "Élton",
+    "attributeValue": "69.522"
+  },
+  {
+    "name": "A. Ounas",
+    "attributeValue": "67.913"
+  },
+  {
+    "name": "F. Dionisi",
+    "attributeValue": "65.696"
+  },
+  {
+    "name": "H. Harbaoui",
+    "attributeValue": "64.217"
+  },
+  {
+    "name": "M. Rangel",
+    "attributeValue": "66.043"
+  },
+  {
+    "name": "D. Vera",
+    "attributeValue": "67.522"
+  },
+  {
+    "name": "R. Orsolini",
+    "attributeValue": "67.348"
+  },
+  {
+    "name": "G. Caprari",
+    "attributeValue": "67.391"
+  },
+  {
+    "name": "C. Akolo",
+    "attributeValue": "65.870"
+  },
+  {
+    "name": "A. Rodríguez",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "M. Gavranović",
+    "attributeValue": "67.609"
+  },
+  {
+    "name": "Gus Outomouro",
+    "attributeValue": "69.261"
+  },
+  {
+    "name": "I. Baldé",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "G. Hooper",
+    "attributeValue": "66.130"
+  },
+  {
+    "name": "R. Emond",
+    "attributeValue": "64.000"
+  },
+  {
+    "name": "Nélson Oliveira",
+    "attributeValue": "67.522"
+  },
+  {
+    "name": "Perdigão",
+    "attributeValue": "66.304"
+  },
+  {
+    "name": "G. Rivas",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "W. González",
+    "attributeValue": "63.522"
+  },
+  {
+    "name": "O. Edouard",
+    "attributeValue": "68.783"
+  },
+  {
+    "name": "Evandro Rochedo",
+    "attributeValue": "64.696"
+  },
+  {
+    "name": "Toni Villa",
+    "attributeValue": "64.261"
+  },
+  {
+    "name": "Ricardo",
+    "attributeValue": "68.957"
+  },
+  {
+    "name": "G. Pazzini",
+    "attributeValue": "65.826"
+  },
+  {
+    "name": "C. Santos",
+    "attributeValue": "69.957"
+  },
+  {
+    "name": "D. Alar",
+    "attributeValue": "69.609"
+  },
+  {
+    "name": "A. Donis",
+    "attributeValue": "66.522"
+  },
+  {
+    "name": "A. Ujah",
+    "attributeValue": "66.783"
+  },
+  {
+    "name": "A. Kravets",
+    "attributeValue": "62.304"
+  },
+  {
+    "name": "L. Ulloa",
+    "attributeValue": "65.174"
+  },
+  {
+    "name": "L. Janson",
+    "attributeValue": "66.783"
+  },
+  {
+    "name": "Thiago Santana",
+    "attributeValue": "65.000"
+  },
+  {
+    "name": "A. Özbiliz",
+    "attributeValue": "69.783"
+  },
+  {
+    "name": "M. Škoda",
+    "attributeValue": "64.609"
+  },
+  {
+    "name": "Frédéric Mendy",
+    "attributeValue": "65.522"
+  },
+  {
+    "name": "B. Wood",
+    "attributeValue": "69.304"
+  },
+  {
+    "name": "Serginho",
+    "attributeValue": "69.000"
+  },
+  {
+    "name": "M. Sau",
+    "attributeValue": "71.870"
+  },
+  {
+    "name": "J. Schieber",
+    "attributeValue": "65.217"
+  },
+  {
+    "name": "Amilton",
+    "attributeValue": "66.957"
+  },
+  {
+    "name": "Kim Seung Joon",
+    "attributeValue": "66.348"
+  },
+  {
+    "name": "B. Stancu",
+    "attributeValue": "70.217"
+  },
+  {
+    "name": "A. Peñaranda",
+    "attributeValue": "68.261"
+  },
+  {
+    "name": "P. Chavarría",
+    "attributeValue": "69.174"
+  },
+  {
+    "name": "M. Leye",
+    "attributeValue": "68.478"
+  },
+  {
+    "name": "K. Rezaei",
+    "attributeValue": "67.522"
+  },
+  {
+    "name": "A. Ramos",
+    "attributeValue": "69.000"
+  },
+  {
+    "name": "B. Reid",
+    "attributeValue": "70.870"
+  },
+  {
+    "name": "L. Hinterseer",
+    "attributeValue": "66.087"
+  },
+  {
+    "name": "M. Terrier",
+    "attributeValue": "67.826"
+  },
+  {
+    "name": "A. Rosina",
+    "attributeValue": "69.174"
+  },
+  {
+    "name": "S. Di Carmine",
+    "attributeValue": "64.522"
+  },
+  {
+    "name": "Edinho",
+    "attributeValue": "65.565"
+  },
+  {
+    "name": "F. Soldano",
+    "attributeValue": "63.087"
+  },
+  {
+    "name": "B. Sigurðarson",
+    "attributeValue": "70.522"
+  },
+  {
+    "name": "G. Zardes",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "J. Ménez",
+    "attributeValue": "68.609"
+  },
+  {
+    "name": "N. Karelis",
+    "attributeValue": "68.609"
+  },
+  {
+    "name": "J. Cuevas",
+    "attributeValue": "68.478"
+  },
+  {
+    "name": "J. Pohjanpalo",
+    "attributeValue": "64.043"
+  },
+  {
+    "name": "V. Ibarbo",
+    "attributeValue": "70.217"
+  },
+  {
+    "name": "F. Boulaya",
+    "attributeValue": "66.522"
+  },
+  {
+    "name": "Bruno Tabata",
+    "attributeValue": "67.783"
+  },
+  {
+    "name": "I. Mboyo",
+    "attributeValue": "68.783"
+  },
+  {
+    "name": "H. Diallo",
+    "attributeValue": "62.478"
+  },
+  {
+    "name": "P. Gerkens",
+    "attributeValue": "66.130"
+  },
+  {
+    "name": "Jon Bautista",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "A. Jóhannsson",
+    "attributeValue": "66.043"
+  },
+  {
+    "name": "A. Mendy",
+    "attributeValue": "63.000"
+  },
+  {
+    "name": "L. Jiménez",
+    "attributeValue": "69.043"
+  },
+  {
+    "name": "D. Kamada",
+    "attributeValue": "65.826"
+  },
+  {
+    "name": "N. Bendtner",
+    "attributeValue": "67.870"
+  },
+  {
+    "name": "M. Pérez",
+    "attributeValue": "69.739"
+  },
+  {
+    "name": "Lucas Piazon",
+    "attributeValue": "67.391"
+  },
+  {
+    "name": "M. Frey",
+    "attributeValue": "64.783"
+  },
+  {
+    "name": "Romarinho",
+    "attributeValue": "68.217"
+  },
+  {
+    "name": "B. Srarfi",
+    "attributeValue": "66.043"
+  },
+  {
+    "name": "T. Necid",
+    "attributeValue": "65.565"
+  },
+  {
+    "name": "Brandon Thomas",
+    "attributeValue": "68.391"
+  },
+  {
+    "name": "H. Wilson",
+    "attributeValue": "66.348"
+  },
+  {
+    "name": "A. González",
+    "attributeValue": "63.826"
+  },
+  {
+    "name": "Casadesús",
+    "attributeValue": "70.435"
+  },
+  {
+    "name": "D. Riascos",
+    "attributeValue": "68.043"
+  },
+  {
+    "name": "E. Ponce",
+    "attributeValue": "66.783"
+  },
+  {
+    "name": "Rômulo Calsede",
+    "attributeValue": "66.522"
+  },
+  {
+    "name": "C. Peralta",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "E. Berggreen",
+    "attributeValue": "62.130"
+  },
+  {
+    "name": "J. Bahebeck",
+    "attributeValue": "69.522"
+  },
+  {
+    "name": "P. Lasogga",
+    "attributeValue": "63.174"
+  },
+  {
+    "name": "J. Nsame",
+    "attributeValue": "60.087"
+  },
+  {
+    "name": "Rafael Leão",
+    "attributeValue": "67.000"
+  },
+  {
+    "name": "P. Crouch",
+    "attributeValue": "60.478"
+  },
+  {
+    "name": "A. Bouzat",
+    "attributeValue": "66.957"
+  },
+  {
+    "name": "L. Mothiba",
+    "attributeValue": "65.391"
+  },
+  {
+    "name": "Joselu",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "M. Kean",
+    "attributeValue": "63.522"
+  },
+  {
+    "name": "S. Pellissier",
+    "attributeValue": "63.739"
+  },
+  {
+    "name": "B. Afobe",
+    "attributeValue": "67.043"
+  },
+  {
+    "name": "C. Gytkjær",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "A. Cerri",
+    "attributeValue": "63.348"
+  },
+  {
+    "name": "R. Žulj",
+    "attributeValue": "67.087"
+  },
+  {
+    "name": "Hwang Hee Chan",
+    "attributeValue": "67.826"
+  },
+  {
+    "name": "S. Perica",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "A. Mena",
+    "attributeValue": "68.000"
+  },
+  {
+    "name": "I. Mbenza",
+    "attributeValue": "68.348"
+  },
+  {
+    "name": "M. Mahi",
+    "attributeValue": "70.043"
+  },
+  {
+    "name": "N. Mushekwi",
+    "attributeValue": "63.913"
+  },
+  {
+    "name": "B. Hrgota",
+    "attributeValue": "66.217"
+  },
+  {
+    "name": "D. Čop",
+    "attributeValue": "67.652"
+  },
+  {
+    "name": "M. Erdinç",
+    "attributeValue": "69.261"
+  },
+  {
+    "name": "Gao Lin",
+    "attributeValue": "68.739"
+  },
+  {
+    "name": "Simy",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "J. Correa",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "F. Ceravolo",
+    "attributeValue": "68.174"
+  },
+  {
+    "name": "R. Gutiérrez",
+    "attributeValue": "64.565"
+  },
+  {
+    "name": "Luís Leal",
+    "attributeValue": "68.696"
+  },
+  {
+    "name": "S. Sáez",
+    "attributeValue": "63.435"
+  },
+  {
+    "name": "Paulao Junqueiras",
+    "attributeValue": "57.652"
+  },
+  {
+    "name": "A. Henríquez",
+    "attributeValue": "65.870"
+  },
+  {
+    "name": "A. Matri",
+    "attributeValue": "65.043"
+  },
+  {
+    "name": "Nilsito Vilela",
+    "attributeValue": "66.043"
+  },
+  {
+    "name": "S. Longo",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "L. Höler",
+    "attributeValue": "64.000"
+  },
+  {
+    "name": "Zhang Xizhe",
+    "attributeValue": "66.304"
+  },
+  {
+    "name": "C. Obasi",
+    "attributeValue": "68.043"
+  },
+  {
+    "name": "R. Varga",
+    "attributeValue": "70.391"
+  },
+  {
+    "name": "Y. Bammou",
+    "attributeValue": "69.000"
+  },
+  {
+    "name": "G. Charbonnier",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "Rafael Lopes",
+    "attributeValue": "64.478"
+  },
+  {
+    "name": "Marcão",
+    "attributeValue": "60.696"
+  },
+  {
+    "name": "Santi da Bruma",
+    "attributeValue": "72.696"
+  },
+  {
+    "name": "R. Matos",
+    "attributeValue": "68.435"
+  },
+  {
+    "name": "Thiago Alminxa",
+    "attributeValue": "66.304"
+  },
+  {
+    "name": "S. Polter",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "K. Boyd",
+    "attributeValue": "64.304"
+  },
+  {
+    "name": "H. Martín",
+    "attributeValue": "68.565"
+  },
+  {
+    "name": "Cristian Lodeira",
+    "attributeValue": "65.739"
+  },
+  {
+    "name": "Walter Silvieiro",
+    "attributeValue": "66.609"
+  },
+  {
+    "name": "M. Waghorn",
+    "attributeValue": "69.174"
+  },
+  {
+    "name": "P. Rubio",
+    "attributeValue": "67.696"
+  },
+  {
+    "name": "C. Strandberg",
+    "attributeValue": "63.130"
+  },
+  {
+    "name": "Josué da Feira",
+    "attributeValue": "66.087"
+  },
+  {
+    "name": "M. Olunga",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "I. Kiese Thelin",
+    "attributeValue": "63.435"
+  },
+  {
+    "name": "Y. Ouattara",
+    "attributeValue": "68.957"
+  },
+  {
+    "name": "J. Tallo",
+    "attributeValue": "67.043"
+  },
+  {
+    "name": "D. Villalva",
+    "attributeValue": "68.652"
+  },
+  {
+    "name": "M. Ducksch",
+    "attributeValue": "65.087"
+  },
+  {
+    "name": "J. Tagueu",
+    "attributeValue": "62.783"
+  },
+  {
+    "name": "C. Falletti",
+    "attributeValue": "68.217"
+  },
+  {
+    "name": "C. Riaño",
+    "attributeValue": "66.435"
+  },
+  {
+    "name": "Álvaro",
+    "attributeValue": "67.870"
+  },
+  {
+    "name": "K. Lafferty",
+    "attributeValue": "69.217"
+  },
+  {
+    "name": "J. Hugill",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "M. Demir",
+    "attributeValue": "71.435"
+  },
+  {
+    "name": "D. Lezcano",
+    "attributeValue": "72.870"
+  },
+  {
+    "name": "W. Owusu",
+    "attributeValue": "66.130"
+  },
+  {
+    "name": "O. Rivero",
+    "attributeValue": "63.826"
+  },
+  {
+    "name": "O. Şişmanoğlu",
+    "attributeValue": "64.609"
+  },
+  {
+    "name": "A. Zaldívar",
+    "attributeValue": "66.783"
+  },
+  {
+    "name": "Nuno da Costa",
+    "attributeValue": "63.739"
+  },
+  {
+    "name": "B. Jeannot",
+    "attributeValue": "64.348"
+  },
+  {
+    "name": "R. Bobadilla",
+    "attributeValue": "70.870"
+  },
+  {
+    "name": "J. Cabot",
+    "attributeValue": "63.870"
+  },
+  {
+    "name": "S. Bahoken",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "M. Trotta",
+    "attributeValue": "65.478"
+  },
+  {
+    "name": "J. Savarino",
+    "attributeValue": "67.609"
+  },
+  {
+    "name": "Yeom Ki Hun",
+    "attributeValue": "70.739"
+  },
+  {
+    "name": "Rui Fonte",
+    "attributeValue": "68.087"
+  },
+  {
+    "name": "J. Russell",
+    "attributeValue": "70.826"
+  },
+  {
+    "name": "I. Ávila",
+    "attributeValue": "65.435"
+  },
+  {
+    "name": "K. Zohore",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "D. Dwyer",
+    "attributeValue": "68.174"
+  },
+  {
+    "name": "Gelson Dala",
+    "attributeValue": "68.174"
+  },
+  {
+    "name": "M. Cauteruccio",
+    "attributeValue": "68.261"
+  },
+  {
+    "name": "S. Downing",
+    "attributeValue": "67.870"
+  },
+  {
+    "name": "C. Menéndez",
+    "attributeValue": "64.565"
+  },
+  {
+    "name": "M. Pektemek",
+    "attributeValue": "69.913"
+  },
+  {
+    "name": "A. Kamara",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "L. Albertengo",
+    "attributeValue": "66.391"
+  },
+  {
+    "name": "M. Pavone",
+    "attributeValue": "66.696"
+  },
+  {
+    "name": "T. Goiginger",
+    "attributeValue": "66.478"
+  },
+  {
+    "name": "L. Siligardi",
+    "attributeValue": "67.261"
+  },
+  {
+    "name": "I. Bangoura",
+    "attributeValue": "65.217"
+  },
+  {
+    "name": "J. Garner",
+    "attributeValue": "67.957"
+  },
+  {
+    "name": "F. Macheda",
+    "attributeValue": "64.174"
+  },
+  {
+    "name": "A. Gogia",
+    "attributeValue": "67.739"
+  },
+  {
+    "name": "D. Nugent",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "A. Sagal",
+    "attributeValue": "65.391"
+  },
+  {
+    "name": "I. Sacko",
+    "attributeValue": "66.261"
+  },
+  {
+    "name": "Flavio Paixão",
+    "attributeValue": "67.913"
+  },
+  {
+    "name": "Hwang Ui Jo",
+    "attributeValue": "67.478"
+  },
+  {
+    "name": "G. Kvilitaia",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "R. Gestede",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "Lins",
+    "attributeValue": "66.217"
+  },
+  {
+    "name": "U. Bulut",
+    "attributeValue": "61.609"
+  },
+  {
+    "name": "P. Škuletić",
+    "attributeValue": "58.609"
+  },
+  {
+    "name": "J. Rhodes",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "G. Sunu",
+    "attributeValue": "67.435"
+  },
+  {
+    "name": "I. Tajouri-Shradi",
+    "attributeValue": "66.739"
+  },
+  {
+    "name": "S. Abdullahi",
+    "attributeValue": "62.130"
+  },
+  {
+    "name": "André Pereira",
+    "attributeValue": "60.826"
+  },
+  {
+    "name": "M. Coda",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "Cyriac",
+    "attributeValue": "68.696"
+  },
+  {
+    "name": "R. Yaremchuk",
+    "attributeValue": "66.783"
+  },
+  {
+    "name": "A. Galabinov",
+    "attributeValue": "62.043"
+  },
+  {
+    "name": "N. Ghilas",
+    "attributeValue": "65.565"
+  },
+  {
+    "name": "J. Perbet",
+    "attributeValue": "59.783"
+  },
+  {
+    "name": "R. Hassan",
+    "attributeValue": "67.391"
+  },
+  {
+    "name": "Heriberto Tavares",
+    "attributeValue": "67.391"
+  },
+  {
+    "name": "C. Jerome",
+    "attributeValue": "65.913"
+  },
+  {
+    "name": "U. Đerić",
+    "attributeValue": "60.304"
+  },
+  {
+    "name": "T. Kleindienst",
+    "attributeValue": "63.261"
+  },
+  {
+    "name": "Paulo Henrique",
+    "attributeValue": "68.304"
+  },
+  {
+    "name": "J. Quiñones",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "J. Duque",
+    "attributeValue": "63.826"
+  },
+  {
+    "name": "J. Marriott",
+    "attributeValue": "63.870"
+  },
+  {
+    "name": "Oriol Riera",
+    "attributeValue": "65.870"
+  },
+  {
+    "name": "M. Maolida",
+    "attributeValue": "63.870"
+  },
+  {
+    "name": "Ji Dong Won",
+    "attributeValue": "68.261"
+  },
+  {
+    "name": "D. Rotariu",
+    "attributeValue": "66.304"
+  },
+  {
+    "name": "Guillermo",
+    "attributeValue": "67.609"
+  },
+  {
+    "name": "J. Sambenito",
+    "attributeValue": "63.261"
+  },
+  {
+    "name": "M. Barragán",
+    "attributeValue": "67.870"
+  },
+  {
+    "name": "C. Wickham",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "D. Asprilla",
+    "attributeValue": "68.174"
+  },
+  {
+    "name": "Léo Gamalho",
+    "attributeValue": "59.261"
+  },
+  {
+    "name": "Xisco",
+    "attributeValue": "63.783"
+  },
+  {
+    "name": "R. Zozulya",
+    "attributeValue": "66.217"
+  },
+  {
+    "name": "B. Koita",
+    "attributeValue": "62.522"
+  },
+  {
+    "name": "K. Musona",
+    "attributeValue": "69.913"
+  },
+  {
+    "name": "Tiago",
+    "attributeValue": "69.261"
+  },
+  {
+    "name": "O. McBurnie",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "Chong Te Se",
+    "attributeValue": "67.739"
+  },
+  {
+    "name": "B. Angulo",
+    "attributeValue": "63.783"
+  },
+  {
+    "name": "F. Jensen",
+    "attributeValue": "66.696"
+  },
+  {
+    "name": "L. Clarke",
+    "attributeValue": "63.870"
+  },
+  {
+    "name": "S. Guirassy",
+    "attributeValue": "65.304"
+  },
+  {
+    "name": "Eltildo Bessa",
+    "attributeValue": "66.348"
+  },
+  {
+    "name": "N. Mendez-Laing",
+    "attributeValue": "64.478"
+  },
+  {
+    "name": "G. Gimbert",
+    "attributeValue": "66.043"
+  },
+  {
+    "name": "S. Aigner",
+    "attributeValue": "68.261"
+  },
+  {
+    "name": "P. Köpke",
+    "attributeValue": "66.826"
+  },
+  {
+    "name": "C. Nyman",
+    "attributeValue": "67.000"
+  },
+  {
+    "name": "O. Estupiñán",
+    "attributeValue": "63.391"
+  },
+  {
+    "name": "L. Vibe",
+    "attributeValue": "67.217"
+  },
+  {
+    "name": "Alejandro Rodríguez",
+    "attributeValue": "64.478"
+  },
+  {
+    "name": "R. Insigne",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "Túlio Sandoiro",
+    "attributeValue": "67.261"
+  },
+  {
+    "name": "P. Onuachu",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "B. Petković",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "Paulinho",
+    "attributeValue": "69.130"
+  },
+  {
+    "name": "S. Privat",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "F. Jozefzoon",
+    "attributeValue": "64.652"
+  },
+  {
+    "name": "R. Bajić",
+    "attributeValue": "60.652"
+  },
+  {
+    "name": "M. Le Bihan",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "A. Rentería",
+    "attributeValue": "68.478"
+  },
+  {
+    "name": "A. Leya Iseka",
+    "attributeValue": "67.913"
+  },
+  {
+    "name": "G. Litteri",
+    "attributeValue": "63.391"
+  },
+  {
+    "name": "Alex Alegría",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "J. Walters",
+    "attributeValue": "67.652"
+  },
+  {
+    "name": "P. Bamford",
+    "attributeValue": "65.826"
+  },
+  {
+    "name": "G. Molins",
+    "attributeValue": "65.913"
+  },
+  {
+    "name": "S. Andersson",
+    "attributeValue": "60.217"
+  },
+  {
+    "name": "Lisandro Semedo",
+    "attributeValue": "65.696"
+  },
+  {
+    "name": "A. Diomande",
+    "attributeValue": "65.348"
+  },
+  {
+    "name": "A. Niane",
+    "attributeValue": "64.000"
+  },
+  {
+    "name": "P. Ebert",
+    "attributeValue": "69.783"
+  },
+  {
+    "name": "S. Lammers",
+    "attributeValue": "64.217"
+  },
+  {
+    "name": "Ukra",
+    "attributeValue": "70.174"
+  },
+  {
+    "name": "Adriano",
+    "attributeValue": "64.696"
+  },
+  {
+    "name": "Manu Barreiro",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "S. Doukara",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "A. Søderlund",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "Alexandre Guedes",
+    "attributeValue": "62.304"
+  },
+  {
+    "name": "D. Lekić",
+    "attributeValue": "60.087"
+  },
+  {
+    "name": "T. Hemed",
+    "attributeValue": "63.696"
+  },
+  {
+    "name": "M. Rygaard",
+    "attributeValue": "67.652"
+  },
+  {
+    "name": "Cristian López",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "R. Beerens",
+    "attributeValue": "65.435"
+  },
+  {
+    "name": "B. Róchez",
+    "attributeValue": "62.870"
+  },
+  {
+    "name": "S. Maguire",
+    "attributeValue": "64.522"
+  },
+  {
+    "name": "J. Böðvarsson",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "A. Pešić",
+    "attributeValue": "64.870"
+  },
+  {
+    "name": "D. Solanke",
+    "attributeValue": "63.652"
+  },
+  {
+    "name": "Filipe Chaby",
+    "attributeValue": "64.652"
+  },
+  {
+    "name": "A. Canelo",
+    "attributeValue": "65.304"
+  },
+  {
+    "name": "J. Maclaren",
+    "attributeValue": "69.652"
+  },
+  {
+    "name": "V. Kadlec",
+    "attributeValue": "67.478"
+  },
+  {
+    "name": "B. Berisha",
+    "attributeValue": "65.348"
+  },
+  {
+    "name": "Nano",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "E. Falkenburg",
+    "attributeValue": "63.696"
+  },
+  {
+    "name": "J. Bokila",
+    "attributeValue": "62.652"
+  },
+  {
+    "name": "H. Nielsen",
+    "attributeValue": "64.087"
+  },
+  {
+    "name": "C. Ramirez",
+    "attributeValue": "61.826"
+  },
+  {
+    "name": "F. Platte",
+    "attributeValue": "60.826"
+  },
+  {
+    "name": "A. Dona Ndoh",
+    "attributeValue": "61.522"
+  },
+  {
+    "name": "M. Yattara",
+    "attributeValue": "63.783"
+  },
+  {
+    "name": "R. Nelson",
+    "attributeValue": "61.435"
+  },
+  {
+    "name": "Ortuño",
+    "attributeValue": "61.478"
+  },
+  {
+    "name": "F. González",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "L. Castaignos",
+    "attributeValue": "65.348"
+  },
+  {
+    "name": "D. Hoesen",
+    "attributeValue": "65.478"
+  },
+  {
+    "name": "R. Dwamena",
+    "attributeValue": "64.957"
+  },
+  {
+    "name": "D. Zuma",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "M. Pedersen",
+    "attributeValue": "66.609"
+  },
+  {
+    "name": "P. Helland",
+    "attributeValue": "67.348"
+  },
+  {
+    "name": "B. Aouacheria",
+    "attributeValue": "63.913"
+  },
+  {
+    "name": "L. Thy",
+    "attributeValue": "67.652"
+  },
+  {
+    "name": "R. Fernández",
+    "attributeValue": "64.783"
+  },
+  {
+    "name": "Rodrigo Pinho",
+    "attributeValue": "64.043"
+  },
+  {
+    "name": "C. Dessers",
+    "attributeValue": "62.870"
+  },
+  {
+    "name": "D. Blum",
+    "attributeValue": "65.391"
+  },
+  {
+    "name": "K. Coulibaly",
+    "attributeValue": "59.565"
+  },
+  {
+    "name": "M. Romero",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "D. Damjanović",
+    "attributeValue": "65.304"
+  },
+  {
+    "name": "W. Grigg",
+    "attributeValue": "63.478"
+  },
+  {
+    "name": "Javi Guerra",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "L. Benegas",
+    "attributeValue": "62.870"
+  },
+  {
+    "name": "S. Hogan",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "E. Koulouris",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "Raphael Paneira",
+    "attributeValue": "61.565"
+  },
+  {
+    "name": "C. Espinoza",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "T. Bunbury",
+    "attributeValue": "66.652"
+  },
+  {
+    "name": "L. Ajorque",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "L. Spalvis",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "Nenê",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "S. Çikalleshi",
+    "attributeValue": "60.739"
+  },
+  {
+    "name": "R. Ovelar",
+    "attributeValue": "63.522"
+  },
+  {
+    "name": "A. Mabil",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "N. Leguizamón",
+    "attributeValue": "62.522"
+  },
+  {
+    "name": "I. Saadi",
+    "attributeValue": "65.522"
+  },
+  {
+    "name": "Marc Cardona",
+    "attributeValue": "62.652"
+  },
+  {
+    "name": "R. Ramírez",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "Bruno Moreira",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "Y. Touzghar",
+    "attributeValue": "64.652"
+  },
+  {
+    "name": "Matheus Cunha",
+    "attributeValue": "66.130"
+  },
+  {
+    "name": "M. George",
+    "attributeValue": "64.261"
+  },
+  {
+    "name": "Nino",
+    "attributeValue": "65.087"
+  },
+  {
+    "name": "Y. Boli",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "Sevinho Santos",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "Derley",
+    "attributeValue": "66.696"
+  },
+  {
+    "name": "Gabriel Xavier",
+    "attributeValue": "62.522"
+  },
+  {
+    "name": "M. Manotas",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "Waguininho",
+    "attributeValue": "66.696"
+  },
+  {
+    "name": "J. Toledo",
+    "attributeValue": "62.304"
+  },
+  {
+    "name": "L. Boyce",
+    "attributeValue": "64.522"
+  },
+  {
+    "name": "R. Alioui",
+    "attributeValue": "63.870"
+  },
+  {
+    "name": "K. Kanatsızkuş",
+    "attributeValue": "63.217"
+  },
+  {
+    "name": "M. Duelund",
+    "attributeValue": "69.043"
+  },
+  {
+    "name": "M. Seuntjens",
+    "attributeValue": "68.478"
+  },
+  {
+    "name": "M. Budimir",
+    "attributeValue": "55.783"
+  },
+  {
+    "name": "S. Michel",
+    "attributeValue": "67.391"
+  },
+  {
+    "name": "E. Torres",
+    "attributeValue": "69.957"
+  },
+  {
+    "name": "S. Ubilla",
+    "attributeValue": "66.609"
+  },
+  {
+    "name": "I. Ezekiel",
+    "attributeValue": "69.087"
+  },
+  {
+    "name": "M. Larrondo",
+    "attributeValue": "62.609"
+  },
+  {
+    "name": "P. Cuadra",
+    "attributeValue": "64.043"
+  },
+  {
+    "name": "M. El Kabir",
+    "attributeValue": "68.739"
+  },
+  {
+    "name": "S. Khelifi",
+    "attributeValue": "62.913"
+  },
+  {
+    "name": "L. Mchedlidze",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "S. Fletcher",
+    "attributeValue": "63.130"
+  },
+  {
+    "name": "Jona",
+    "attributeValue": "64.304"
+  },
+  {
+    "name": "E. Hestad",
+    "attributeValue": "66.348"
+  },
+  {
+    "name": "M. Schäffler",
+    "attributeValue": "62.522"
+  },
+  {
+    "name": "P. Budkivskyi",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "L. Mousset",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "D. Stracqualursi",
+    "attributeValue": "58.130"
+  },
+  {
+    "name": "L. Castro",
+    "attributeValue": "63.000"
+  },
+  {
+    "name": "M. Diaby",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "N. Wells",
+    "attributeValue": "67.870"
+  },
+  {
+    "name": "K. Sigþórsson",
+    "attributeValue": "62.043"
+  },
+  {
+    "name": "M. Koné",
+    "attributeValue": "65.261"
+  },
+  {
+    "name": "D. Rodríguez",
+    "attributeValue": "65.870"
+  },
+  {
+    "name": "Z. Gano",
+    "attributeValue": "61.217"
+  },
+  {
+    "name": "Rafa Mir",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "M. Cerato",
+    "attributeValue": "64.217"
+  },
+  {
+    "name": "Platiny",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "M. Caballero",
+    "attributeValue": "63.348"
+  },
+  {
+    "name": "M. Ingvartsen",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "C. Wondolowski",
+    "attributeValue": "63.870"
+  },
+  {
+    "name": "H. Veerman",
+    "attributeValue": "57.217"
+  },
+  {
+    "name": "Hugo Vieira",
+    "attributeValue": "67.783"
+  },
+  {
+    "name": "N. Đurđić",
+    "attributeValue": "67.174"
+  },
+  {
+    "name": "M. van Buren",
+    "attributeValue": "65.087"
+  },
+  {
+    "name": "Y. Gomis",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "S. Winnall",
+    "attributeValue": "64.609"
+  },
+  {
+    "name": "G. Giakoumakis",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "T. Figueroa",
+    "attributeValue": "55.826"
+  },
+  {
+    "name": "A. Sørloth",
+    "attributeValue": "62.870"
+  },
+  {
+    "name": "M. Cassierra",
+    "attributeValue": "61.913"
+  },
+  {
+    "name": "J. Siebatcheu",
+    "attributeValue": "62.391"
+  },
+  {
+    "name": "Rodri",
+    "attributeValue": "67.696"
+  },
+  {
+    "name": "M. Pisano",
+    "attributeValue": "64.261"
+  },
+  {
+    "name": "D. Ndlovu",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "Y. Reyna",
+    "attributeValue": "67.957"
+  },
+  {
+    "name": "D. Kownacki",
+    "attributeValue": "63.652"
+  },
+  {
+    "name": "D. Böde",
+    "attributeValue": "64.957"
+  },
+  {
+    "name": "J. Morris",
+    "attributeValue": "67.261"
+  },
+  {
+    "name": "U. Đurđević",
+    "attributeValue": "63.783"
+  },
+  {
+    "name": "S. Allagui",
+    "attributeValue": "67.870"
+  },
+  {
+    "name": "O. Benítez",
+    "attributeValue": "66.913"
+  },
+  {
+    "name": "I. Sylla",
+    "attributeValue": "64.696"
+  },
+  {
+    "name": "S. Mugoša",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "O. Oularé",
+    "attributeValue": "59.130"
+  },
+  {
+    "name": "K. Erasmus",
+    "attributeValue": "66.174"
+  },
+  {
+    "name": "A. Isak",
+    "attributeValue": "60.652"
+  },
+  {
+    "name": "R. Munsy",
+    "attributeValue": "59.913"
+  },
+  {
+    "name": "Magno",
+    "attributeValue": "65.913"
+  },
+  {
+    "name": "D. Batallini",
+    "attributeValue": "62.478"
+  },
+  {
+    "name": "A. Jansen",
+    "attributeValue": "68.522"
+  },
+  {
+    "name": "A. Sobiech",
+    "attributeValue": "63.652"
+  },
+  {
+    "name": "N. Fernández",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "M. Murillo",
+    "attributeValue": "63.261"
+  },
+  {
+    "name": "D. Ward",
+    "attributeValue": "67.087"
+  },
+  {
+    "name": "M. Al Sahlawi",
+    "attributeValue": "66.304"
+  },
+  {
+    "name": "A. Vellios",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "S. Dursun",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "S. Tecl",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "F. Andrada",
+    "attributeValue": "66.435"
+  },
+  {
+    "name": "C. Benschop",
+    "attributeValue": "63.739"
+  },
+  {
+    "name": "M. O'Halloran",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "M. van Duinen",
+    "attributeValue": "65.522"
+  },
+  {
+    "name": "T. Bradshaw",
+    "attributeValue": "63.348"
+  },
+  {
+    "name": "L. Boussaha",
+    "attributeValue": "67.087"
+  },
+  {
+    "name": "J. Berget",
+    "attributeValue": "66.391"
+  },
+  {
+    "name": "R. Bezjak",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "Juan Muñoz",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "Linares",
+    "attributeValue": "64.087"
+  },
+  {
+    "name": "C. Stengs",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "J. Cabrera",
+    "attributeValue": "64.696"
+  },
+  {
+    "name": "Anderson Lopes",
+    "attributeValue": "66.000"
+  },
+  {
+    "name": "A. Trajkovski",
+    "attributeValue": "66.870"
+  },
+  {
+    "name": "Alex Geijo",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "J. Vaughan",
+    "attributeValue": "65.217"
+  },
+  {
+    "name": "B. Riascos",
+    "attributeValue": "62.870"
+  },
+  {
+    "name": "T. Jurić",
+    "attributeValue": "62.217"
+  },
+  {
+    "name": "David Rodríguez",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "Y. Toyokawa",
+    "attributeValue": "64.957"
+  },
+  {
+    "name": "P. Hamel",
+    "attributeValue": "58.130"
+  },
+  {
+    "name": "Toché",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "C. Luna",
+    "attributeValue": "66.087"
+  },
+  {
+    "name": "M. Bolados",
+    "attributeValue": "62.826"
+  },
+  {
+    "name": "W. Bruin",
+    "attributeValue": "63.609"
+  },
+  {
+    "name": "O. Darfalou",
+    "attributeValue": "62.696"
+  },
+  {
+    "name": "L. Blessing",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "A. Giannou",
+    "attributeValue": "59.739"
+  },
+  {
+    "name": "R. Gíslason",
+    "attributeValue": "67.043"
+  },
+  {
+    "name": "A. Šporar",
+    "attributeValue": "65.957"
+  },
+  {
+    "name": "J. Arp",
+    "attributeValue": "58.609"
+  },
+  {
+    "name": "J. Ardaiz",
+    "attributeValue": "64.304"
+  },
+  {
+    "name": "L. Moult",
+    "attributeValue": "64.087"
+  },
+  {
+    "name": "I. Cardona",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "E. Triverio",
+    "attributeValue": "62.174"
+  },
+  {
+    "name": "Wellington",
+    "attributeValue": "62.783"
+  },
+  {
+    "name": "F. Campbell",
+    "attributeValue": "66.087"
+  },
+  {
+    "name": "M. Yatabaré",
+    "attributeValue": "64.609"
+  },
+  {
+    "name": "G. Puşcaş",
+    "attributeValue": "61.913"
+  },
+  {
+    "name": "V. Marcel",
+    "attributeValue": "64.130"
+  },
+  {
+    "name": "P. Sané",
+    "attributeValue": "61.000"
+  },
+  {
+    "name": "M. Havenaar",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "K. Kodro",
+    "attributeValue": "62.043"
+  },
+  {
+    "name": "Crislan",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "H. Yamada",
+    "attributeValue": "66.870"
+  },
+  {
+    "name": "E. Rivière",
+    "attributeValue": "64.870"
+  },
+  {
+    "name": "B. Montenegro",
+    "attributeValue": "63.739"
+  },
+  {
+    "name": "G. Madine",
+    "attributeValue": "61.217"
+  },
+  {
+    "name": "J. Medina",
+    "attributeValue": "65.522"
+  },
+  {
+    "name": "R. Lenis",
+    "attributeValue": "63.652"
+  },
+  {
+    "name": "C. Muñoz",
+    "attributeValue": "66.217"
+  },
+  {
+    "name": "J. Pérez",
+    "attributeValue": "68.565"
+  },
+  {
+    "name": "A. Ramos",
+    "attributeValue": "64.261"
+  },
+  {
+    "name": "D. Texeira",
+    "attributeValue": "64.130"
+  },
+  {
+    "name": "I. Anya",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "P. Hoban",
+    "attributeValue": "63.391"
+  },
+  {
+    "name": "C. Arango",
+    "attributeValue": "64.609"
+  },
+  {
+    "name": "Y. Movsisyan",
+    "attributeValue": "63.783"
+  },
+  {
+    "name": "Puado",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "D. Moberg Karlsson",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "E. Rescaldani",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "M. Janko",
+    "attributeValue": "58.217"
+  },
+  {
+    "name": "S. Gallagher",
+    "attributeValue": "62.826"
+  },
+  {
+    "name": "O. Hamzaoui",
+    "attributeValue": "66.783"
+  },
+  {
+    "name": "P. Hosiner",
+    "attributeValue": "64.000"
+  },
+  {
+    "name": "L. James",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "D. Camara",
+    "attributeValue": "63.391"
+  },
+  {
+    "name": "D. Álvarez",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "K. Miller",
+    "attributeValue": "67.391"
+  },
+  {
+    "name": "J. Niezgoda",
+    "attributeValue": "60.739"
+  },
+  {
+    "name": "A. Sadiku",
+    "attributeValue": "59.522"
+  },
+  {
+    "name": "Witi",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "T. Jibril",
+    "attributeValue": "58.522"
+  },
+  {
+    "name": "A. Favilli",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "D. Rubio",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "A. Keogh",
+    "attributeValue": "67.130"
+  },
+  {
+    "name": "Y. Okubo",
+    "attributeValue": "64.130"
+  },
+  {
+    "name": "F. Bordagaray",
+    "attributeValue": "65.783"
+  },
+  {
+    "name": "C. Akpom",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "Jung Jo Gook",
+    "attributeValue": "62.652"
+  },
+  {
+    "name": "G. Kyei",
+    "attributeValue": "62.217"
+  },
+  {
+    "name": "D. Oberlin",
+    "attributeValue": "65.826"
+  },
+  {
+    "name": "G. Courtet",
+    "attributeValue": "65.870"
+  },
+  {
+    "name": "A. Guðmundsson",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "J. Lowe",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "F. Gulbrandsen",
+    "attributeValue": "67.652"
+  },
+  {
+    "name": "M. Vilhjálmsson",
+    "attributeValue": "63.435"
+  },
+  {
+    "name": "D. Llanos",
+    "attributeValue": "64.652"
+  },
+  {
+    "name": "G. Monachello",
+    "attributeValue": "59.261"
+  },
+  {
+    "name": "Y. Njie",
+    "attributeValue": "62.000"
+  },
+  {
+    "name": "C. Guanca",
+    "attributeValue": "63.435"
+  },
+  {
+    "name": "D. Diamantakos",
+    "attributeValue": "67.043"
+  },
+  {
+    "name": "J. Ramis",
+    "attributeValue": "64.000"
+  },
+  {
+    "name": "P. Forsell",
+    "attributeValue": "64.957"
+  },
+  {
+    "name": "G. Arabidze",
+    "attributeValue": "64.043"
+  },
+  {
+    "name": "J. Verhoek",
+    "attributeValue": "63.000"
+  },
+  {
+    "name": "M. Hartmann",
+    "attributeValue": "66.478"
+  },
+  {
+    "name": "Jonathan Pereira",
+    "attributeValue": "64.565"
+  },
+  {
+    "name": "P. Calandria",
+    "attributeValue": "60.783"
+  },
+  {
+    "name": "N. Giannetti",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "L. Melano",
+    "attributeValue": "66.435"
+  },
+  {
+    "name": "N. Reniero",
+    "attributeValue": "62.478"
+  },
+  {
+    "name": "L. Singh",
+    "attributeValue": "64.783"
+  },
+  {
+    "name": "I. Jebali",
+    "attributeValue": "64.043"
+  },
+  {
+    "name": "S. Villa",
+    "attributeValue": "58.826"
+  },
+  {
+    "name": "F. Espíndola",
+    "attributeValue": "69.174"
+  },
+  {
+    "name": "I. Ganago",
+    "attributeValue": "61.000"
+  },
+  {
+    "name": "Tomané",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "B. Pitman",
+    "attributeValue": "64.174"
+  },
+  {
+    "name": "K. Kawamata",
+    "attributeValue": "59.913"
+  },
+  {
+    "name": "D. Vente",
+    "attributeValue": "61.478"
+  },
+  {
+    "name": "R. Živković",
+    "attributeValue": "64.609"
+  },
+  {
+    "name": "Arsénio",
+    "attributeValue": "64.783"
+  },
+  {
+    "name": "L. Tawamba",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "S. Ganvoula",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "C. Núñez",
+    "attributeValue": "65.522"
+  },
+  {
+    "name": "A. Vuletich",
+    "attributeValue": "62.217"
+  },
+  {
+    "name": "G. Stewart",
+    "attributeValue": "63.739"
+  },
+  {
+    "name": "C. Teuchert",
+    "attributeValue": "62.478"
+  },
+  {
+    "name": "Villalibre",
+    "attributeValue": "62.609"
+  },
+  {
+    "name": "Gabrielzinho",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "M. Tchokounté",
+    "attributeValue": "59.696"
+  },
+  {
+    "name": "A. Zreľák",
+    "attributeValue": "60.478"
+  },
+  {
+    "name": "D. Graham",
+    "attributeValue": "61.957"
+  },
+  {
+    "name": "A. Aosman",
+    "attributeValue": "66.304"
+  },
+  {
+    "name": "Sergi Canós",
+    "attributeValue": "63.783"
+  },
+  {
+    "name": "P. Hofmann",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "K. Sierhuis",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "A. Escoto",
+    "attributeValue": "60.783"
+  },
+  {
+    "name": "Lee Keun Ho",
+    "attributeValue": "64.130"
+  },
+  {
+    "name": "G. Abán",
+    "attributeValue": "62.870"
+  },
+  {
+    "name": "D. Lemos",
+    "attributeValue": "61.000"
+  },
+  {
+    "name": "A. Turgeman",
+    "attributeValue": "58.174"
+  },
+  {
+    "name": "V. Černý",
+    "attributeValue": "61.391"
+  },
+  {
+    "name": "C. Baird",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "M. Asiri",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "R. Becerra",
+    "attributeValue": "55.087"
+  },
+  {
+    "name": "S. Baldock",
+    "attributeValue": "64.957"
+  },
+  {
+    "name": "D. Valdés",
+    "attributeValue": "61.217"
+  },
+  {
+    "name": "Song Seung Min",
+    "attributeValue": "65.130"
+  },
+  {
+    "name": "Macedo",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "D. Mattocks",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "J. Arias",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "J. Croux",
+    "attributeValue": "65.478"
+  },
+  {
+    "name": "K. Fortuné",
+    "attributeValue": "63.217"
+  },
+  {
+    "name": "M. te Vrede",
+    "attributeValue": "56.652"
+  },
+  {
+    "name": "Ha Tae Goon",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "D. Valoyes",
+    "attributeValue": "64.783"
+  },
+  {
+    "name": "Jonaldo Santoso",
+    "attributeValue": "58.913"
+  },
+  {
+    "name": "A. Montalto",
+    "attributeValue": "60.913"
+  },
+  {
+    "name": "M. Bueno",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "T. Nguen",
+    "attributeValue": "63.913"
+  },
+  {
+    "name": "U. Bech",
+    "attributeValue": "64.478"
+  },
+  {
+    "name": "S. Kutschke",
+    "attributeValue": "56.739"
+  },
+  {
+    "name": "K. Holmberg",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "L. Ruiz",
+    "attributeValue": "60.000"
+  },
+  {
+    "name": "M. Taylor",
+    "attributeValue": "65.304"
+  },
+  {
+    "name": "D. Murphy",
+    "attributeValue": "61.522"
+  },
+  {
+    "name": "T. Awoniyi",
+    "attributeValue": "62.217"
+  },
+  {
+    "name": "B. Brereton",
+    "attributeValue": "64.870"
+  },
+  {
+    "name": "A. Nuhiu",
+    "attributeValue": "59.913"
+  },
+  {
+    "name": "André Luís",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "M. Djuricin",
+    "attributeValue": "64.478"
+  },
+  {
+    "name": "Nando",
+    "attributeValue": "63.087"
+  },
+  {
+    "name": "Lee Jeong Hyeop",
+    "attributeValue": "60.522"
+  },
+  {
+    "name": "B. Diawara",
+    "attributeValue": "64.174"
+  },
+  {
+    "name": "Eduardo da Silva",
+    "attributeValue": "64.565"
+  },
+  {
+    "name": "D. Hylton",
+    "attributeValue": "65.696"
+  },
+  {
+    "name": "B. Girth",
+    "attributeValue": "58.609"
+  },
+  {
+    "name": "S. Makienok",
+    "attributeValue": "57.739"
+  },
+  {
+    "name": "Juanma",
+    "attributeValue": "56.870"
+  },
+  {
+    "name": "D. Pollet",
+    "attributeValue": "59.348"
+  },
+  {
+    "name": "Y. Yeboah",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "Carrillo",
+    "attributeValue": "60.304"
+  },
+  {
+    "name": "C. Spinelli",
+    "attributeValue": "56.435"
+  },
+  {
+    "name": "D. Jiménez",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "Nam Joon Jae",
+    "attributeValue": "63.826"
+  },
+  {
+    "name": "Lee Dong Gook",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "Adão Salvadaldo",
+    "attributeValue": "63.087"
+  },
+  {
+    "name": "A. Nabbout",
+    "attributeValue": "64.217"
+  },
+  {
+    "name": "N. Mazzola",
+    "attributeValue": "58.304"
+  },
+  {
+    "name": "R. Sukuta-Pasu",
+    "attributeValue": "63.174"
+  },
+  {
+    "name": "D. Vallejos",
+    "attributeValue": "65.435"
+  },
+  {
+    "name": "K. Németh",
+    "attributeValue": "65.609"
+  },
+  {
+    "name": "D. Calderón Caicedo",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "S. Camara",
+    "attributeValue": "64.783"
+  },
+  {
+    "name": "D. Manos",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "G. Barnes",
+    "attributeValue": "67.261"
+  },
+  {
+    "name": "D. Jovanovic",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "L. Kehinde",
+    "attributeValue": "61.435"
+  },
+  {
+    "name": "J. Cifuente",
+    "attributeValue": "59.000"
+  },
+  {
+    "name": "Mama Baldé",
+    "attributeValue": "64.957"
+  },
+  {
+    "name": "S. Parker",
+    "attributeValue": "64.348"
+  },
+  {
+    "name": "N. Maturana",
+    "attributeValue": "62.565"
+  },
+  {
+    "name": "D. Etienne Jr.",
+    "attributeValue": "63.913"
+  },
+  {
+    "name": "Vinícius",
+    "attributeValue": "58.565"
+  },
+  {
+    "name": "M. Ureña",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "I. Díaz",
+    "attributeValue": "63.739"
+  },
+  {
+    "name": "E. Knudtzon",
+    "attributeValue": "65.739"
+  },
+  {
+    "name": "Han Kwang Song",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "Arthur Silbeira",
+    "attributeValue": "62.565"
+  },
+  {
+    "name": "Héctor",
+    "attributeValue": "60.478"
+  },
+  {
+    "name": "D. Badji",
+    "attributeValue": "61.565"
+  },
+  {
+    "name": "G. Ghazaryan",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "P. Eze",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "Enzio Julião",
+    "attributeValue": "62.261"
+  },
+  {
+    "name": "R. Peña",
+    "attributeValue": "58.609"
+  },
+  {
+    "name": "F. Sotoca",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "H. Robson-Kanu",
+    "attributeValue": "64.478"
+  },
+  {
+    "name": "M. Emnes",
+    "attributeValue": "65.130"
+  },
+  {
+    "name": "A. Mulenga",
+    "attributeValue": "62.174"
+  },
+  {
+    "name": "A. Jeremejeff",
+    "attributeValue": "56.565"
+  },
+  {
+    "name": "J. Huentelaf",
+    "attributeValue": "63.870"
+  },
+  {
+    "name": "G. Koomson",
+    "attributeValue": "64.870"
+  },
+  {
+    "name": "J. Akpala",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "M. Fall",
+    "attributeValue": "65.348"
+  },
+  {
+    "name": "C. Martin",
+    "attributeValue": "63.826"
+  },
+  {
+    "name": "H. Osorio",
+    "attributeValue": "61.391"
+  },
+  {
+    "name": "F. Friday",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "J. David",
+    "attributeValue": "58.478"
+  },
+  {
+    "name": "V. Dávila",
+    "attributeValue": "63.348"
+  },
+  {
+    "name": "Roberson",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "Dalmau",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "A. Taggart",
+    "attributeValue": "63.348"
+  },
+  {
+    "name": "A. Novakovich",
+    "attributeValue": "58.261"
+  },
+  {
+    "name": "N. Pedersen",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "O. Osawe",
+    "attributeValue": "61.261"
+  },
+  {
+    "name": "A. Brighenti",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "A. Grimaldi",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "F. Falcone",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "J. Magennis",
+    "attributeValue": "63.217"
+  },
+  {
+    "name": "M. Barrow",
+    "attributeValue": "58.913"
+  },
+  {
+    "name": "L. Hallenius",
+    "attributeValue": "62.000"
+  },
+  {
+    "name": "U. Ikpeazu",
+    "attributeValue": "60.739"
+  },
+  {
+    "name": "E. Herrera",
+    "attributeValue": "61.652"
+  },
+  {
+    "name": "Zequinha",
+    "attributeValue": "66.478"
+  },
+  {
+    "name": "U. Sadiq",
+    "attributeValue": "58.565"
+  },
+  {
+    "name": "Everaldo",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "T. Roberts",
+    "attributeValue": "63.348"
+  },
+  {
+    "name": "Nixon",
+    "attributeValue": "63.870"
+  },
+  {
+    "name": "A. Pilkington",
+    "attributeValue": "67.609"
+  },
+  {
+    "name": "S. Kaba",
+    "attributeValue": "60.870"
+  },
+  {
+    "name": "P. Mlapa",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "S. Mraz",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "S. Schipplock",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "Álvaro",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "S. Skrabb",
+    "attributeValue": "66.043"
+  },
+  {
+    "name": "V. Muriqi",
+    "attributeValue": "56.652"
+  },
+  {
+    "name": "Y. Merdji",
+    "attributeValue": "65.174"
+  },
+  {
+    "name": "J. Matoušek",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "Licá",
+    "attributeValue": "66.609"
+  },
+  {
+    "name": "Q. Antipas",
+    "attributeValue": "68.435"
+  },
+  {
+    "name": "T. Pekhart",
+    "attributeValue": "56.783"
+  },
+  {
+    "name": "F. Raspentino",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "W. Kanga",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "G. Páez",
+    "attributeValue": "61.522"
+  },
+  {
+    "name": "S. Johnson",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "Edgar",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "M. Smith",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "E. Håland",
+    "attributeValue": "63.261"
+  },
+  {
+    "name": "K. Friesenbichler",
+    "attributeValue": "57.739"
+  },
+  {
+    "name": "G. Vargas",
+    "attributeValue": "59.913"
+  },
+  {
+    "name": "R. Glatzel",
+    "attributeValue": "56.261"
+  },
+  {
+    "name": "N. Dicko",
+    "attributeValue": "66.391"
+  },
+  {
+    "name": "K. Przybyłko",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "Mario Barco",
+    "attributeValue": "59.565"
+  },
+  {
+    "name": "O. Duarte",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "M. Turay",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "C. Bedia",
+    "attributeValue": "60.304"
+  },
+  {
+    "name": "Y. Meité",
+    "attributeValue": "62.174"
+  },
+  {
+    "name": "S. van der Water",
+    "attributeValue": "62.565"
+  },
+  {
+    "name": "M. Zúñiga",
+    "attributeValue": "62.043"
+  },
+  {
+    "name": "E. Kujović",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "Wellington",
+    "attributeValue": "58.826"
+  },
+  {
+    "name": "A. Stephens",
+    "attributeValue": "57.391"
+  },
+  {
+    "name": "C. Evans",
+    "attributeValue": "63.174"
+  },
+  {
+    "name": "Guruzeta",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "José Kanté",
+    "attributeValue": "63.391"
+  },
+  {
+    "name": "B. Koïta",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "A. Saroka",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "S. Ojo",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "Ramon Lopes",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "Y. Tafer",
+    "attributeValue": "64.174"
+  },
+  {
+    "name": "A. Koura",
+    "attributeValue": "62.783"
+  },
+  {
+    "name": "M. Campos",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "P. Pellegri",
+    "attributeValue": "57.217"
+  },
+  {
+    "name": "F. Andriatsima",
+    "attributeValue": "62.130"
+  },
+  {
+    "name": "E. Soriano",
+    "attributeValue": "63.522"
+  },
+  {
+    "name": "D. Mendoza",
+    "attributeValue": "59.652"
+  },
+  {
+    "name": "F. Amuzu",
+    "attributeValue": "64.087"
+  },
+  {
+    "name": "V. Lundberg",
+    "attributeValue": "65.130"
+  },
+  {
+    "name": "M. Álvarez",
+    "attributeValue": "66.913"
+  },
+  {
+    "name": "S. May",
+    "attributeValue": "64.652"
+  },
+  {
+    "name": "Paulo Henrique",
+    "attributeValue": "61.043"
+  },
+  {
+    "name": "A. Seydel",
+    "attributeValue": "57.913"
+  },
+  {
+    "name": "E. Grezda",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "L. Rosseti",
+    "attributeValue": "63.565"
+  },
+  {
+    "name": "J. Sims",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "Asdrúbal",
+    "attributeValue": "67.696"
+  },
+  {
+    "name": "Clemente",
+    "attributeValue": "59.174"
+  },
+  {
+    "name": "L. Silva",
+    "attributeValue": "65.957"
+  },
+  {
+    "name": "J. Cummings",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "S. Pettinari",
+    "attributeValue": "65.304"
+  },
+  {
+    "name": "B. Edomwonyi",
+    "attributeValue": "62.217"
+  },
+  {
+    "name": "J. Tinhan",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "S. Becker",
+    "attributeValue": "64.696"
+  },
+  {
+    "name": "H. Sato",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "J. Nietfeld",
+    "attributeValue": "57.739"
+  },
+  {
+    "name": "M. Donoso",
+    "attributeValue": "57.174"
+  },
+  {
+    "name": "Z. Dedič",
+    "attributeValue": "66.130"
+  },
+  {
+    "name": "R. Acquafresca",
+    "attributeValue": "60.783"
+  },
+  {
+    "name": "R. Vasilev",
+    "attributeValue": "56.522"
+  },
+  {
+    "name": "M. Bravo",
+    "attributeValue": "66.478"
+  },
+  {
+    "name": "C. Burke",
+    "attributeValue": "57.522"
+  },
+  {
+    "name": "S. Edera",
+    "attributeValue": "61.043"
+  },
+  {
+    "name": "G. Hupperts",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "J. Valencia",
+    "attributeValue": "59.652"
+  },
+  {
+    "name": "O. Sow",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "T. Boyd",
+    "attributeValue": "57.957"
+  },
+  {
+    "name": "F. Ayé",
+    "attributeValue": "59.652"
+  },
+  {
+    "name": "M. Đurić",
+    "attributeValue": "58.391"
+  },
+  {
+    "name": "N. Stefanelli",
+    "attributeValue": "66.783"
+  },
+  {
+    "name": "R. Zhemaletdinov",
+    "attributeValue": "62.304"
+  },
+  {
+    "name": "D. De Belder",
+    "attributeValue": "64.348"
+  },
+  {
+    "name": "C. Chiricò",
+    "attributeValue": "64.783"
+  },
+  {
+    "name": "D. Keita-Ruel",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "C. Arias",
+    "attributeValue": "63.739"
+  },
+  {
+    "name": "J. Hopcutt",
+    "attributeValue": "61.826"
+  },
+  {
+    "name": "A. Rossi",
+    "attributeValue": "59.130"
+  },
+  {
+    "name": "João Carlos",
+    "attributeValue": "58.609"
+  },
+  {
+    "name": "K. Nagai",
+    "attributeValue": "66.957"
+  },
+  {
+    "name": "F. Micolta",
+    "attributeValue": "61.478"
+  },
+  {
+    "name": "C. Donaldson",
+    "attributeValue": "59.783"
+  },
+  {
+    "name": "M. El Hamdaoui",
+    "attributeValue": "62.217"
+  },
+  {
+    "name": "R. Buess",
+    "attributeValue": "65.478"
+  },
+  {
+    "name": "F. Kamberi",
+    "attributeValue": "60.783"
+  },
+  {
+    "name": "L. Nomenjanahary",
+    "attributeValue": "62.130"
+  },
+  {
+    "name": "Castro",
+    "attributeValue": "64.565"
+  },
+  {
+    "name": "F. Troyansky",
+    "attributeValue": "62.652"
+  },
+  {
+    "name": "Lu Wenjun",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "K. Agard",
+    "attributeValue": "65.000"
+  },
+  {
+    "name": "Borja Viguera",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "A. Ngamukol",
+    "attributeValue": "62.043"
+  },
+  {
+    "name": "D. Sorgić",
+    "attributeValue": "61.826"
+  },
+  {
+    "name": "B. Djiby Fall",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "H. Shala",
+    "attributeValue": "62.783"
+  },
+  {
+    "name": "A. Gouiri",
+    "attributeValue": "60.261"
+  },
+  {
+    "name": "G. Ţucudean",
+    "attributeValue": "61.739"
+  },
+  {
+    "name": "J. Ward",
+    "attributeValue": "68.130"
+  },
+  {
+    "name": "S. Jovanović",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "F. Orlando",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "A. Zapata",
+    "attributeValue": "62.783"
+  },
+  {
+    "name": "M. Smith",
+    "attributeValue": "58.565"
+  },
+  {
+    "name": "S. Lex",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "S. Guri",
+    "attributeValue": "62.304"
+  },
+  {
+    "name": "M. McNulty",
+    "attributeValue": "63.783"
+  },
+  {
+    "name": "L. Heredia",
+    "attributeValue": "63.174"
+  },
+  {
+    "name": "T. Elliott",
+    "attributeValue": "60.565"
+  },
+  {
+    "name": "S. Ganz",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "A. El Kaabi",
+    "attributeValue": "56.174"
+  },
+  {
+    "name": "S. Benyamina",
+    "attributeValue": "60.087"
+  },
+  {
+    "name": "E. Assifuah",
+    "attributeValue": "65.087"
+  },
+  {
+    "name": "S. Córdova",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "J. Larsson",
+    "attributeValue": "66.348"
+  },
+  {
+    "name": "Fernando Andrade",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "M. Starke",
+    "attributeValue": "66.217"
+  },
+  {
+    "name": "J. Wilson",
+    "attributeValue": "62.174"
+  },
+  {
+    "name": "Gustavo Pastinho",
+    "attributeValue": "63.435"
+  },
+  {
+    "name": "R. Manaj",
+    "attributeValue": "59.348"
+  },
+  {
+    "name": "Abel Ruiz",
+    "attributeValue": "59.261"
+  },
+  {
+    "name": "P. Zinckernagel",
+    "attributeValue": "62.609"
+  },
+  {
+    "name": "R. Rubin",
+    "attributeValue": "63.913"
+  },
+  {
+    "name": "C. Colmán",
+    "attributeValue": "61.391"
+  },
+  {
+    "name": "J. Shonga",
+    "attributeValue": "61.130"
+  },
+  {
+    "name": "P. Eler",
+    "attributeValue": "61.043"
+  },
+  {
+    "name": "M. Pušić",
+    "attributeValue": "66.130"
+  },
+  {
+    "name": "P. Caballero",
+    "attributeValue": "56.522"
+  },
+  {
+    "name": "S. Jaime",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "D. Nazarov",
+    "attributeValue": "66.652"
+  },
+  {
+    "name": "J. Eggestein",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "Xande Silva",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "Claudio Silbeiro",
+    "attributeValue": "62.174"
+  },
+  {
+    "name": "Venanzio Meirás",
+    "attributeValue": "62.391"
+  },
+  {
+    "name": "João Pedro",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "O. Mihálik",
+    "attributeValue": "61.391"
+  },
+  {
+    "name": "Dani Romera",
+    "attributeValue": "64.565"
+  },
+  {
+    "name": "C. Acuña",
+    "attributeValue": "67.696"
+  },
+  {
+    "name": "N. Julan",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "G. Herrera",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "S. Nagasawa",
+    "attributeValue": "53.652"
+  },
+  {
+    "name": "Zhang Yuning",
+    "attributeValue": "61.217"
+  },
+  {
+    "name": "I. Niane",
+    "attributeValue": "59.913"
+  },
+  {
+    "name": "Iñigo Muñoz",
+    "attributeValue": "60.087"
+  },
+  {
+    "name": "A. Oumarou",
+    "attributeValue": "63.783"
+  },
+  {
+    "name": "C. Wyke",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "P. Mullins",
+    "attributeValue": "58.783"
+  },
+  {
+    "name": "Zé Turbo",
+    "attributeValue": "58.957"
+  },
+  {
+    "name": "S. Ngom",
+    "attributeValue": "60.826"
+  },
+  {
+    "name": "Adaílton",
+    "attributeValue": "66.304"
+  },
+  {
+    "name": "K. Miyoshi",
+    "attributeValue": "64.609"
+  },
+  {
+    "name": "J. Opoku",
+    "attributeValue": "63.217"
+  },
+  {
+    "name": "G. Gotti",
+    "attributeValue": "58.391"
+  },
+  {
+    "name": "V. Rennella",
+    "attributeValue": "64.130"
+  },
+  {
+    "name": "I. Vetokele",
+    "attributeValue": "65.957"
+  },
+  {
+    "name": "A. Fletcher",
+    "attributeValue": "58.000"
+  },
+  {
+    "name": "Cesinha",
+    "attributeValue": "59.696"
+  },
+  {
+    "name": "J. Cádiz",
+    "attributeValue": "56.130"
+  },
+  {
+    "name": "L. Kozák",
+    "attributeValue": "57.957"
+  },
+  {
+    "name": "B. Romero",
+    "attributeValue": "61.217"
+  },
+  {
+    "name": "M. Mouandilmadji",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "D. Bamba",
+    "attributeValue": "63.261"
+  },
+  {
+    "name": "A. Blondell",
+    "attributeValue": "62.130"
+  },
+  {
+    "name": "Jairo Morillas",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "Z. Ondrášek",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "J. Vargas",
+    "attributeValue": "64.522"
+  },
+  {
+    "name": "S. Aluko",
+    "attributeValue": "63.826"
+  },
+  {
+    "name": "João Silva",
+    "attributeValue": "58.870"
+  },
+  {
+    "name": "J. Monreal",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "M. Guidone",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "D. Marsura",
+    "attributeValue": "64.087"
+  },
+  {
+    "name": "K. Cissé",
+    "attributeValue": "62.391"
+  },
+  {
+    "name": "Ribamar",
+    "attributeValue": "60.261"
+  },
+  {
+    "name": "R. Sandoval",
+    "attributeValue": "64.696"
+  },
+  {
+    "name": "T. Hysén",
+    "attributeValue": "64.130"
+  },
+  {
+    "name": "Tiago Caeiro",
+    "attributeValue": "54.478"
+  },
+  {
+    "name": "S. Moreo",
+    "attributeValue": "58.739"
+  },
+  {
+    "name": "G. Moncini",
+    "attributeValue": "59.696"
+  },
+  {
+    "name": "V. Vermeij",
+    "attributeValue": "58.261"
+  },
+  {
+    "name": "F. Telechea",
+    "attributeValue": "64.304"
+  },
+  {
+    "name": "D. Srbeny",
+    "attributeValue": "58.870"
+  },
+  {
+    "name": "B. Vides",
+    "attributeValue": "61.826"
+  },
+  {
+    "name": "D. Braaten",
+    "attributeValue": "66.000"
+  },
+  {
+    "name": "O. Bogle",
+    "attributeValue": "58.522"
+  },
+  {
+    "name": "M. Marras",
+    "attributeValue": "60.174"
+  },
+  {
+    "name": "B. Manuel",
+    "attributeValue": "63.826"
+  },
+  {
+    "name": "Álex López",
+    "attributeValue": "60.174"
+  },
+  {
+    "name": "L. Cabezas",
+    "attributeValue": "58.130"
+  },
+  {
+    "name": "C. Rivas",
+    "attributeValue": "65.348"
+  },
+  {
+    "name": "K. Opseth",
+    "attributeValue": "61.435"
+  },
+  {
+    "name": "E. Correa",
+    "attributeValue": "60.696"
+  },
+  {
+    "name": "Y. Toyoda",
+    "attributeValue": "55.826"
+  },
+  {
+    "name": "R. Schwartz",
+    "attributeValue": "61.000"
+  },
+  {
+    "name": "B. Santalab",
+    "attributeValue": "62.522"
+  },
+  {
+    "name": "J. Villarreal",
+    "attributeValue": "66.043"
+  },
+  {
+    "name": "K. Vassell",
+    "attributeValue": "60.087"
+  },
+  {
+    "name": "E. Eze",
+    "attributeValue": "60.522"
+  },
+  {
+    "name": "C. Dieng",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "L. Sinisterra",
+    "attributeValue": "63.652"
+  },
+  {
+    "name": "P. Micin",
+    "attributeValue": "60.522"
+  },
+  {
+    "name": "J. Kliment",
+    "attributeValue": "62.000"
+  },
+  {
+    "name": "M. Slavov",
+    "attributeValue": "55.739"
+  },
+  {
+    "name": "F. El Mellali",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "M. Szczepaniak",
+    "attributeValue": "61.261"
+  },
+  {
+    "name": "Jin Seong Wook",
+    "attributeValue": "59.913"
+  },
+  {
+    "name": "S. Akasaki",
+    "attributeValue": "64.043"
+  },
+  {
+    "name": "Júnior Negão",
+    "attributeValue": "61.217"
+  },
+  {
+    "name": "J. Mackie",
+    "attributeValue": "65.435"
+  },
+  {
+    "name": "B. Halloran",
+    "attributeValue": "61.957"
+  },
+  {
+    "name": "P. Möschl",
+    "attributeValue": "62.652"
+  },
+  {
+    "name": "E. Sarraj",
+    "attributeValue": "62.957"
+  },
+  {
+    "name": "Lim Chan Wool",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "F. Del Sole",
+    "attributeValue": "57.348"
+  },
+  {
+    "name": "P. Daka",
+    "attributeValue": "60.783"
+  },
+  {
+    "name": "G. Rodríguez",
+    "attributeValue": "56.739"
+  },
+  {
+    "name": "F. Diarra",
+    "attributeValue": "64.565"
+  },
+  {
+    "name": "K. Igboananike",
+    "attributeValue": "63.435"
+  },
+  {
+    "name": "J. Levi",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "D. Cole",
+    "attributeValue": "58.783"
+  },
+  {
+    "name": "J. Marquis",
+    "attributeValue": "63.174"
+  },
+  {
+    "name": "Park Gi Dong",
+    "attributeValue": "59.826"
+  },
+  {
+    "name": "Ricardinho",
+    "attributeValue": "64.087"
+  },
+  {
+    "name": "S. Davies",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "O. Kiteishvili",
+    "attributeValue": "63.087"
+  },
+  {
+    "name": "S. Brandstetter",
+    "attributeValue": "61.913"
+  },
+  {
+    "name": "D. Samuel",
+    "attributeValue": "61.652"
+  },
+  {
+    "name": "Stéfano Pinho",
+    "attributeValue": "62.478"
+  },
+  {
+    "name": "A. Baclet",
+    "attributeValue": "65.652"
+  },
+  {
+    "name": "Toni Martínez",
+    "attributeValue": "58.478"
+  },
+  {
+    "name": "R. O'Donovan",
+    "attributeValue": "64.739"
+  },
+  {
+    "name": "N. Vergos",
+    "attributeValue": "59.000"
+  },
+  {
+    "name": "A. Cocco",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "C. Depres",
+    "attributeValue": "56.652"
+  },
+  {
+    "name": "J. Asoro",
+    "attributeValue": "60.174"
+  },
+  {
+    "name": "A. Jacobsen",
+    "attributeValue": "62.043"
+  },
+  {
+    "name": "Cristo González",
+    "attributeValue": "62.565"
+  },
+  {
+    "name": "M. Boadu",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "N. Proschwitz",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "A. Keita",
+    "attributeValue": "57.957"
+  },
+  {
+    "name": "L. Strizzolo",
+    "attributeValue": "57.174"
+  },
+  {
+    "name": "N. Spalek",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "N. Bärkroth",
+    "attributeValue": "64.913"
+  },
+  {
+    "name": "P. Brożek",
+    "attributeValue": "60.565"
+  },
+  {
+    "name": "L. Röser",
+    "attributeValue": "62.217"
+  },
+  {
+    "name": "Lorenzao Masca",
+    "attributeValue": "64.609"
+  },
+  {
+    "name": "M. Fallatah",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "H. Sönmez",
+    "attributeValue": "61.957"
+  },
+  {
+    "name": "Higinio",
+    "attributeValue": "58.478"
+  },
+  {
+    "name": "Danilo Sacrio",
+    "attributeValue": "61.565"
+  },
+  {
+    "name": "Emílio Trevões",
+    "attributeValue": "61.261"
+  },
+  {
+    "name": "Flávio Triginho",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "B. Enobakhare",
+    "attributeValue": "60.870"
+  },
+  {
+    "name": "R. Festersen",
+    "attributeValue": "64.565"
+  },
+  {
+    "name": "J. Blayac",
+    "attributeValue": "58.826"
+  },
+  {
+    "name": "Dong Xuesheng",
+    "attributeValue": "60.435"
+  },
+  {
+    "name": "J. Düker",
+    "attributeValue": "60.826"
+  },
+  {
+    "name": "M. Lieder",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "H. Al Hazaa",
+    "attributeValue": "58.826"
+  },
+  {
+    "name": "H. Ojamaa",
+    "attributeValue": "65.435"
+  },
+  {
+    "name": "M. Tévez",
+    "attributeValue": "63.696"
+  },
+  {
+    "name": "B. Clarke",
+    "attributeValue": "66.130"
+  },
+  {
+    "name": "R. Caballero",
+    "attributeValue": "56.565"
+  },
+  {
+    "name": "H. Al Raheb",
+    "attributeValue": "58.870"
+  },
+  {
+    "name": "J. Dongou Tsafack",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "K. Tamada",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "K. Mayi",
+    "attributeValue": "61.391"
+  },
+  {
+    "name": "C. Aneke",
+    "attributeValue": "63.174"
+  },
+  {
+    "name": "P. Gladon",
+    "attributeValue": "58.913"
+  },
+  {
+    "name": "M. Figueroa",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "L. Madrigal",
+    "attributeValue": "56.652"
+  },
+  {
+    "name": "J. Beckford",
+    "attributeValue": "60.435"
+  },
+  {
+    "name": "J. Duma",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "J. Martínez",
+    "attributeValue": "62.000"
+  },
+  {
+    "name": "F. Stokkers",
+    "attributeValue": "58.565"
+  },
+  {
+    "name": "M. Jankowski",
+    "attributeValue": "64.696"
+  },
+  {
+    "name": "F. Ferrari",
+    "attributeValue": "58.174"
+  },
+  {
+    "name": "Benja",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "S. Svendsen",
+    "attributeValue": "66.391"
+  },
+  {
+    "name": "H. Rivero",
+    "attributeValue": "55.478"
+  },
+  {
+    "name": "A. Sané",
+    "attributeValue": "60.217"
+  },
+  {
+    "name": "C. Washington",
+    "attributeValue": "60.435"
+  },
+  {
+    "name": "F. Nimani",
+    "attributeValue": "59.783"
+  },
+  {
+    "name": "C. Morris",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "G. Notsuda",
+    "attributeValue": "63.348"
+  },
+  {
+    "name": "P. Frick",
+    "attributeValue": "64.304"
+  },
+  {
+    "name": "Luis Marleiro",
+    "attributeValue": "64.783"
+  },
+  {
+    "name": "M. Pulkrab",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "Park Jun Tae",
+    "attributeValue": "61.130"
+  },
+  {
+    "name": "M. Sema",
+    "attributeValue": "63.000"
+  },
+  {
+    "name": "M. Bennett",
+    "attributeValue": "64.696"
+  },
+  {
+    "name": "M. Torres",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "N. Mohammed",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "A. Le Tallec",
+    "attributeValue": "62.478"
+  },
+  {
+    "name": "M. Koné",
+    "attributeValue": "60.043"
+  },
+  {
+    "name": "F. Ciampichetti",
+    "attributeValue": "57.478"
+  },
+  {
+    "name": "C. Itten",
+    "attributeValue": "59.739"
+  },
+  {
+    "name": "E. Ómarsson",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "A. Buksa",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "K. Tokura",
+    "attributeValue": "61.435"
+  },
+  {
+    "name": "W. Keane",
+    "attributeValue": "61.043"
+  },
+  {
+    "name": "A. Kolev",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "J. Gatt",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "J. Rodríguez",
+    "attributeValue": "63.304"
+  },
+  {
+    "name": "R. Taylor",
+    "attributeValue": "62.391"
+  },
+  {
+    "name": "M. Mešanović",
+    "attributeValue": "55.826"
+  },
+  {
+    "name": "G. Plet",
+    "attributeValue": "57.348"
+  },
+  {
+    "name": "L. Nmecha",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "R. Riski",
+    "attributeValue": "65.522"
+  },
+  {
+    "name": "B. Eleke",
+    "attributeValue": "62.478"
+  },
+  {
+    "name": "O. Eddahri",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "J. Obika",
+    "attributeValue": "58.826"
+  },
+  {
+    "name": "T. Zhamaletdinov",
+    "attributeValue": "60.304"
+  },
+  {
+    "name": "V. Prodell",
+    "attributeValue": "57.565"
+  },
+  {
+    "name": "E. Apeh",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "M. Guevgeozián",
+    "attributeValue": "54.087"
+  },
+  {
+    "name": "E. Fejzullahu",
+    "attributeValue": "65.217"
+  },
+  {
+    "name": "B. Jayiya",
+    "attributeValue": "64.957"
+  },
+  {
+    "name": "R. Söder",
+    "attributeValue": "63.261"
+  },
+  {
+    "name": "P. Joosten",
+    "attributeValue": "65.783"
+  },
+  {
+    "name": "T. Akindele",
+    "attributeValue": "61.130"
+  },
+  {
+    "name": "R. Gartler",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "M. Abdellaoue",
+    "attributeValue": "62.000"
+  },
+  {
+    "name": "L. Novak",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "Abdón",
+    "attributeValue": "63.000"
+  },
+  {
+    "name": "K. Takayama",
+    "attributeValue": "64.957"
+  },
+  {
+    "name": "S. Bakış",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "J. Kaprof",
+    "attributeValue": "61.565"
+  },
+  {
+    "name": "F. Apaolaza",
+    "attributeValue": "58.348"
+  },
+  {
+    "name": "E. Butin",
+    "attributeValue": "61.913"
+  },
+  {
+    "name": "E. Brophy",
+    "attributeValue": "64.391"
+  },
+  {
+    "name": "Lee Jong Ho",
+    "attributeValue": "65.435"
+  },
+  {
+    "name": "Cho Young Wook",
+    "attributeValue": "63.609"
+  },
+  {
+    "name": "T. Gabuza",
+    "attributeValue": "58.304"
+  },
+  {
+    "name": "P. Muñoz",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "J. Leko",
+    "attributeValue": "61.609"
+  },
+  {
+    "name": "M. Ogbu",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "G. Malcore",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "A. Medina",
+    "attributeValue": "66.435"
+  },
+  {
+    "name": "M. Papadopulos",
+    "attributeValue": "61.522"
+  },
+  {
+    "name": "S. Skålevik",
+    "attributeValue": "59.043"
+  },
+  {
+    "name": "D. Thomalla",
+    "attributeValue": "61.435"
+  },
+  {
+    "name": "P. Parzyszek",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "Michel Douglas",
+    "attributeValue": "58.913"
+  },
+  {
+    "name": "D. Vega",
+    "attributeValue": "59.130"
+  },
+  {
+    "name": "N. Rusyn",
+    "attributeValue": "54.826"
+  },
+  {
+    "name": "A. Balboa",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "M. Mohsen",
+    "attributeValue": "58.522"
+  },
+  {
+    "name": "C. Escobar",
+    "attributeValue": "61.913"
+  },
+  {
+    "name": "G. Hein",
+    "attributeValue": "64.261"
+  },
+  {
+    "name": "J. Akinde",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "Yang Dong Hyen",
+    "attributeValue": "58.261"
+  },
+  {
+    "name": "S. Tetteh",
+    "attributeValue": "60.652"
+  },
+  {
+    "name": "J. Mason",
+    "attributeValue": "61.826"
+  },
+  {
+    "name": "C. Lavery",
+    "attributeValue": "63.435"
+  },
+  {
+    "name": "Lee You Hyeon",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "H. Gong",
+    "attributeValue": "61.478"
+  },
+  {
+    "name": "C. Amaya",
+    "attributeValue": "60.870"
+  },
+  {
+    "name": "S. Cox",
+    "attributeValue": "62.913"
+  },
+  {
+    "name": "I. Vassell",
+    "attributeValue": "61.478"
+  },
+  {
+    "name": "T. Lehne Olsen",
+    "attributeValue": "62.000"
+  },
+  {
+    "name": "D. Chima Chukwu",
+    "attributeValue": "62.652"
+  },
+  {
+    "name": "E. Harrison",
+    "attributeValue": "64.217"
+  },
+  {
+    "name": "Edu Espiau",
+    "attributeValue": "57.391"
+  },
+  {
+    "name": "S. Brandy",
+    "attributeValue": "64.304"
+  },
+  {
+    "name": "Pak Kwang Ryong",
+    "attributeValue": "61.652"
+  },
+  {
+    "name": "Airam",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "P. Tuszyński",
+    "attributeValue": "58.870"
+  },
+  {
+    "name": "R. Mmaee",
+    "attributeValue": "59.348"
+  },
+  {
+    "name": "Bae Il Hwan",
+    "attributeValue": "60.826"
+  },
+  {
+    "name": "M. Kudo",
+    "attributeValue": "60.826"
+  },
+  {
+    "name": "L. Görtler",
+    "attributeValue": "60.565"
+  },
+  {
+    "name": "T. Chong",
+    "attributeValue": "62.652"
+  },
+  {
+    "name": "P. Alvarenga",
+    "attributeValue": "56.435"
+  },
+  {
+    "name": "G. Wegkamp",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "You Ju An",
+    "attributeValue": "61.957"
+  },
+  {
+    "name": "L. Grozurek",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "J. Pérez",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "M. Costly",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "M. Ferrier",
+    "attributeValue": "63.130"
+  },
+  {
+    "name": "E. Demirović",
+    "attributeValue": "57.348"
+  },
+  {
+    "name": "A. Jackson-Hamel",
+    "attributeValue": "57.826"
+  },
+  {
+    "name": "K. Hemmings",
+    "attributeValue": "58.913"
+  },
+  {
+    "name": "W. Ponce",
+    "attributeValue": "56.217"
+  },
+  {
+    "name": "J. Hamilton",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "K. Davis",
+    "attributeValue": "59.913"
+  },
+  {
+    "name": "M. Omoh",
+    "attributeValue": "61.391"
+  },
+  {
+    "name": "N. Guerra",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "C. Davies",
+    "attributeValue": "61.478"
+  },
+  {
+    "name": "S. Sané",
+    "attributeValue": "56.087"
+  },
+  {
+    "name": "N. Ioannidis",
+    "attributeValue": "59.565"
+  },
+  {
+    "name": "J. Carranza",
+    "attributeValue": "58.217"
+  },
+  {
+    "name": "J. Arias",
+    "attributeValue": "55.043"
+  },
+  {
+    "name": "Patrick",
+    "attributeValue": "57.609"
+  },
+  {
+    "name": "L. Pérez",
+    "attributeValue": "61.913"
+  },
+  {
+    "name": "C. Togashi",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "Wang Xiaolong",
+    "attributeValue": "62.522"
+  },
+  {
+    "name": "L. Miller",
+    "attributeValue": "64.043"
+  },
+  {
+    "name": "T. Röttger",
+    "attributeValue": "63.087"
+  },
+  {
+    "name": "Han Peng",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "P. Twumasi",
+    "attributeValue": "58.000"
+  },
+  {
+    "name": "E. Pernía",
+    "attributeValue": "55.783"
+  },
+  {
+    "name": "S. Silva",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "J. Sambenito",
+    "attributeValue": "59.826"
+  },
+  {
+    "name": "J. Řezníček",
+    "attributeValue": "60.870"
+  },
+  {
+    "name": "R. Tarifeño",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "Bruno Gomes",
+    "attributeValue": "59.565"
+  },
+  {
+    "name": "Evandro",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "G. Castillejos",
+    "attributeValue": "56.522"
+  },
+  {
+    "name": "F. Palacios Martínez",
+    "attributeValue": "62.565"
+  },
+  {
+    "name": "F. Fydriszewski",
+    "attributeValue": "55.522"
+  },
+  {
+    "name": "Ronan",
+    "attributeValue": "51.913"
+  },
+  {
+    "name": "I. Openda",
+    "attributeValue": "57.130"
+  },
+  {
+    "name": "J. Jervis",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "Raul Asencio",
+    "attributeValue": "57.391"
+  },
+  {
+    "name": "Erik Expósito",
+    "attributeValue": "54.913"
+  },
+  {
+    "name": "J. Donisa",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "R. Salinas",
+    "attributeValue": "55.870"
+  },
+  {
+    "name": "Hwang Il Soo",
+    "attributeValue": "63.217"
+  },
+  {
+    "name": "T. Fountas",
+    "attributeValue": "65.261"
+  },
+  {
+    "name": "S. Lo Faso",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "F. Brustad",
+    "attributeValue": "60.522"
+  },
+  {
+    "name": "A. Pavlović",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "M. Sylla",
+    "attributeValue": "59.652"
+  },
+  {
+    "name": "K. Guédé",
+    "attributeValue": "58.435"
+  },
+  {
+    "name": "T. Børven",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "D. Kyereh",
+    "attributeValue": "59.174"
+  },
+  {
+    "name": "I. Ouédraogo",
+    "attributeValue": "60.913"
+  },
+  {
+    "name": "A. Skov Olsen",
+    "attributeValue": "60.000"
+  },
+  {
+    "name": "O. Franco",
+    "attributeValue": "55.304"
+  },
+  {
+    "name": "R. Reid",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "V. Supriaga",
+    "attributeValue": "55.174"
+  },
+  {
+    "name": "R. Boukari",
+    "attributeValue": "61.391"
+  },
+  {
+    "name": "N. Brock-Madsen",
+    "attributeValue": "55.739"
+  },
+  {
+    "name": "J. Bothroyd",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "L. Norris",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "J. Maja",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "Hu Rentian",
+    "attributeValue": "63.913"
+  },
+  {
+    "name": "N. Venema",
+    "attributeValue": "55.652"
+  },
+  {
+    "name": "Marcelo Vildeia",
+    "attributeValue": "60.826"
+  },
+  {
+    "name": "Hu Jinghang",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "S. Mölders",
+    "attributeValue": "57.478"
+  },
+  {
+    "name": "D. Tadić",
+    "attributeValue": "64.478"
+  },
+  {
+    "name": "G. Karlen",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "K. Jackson",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "Nito Carbelho",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "N. Manzambi",
+    "attributeValue": "59.522"
+  },
+  {
+    "name": "J. Thomassen",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "S. Romero",
+    "attributeValue": "62.783"
+  },
+  {
+    "name": "H. El Mokeddem",
+    "attributeValue": "60.087"
+  },
+  {
+    "name": "C. Ekuban",
+    "attributeValue": "62.304"
+  },
+  {
+    "name": "T. Hopper",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "J. Pohl",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "E. Iyoha",
+    "attributeValue": "59.609"
+  },
+  {
+    "name": "J. Godínez",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "Everton",
+    "attributeValue": "57.913"
+  },
+  {
+    "name": "N. Ishihara",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "F. Reese",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "T. Miyayoshi",
+    "attributeValue": "59.348"
+  },
+  {
+    "name": "L. Miracoli",
+    "attributeValue": "55.000"
+  },
+  {
+    "name": "C. Doidge",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "J. Ebobisse",
+    "attributeValue": "61.261"
+  },
+  {
+    "name": "S. Kikuchi",
+    "attributeValue": "60.870"
+  },
+  {
+    "name": "L. González",
+    "attributeValue": "63.609"
+  },
+  {
+    "name": "V. Damascan",
+    "attributeValue": "60.304"
+  },
+  {
+    "name": "L. Solignac",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "M. Guezoui",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "N. Briasco",
+    "attributeValue": "57.826"
+  },
+  {
+    "name": "Q. Amarikwa",
+    "attributeValue": "63.217"
+  },
+  {
+    "name": "C. Long",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "Y. Mena",
+    "attributeValue": "64.043"
+  },
+  {
+    "name": "K. Shelton",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "J. Dalé",
+    "attributeValue": "59.826"
+  },
+  {
+    "name": "B. Kamau",
+    "attributeValue": "59.043"
+  },
+  {
+    "name": "L. Putaro",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "U. Nayir",
+    "attributeValue": "58.391"
+  },
+  {
+    "name": "A. Kampetsis",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "D. Poleon",
+    "attributeValue": "61.130"
+  },
+  {
+    "name": "H. Weydandt",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "A. Díaz",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "J. Mendes",
+    "attributeValue": "60.783"
+  },
+  {
+    "name": "F. Azemi",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "M. Pink",
+    "attributeValue": "57.435"
+  },
+  {
+    "name": "S. Yesil",
+    "attributeValue": "58.870"
+  },
+  {
+    "name": "O. Hawkins",
+    "attributeValue": "56.087"
+  },
+  {
+    "name": "A. Arroyo",
+    "attributeValue": "53.130"
+  },
+  {
+    "name": "G. Cummins",
+    "attributeValue": "62.174"
+  },
+  {
+    "name": "G. Castrovilli",
+    "attributeValue": "57.304"
+  },
+  {
+    "name": "A. Badji",
+    "attributeValue": "58.609"
+  },
+  {
+    "name": "M. Eisa",
+    "attributeValue": "59.696"
+  },
+  {
+    "name": "G. Beretta",
+    "attributeValue": "60.087"
+  },
+  {
+    "name": "T. Ricketts",
+    "attributeValue": "59.043"
+  },
+  {
+    "name": "S. Kashket",
+    "attributeValue": "59.522"
+  },
+  {
+    "name": "T. Kanamori",
+    "attributeValue": "63.087"
+  },
+  {
+    "name": "W. Burns",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "D. Okereke",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "A. Petre",
+    "attributeValue": "58.000"
+  },
+  {
+    "name": "Pablo Fernández",
+    "attributeValue": "57.652"
+  },
+  {
+    "name": "D. Islamovic",
+    "attributeValue": "55.913"
+  },
+  {
+    "name": "S. Surridge",
+    "attributeValue": "56.261"
+  },
+  {
+    "name": "E. Huth",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "R. Steer",
+    "attributeValue": "59.565"
+  },
+  {
+    "name": "D. Stroh-Engel",
+    "attributeValue": "55.174"
+  },
+  {
+    "name": "B. Gschweidl",
+    "attributeValue": "56.565"
+  },
+  {
+    "name": "A. Rodríguez",
+    "attributeValue": "62.435"
+  },
+  {
+    "name": "C. Dagnall",
+    "attributeValue": "61.522"
+  },
+  {
+    "name": "H. Al Ghaddioui",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "F. Nouble",
+    "attributeValue": "61.000"
+  },
+  {
+    "name": "Zhu Jianrong",
+    "attributeValue": "57.783"
+  },
+  {
+    "name": "Willy",
+    "attributeValue": "59.783"
+  },
+  {
+    "name": "P. Owusu",
+    "attributeValue": "55.652"
+  },
+  {
+    "name": "L. Diaby Fadiga",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "J. Mendy",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "T. Nishimura",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "K. Abazaj",
+    "attributeValue": "60.696"
+  },
+  {
+    "name": "A. Masuyama",
+    "attributeValue": "54.957"
+  },
+  {
+    "name": "K. Furuhashi",
+    "attributeValue": "59.565"
+  },
+  {
+    "name": "M. Dembélé",
+    "attributeValue": "57.609"
+  },
+  {
+    "name": "P. Schmidt",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "T. Knöll",
+    "attributeValue": "55.435"
+  },
+  {
+    "name": "P. Prosenik",
+    "attributeValue": "58.348"
+  },
+  {
+    "name": "L. Schnellbacher",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "J. Faucher",
+    "attributeValue": "59.696"
+  },
+  {
+    "name": "P. Breitkreuz",
+    "attributeValue": "53.696"
+  },
+  {
+    "name": "K. Świderski",
+    "attributeValue": "60.304"
+  },
+  {
+    "name": "G. Álvarez",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "Allef",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "G. Martínez",
+    "attributeValue": "59.391"
+  },
+  {
+    "name": "Cho Suk Jae",
+    "attributeValue": "58.478"
+  },
+  {
+    "name": "F. Hormazábal",
+    "attributeValue": "59.783"
+  },
+  {
+    "name": "T. Amang",
+    "attributeValue": "63.478"
+  },
+  {
+    "name": "Z. Sanogo",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "J. Aigner",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "Tiago Marques",
+    "attributeValue": "53.522"
+  },
+  {
+    "name": "J. Thiaré",
+    "attributeValue": "59.130"
+  },
+  {
+    "name": "F. Kastrati",
+    "attributeValue": "63.957"
+  },
+  {
+    "name": "M. Uhre",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "R. Bowman",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "D. Osei Yaw",
+    "attributeValue": "59.348"
+  },
+  {
+    "name": "T. Kadewere",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "Steven Prieto",
+    "attributeValue": "56.957"
+  },
+  {
+    "name": "A. Pinamonti",
+    "attributeValue": "55.435"
+  },
+  {
+    "name": "Kim Shin",
+    "attributeValue": "60.435"
+  },
+  {
+    "name": "F. Piovaccari",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "O. Álvarez",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "Guillem Jaime",
+    "attributeValue": "59.522"
+  },
+  {
+    "name": "D. Kelly",
+    "attributeValue": "57.000"
+  },
+  {
+    "name": "G. Mebrahtu",
+    "attributeValue": "61.043"
+  },
+  {
+    "name": "A. Ponce",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "Gerard Oliva",
+    "attributeValue": "54.391"
+  },
+  {
+    "name": "S. Demhasaj",
+    "attributeValue": "54.913"
+  },
+  {
+    "name": "M. Di Piazza",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "B. Fernández",
+    "attributeValue": "53.087"
+  },
+  {
+    "name": "K. Zohi",
+    "attributeValue": "58.000"
+  },
+  {
+    "name": "J. Cox",
+    "attributeValue": "53.826"
+  },
+  {
+    "name": "J. Bertilsson",
+    "attributeValue": "62.957"
+  },
+  {
+    "name": "Lee Sang Heon",
+    "attributeValue": "58.130"
+  },
+  {
+    "name": "C. Wighton",
+    "attributeValue": "59.609"
+  },
+  {
+    "name": "K. Chinen",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "M. Exslager",
+    "attributeValue": "61.826"
+  },
+  {
+    "name": "D. McMillan",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "K. Anderson",
+    "attributeValue": "60.391"
+  },
+  {
+    "name": "C. Sammon",
+    "attributeValue": "63.043"
+  },
+  {
+    "name": "Xesc Regis",
+    "attributeValue": "56.043"
+  },
+  {
+    "name": "M. Dauda",
+    "attributeValue": "62.304"
+  },
+  {
+    "name": "P. Madden",
+    "attributeValue": "61.391"
+  },
+  {
+    "name": "E. Doyle",
+    "attributeValue": "63.000"
+  },
+  {
+    "name": "W. Geubbels",
+    "attributeValue": "59.696"
+  },
+  {
+    "name": "Vagnão Junior",
+    "attributeValue": "64.217"
+  },
+  {
+    "name": "A. Sigurðsson",
+    "attributeValue": "59.261"
+  },
+  {
+    "name": "Ricardo Rodrigues",
+    "attributeValue": "60.870"
+  },
+  {
+    "name": "P. Karlsson Lagemyr",
+    "attributeValue": "56.826"
+  },
+  {
+    "name": "M. Quiroga",
+    "attributeValue": "54.304"
+  },
+  {
+    "name": "Iuliano Alfaro",
+    "attributeValue": "60.348"
+  },
+  {
+    "name": "B. Jamieson IV",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "T. Chahed",
+    "attributeValue": "59.000"
+  },
+  {
+    "name": "Y. Otubanjo",
+    "attributeValue": "58.261"
+  },
+  {
+    "name": "K. Mensah",
+    "attributeValue": "63.391"
+  },
+  {
+    "name": "P. Bürger",
+    "attributeValue": "61.652"
+  },
+  {
+    "name": "A. Adam",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "N. Belvito",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "A. Busin",
+    "attributeValue": "57.522"
+  },
+  {
+    "name": "T. Campbell",
+    "attributeValue": "62.000"
+  },
+  {
+    "name": "M. Suzuki",
+    "attributeValue": "56.870"
+  },
+  {
+    "name": "Dêniro Prestes",
+    "attributeValue": "56.478"
+  },
+  {
+    "name": "K. Dennis",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "T. Lee",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "G. Scamacca",
+    "attributeValue": "57.304"
+  },
+  {
+    "name": "L. Vaca",
+    "attributeValue": "57.391"
+  },
+  {
+    "name": "H. Wright",
+    "attributeValue": "55.739"
+  },
+  {
+    "name": "Borja Llarena",
+    "attributeValue": "60.913"
+  },
+  {
+    "name": "J. Proctor",
+    "attributeValue": "60.913"
+  },
+  {
+    "name": "M. Karlsen",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "H. Mahou",
+    "attributeValue": "58.565"
+  },
+  {
+    "name": "J. Sargent",
+    "attributeValue": "61.609"
+  },
+  {
+    "name": "Yang Xu",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "Jauregi",
+    "attributeValue": "53.826"
+  },
+  {
+    "name": "C. Timite",
+    "attributeValue": "56.435"
+  },
+  {
+    "name": "Dillson Teixeiro",
+    "attributeValue": "60.217"
+  },
+  {
+    "name": "A. Williams",
+    "attributeValue": "59.174"
+  },
+  {
+    "name": "M. Samuelsen",
+    "attributeValue": "57.304"
+  },
+  {
+    "name": "M. Söderqvist",
+    "attributeValue": "62.087"
+  },
+  {
+    "name": "M. Kvasina",
+    "attributeValue": "54.652"
+  },
+  {
+    "name": "T. Sandoval",
+    "attributeValue": "54.957"
+  },
+  {
+    "name": "D. Lajud",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "G. Perrin",
+    "attributeValue": "63.174"
+  },
+  {
+    "name": "A. Jones",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "K. Angielski",
+    "attributeValue": "60.783"
+  },
+  {
+    "name": "M. Mancosu",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "P. Vranjicán",
+    "attributeValue": "55.043"
+  },
+  {
+    "name": "A. Taoui",
+    "attributeValue": "59.348"
+  },
+  {
+    "name": "Lee Keun Ho",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "A. Rabillard",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "M. Bundu",
+    "attributeValue": "61.348"
+  },
+  {
+    "name": "E. Nketiah",
+    "attributeValue": "58.739"
+  },
+  {
+    "name": "G. Nilsson",
+    "attributeValue": "55.043"
+  },
+  {
+    "name": "D. Kutesa",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "M. Ortíz",
+    "attributeValue": "60.783"
+  },
+  {
+    "name": "N. Ajose",
+    "attributeValue": "60.565"
+  },
+  {
+    "name": "F. Reynero",
+    "attributeValue": "58.609"
+  },
+  {
+    "name": "Borja Garcés",
+    "attributeValue": "57.522"
+  },
+  {
+    "name": "A. Danladi",
+    "attributeValue": "61.696"
+  },
+  {
+    "name": "N. Atkinson",
+    "attributeValue": "61.435"
+  },
+  {
+    "name": "L. Ndao",
+    "attributeValue": "63.000"
+  },
+  {
+    "name": "Kuki Zalazar",
+    "attributeValue": "59.261"
+  },
+  {
+    "name": "Miguel",
+    "attributeValue": "57.348"
+  },
+  {
+    "name": "A. Otero",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "D. Undav",
+    "attributeValue": "58.174"
+  },
+  {
+    "name": "Cho Dong Gun",
+    "attributeValue": "61.000"
+  },
+  {
+    "name": "Ahn Yong Woo",
+    "attributeValue": "61.087"
+  },
+  {
+    "name": "F. Pierrot",
+    "attributeValue": "55.217"
+  },
+  {
+    "name": "D. Eckert",
+    "attributeValue": "54.739"
+  },
+  {
+    "name": "J. Roberts",
+    "attributeValue": "62.391"
+  },
+  {
+    "name": "R. Williams",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "B. Pintol",
+    "attributeValue": "64.304"
+  },
+  {
+    "name": "L. Riveros",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "M. Boman",
+    "attributeValue": "58.130"
+  },
+  {
+    "name": "D. Crnigoj",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "A. Araujo",
+    "attributeValue": "57.000"
+  },
+  {
+    "name": "Raí",
+    "attributeValue": "58.565"
+  },
+  {
+    "name": "K. Behrens",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "J. Guillemenot",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "J. McBean",
+    "attributeValue": "59.739"
+  },
+  {
+    "name": "Feng Renliang",
+    "attributeValue": "55.957"
+  },
+  {
+    "name": "M. Sahanek",
+    "attributeValue": "59.739"
+  },
+  {
+    "name": "F. Herbers",
+    "attributeValue": "62.826"
+  },
+  {
+    "name": "J. Macías",
+    "attributeValue": "58.783"
+  },
+  {
+    "name": "V. Sanogo",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "F. Zoko",
+    "attributeValue": "64.435"
+  },
+  {
+    "name": "J. Simpson",
+    "attributeValue": "60.739"
+  },
+  {
+    "name": "T. Abe",
+    "attributeValue": "63.391"
+  },
+  {
+    "name": "B. Matic",
+    "attributeValue": "58.739"
+  },
+  {
+    "name": "N. Burns",
+    "attributeValue": "64.130"
+  },
+  {
+    "name": "D. Nazon",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "Kikas",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "L. Díaz",
+    "attributeValue": "58.826"
+  },
+  {
+    "name": "E. Cetre",
+    "attributeValue": "59.043"
+  },
+  {
+    "name": "R. Siemaszko",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "B. White",
+    "attributeValue": "58.957"
+  },
+  {
+    "name": "A. Dzabana",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "C. López",
+    "attributeValue": "55.957"
+  },
+  {
+    "name": "F. Piasecki",
+    "attributeValue": "59.696"
+  },
+  {
+    "name": "E. Hurtado",
+    "attributeValue": "63.826"
+  },
+  {
+    "name": "R. Maeda",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "S. Chilunda",
+    "attributeValue": "59.304"
+  },
+  {
+    "name": "M. Richards",
+    "attributeValue": "59.522"
+  },
+  {
+    "name": "G. Panico",
+    "attributeValue": "58.826"
+  },
+  {
+    "name": "A. Dovbyk",
+    "attributeValue": "55.957"
+  },
+  {
+    "name": "S. Ito",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "A. Wilbraham",
+    "attributeValue": "56.043"
+  },
+  {
+    "name": "P. Cappelluzzo",
+    "attributeValue": "55.739"
+  },
+  {
+    "name": "M. Hvilsom",
+    "attributeValue": "58.174"
+  },
+  {
+    "name": "L. Campana",
+    "attributeValue": "55.130"
+  },
+  {
+    "name": "B. Miranda",
+    "attributeValue": "53.043"
+  },
+  {
+    "name": "J. Parker",
+    "attributeValue": "60.043"
+  },
+  {
+    "name": "S. Gassama",
+    "attributeValue": "55.478"
+  },
+  {
+    "name": "J. Palacios",
+    "attributeValue": "57.826"
+  },
+  {
+    "name": "I. Sayan",
+    "attributeValue": "54.696"
+  },
+  {
+    "name": "N. Mileusnić",
+    "attributeValue": "57.435"
+  },
+  {
+    "name": "A. Riel",
+    "attributeValue": "58.304"
+  },
+  {
+    "name": "N. Alho",
+    "attributeValue": "60.870"
+  },
+  {
+    "name": "J. Lindberg",
+    "attributeValue": "63.000"
+  },
+  {
+    "name": "Dioni",
+    "attributeValue": "55.696"
+  },
+  {
+    "name": "Valdu Té",
+    "attributeValue": "53.870"
+  },
+  {
+    "name": "Sergio Buenacasa",
+    "attributeValue": "56.522"
+  },
+  {
+    "name": "D. Smuga",
+    "attributeValue": "61.522"
+  },
+  {
+    "name": "L. Angol",
+    "attributeValue": "62.652"
+  },
+  {
+    "name": "Lee Kwang Sun",
+    "attributeValue": "55.304"
+  },
+  {
+    "name": "Arribas",
+    "attributeValue": "56.130"
+  },
+  {
+    "name": "M. Madri",
+    "attributeValue": "62.130"
+  },
+  {
+    "name": "A. Cisco",
+    "attributeValue": "60.217"
+  },
+  {
+    "name": "K. Choi",
+    "attributeValue": "58.043"
+  },
+  {
+    "name": "C. González",
+    "attributeValue": "58.000"
+  },
+  {
+    "name": "R. Contreras",
+    "attributeValue": "55.348"
+  },
+  {
+    "name": "A. Grbic",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "P. Schmidt",
+    "attributeValue": "53.043"
+  },
+  {
+    "name": "J. Mareš",
+    "attributeValue": "63.435"
+  },
+  {
+    "name": "E. Gyasi",
+    "attributeValue": "57.609"
+  },
+  {
+    "name": "P. Engblom",
+    "attributeValue": "59.826"
+  },
+  {
+    "name": "J. Hanson",
+    "attributeValue": "55.435"
+  },
+  {
+    "name": "Jeon Se Jin",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "F. Doré",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "B. Vazquez",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "M. Chinellato",
+    "attributeValue": "57.000"
+  },
+  {
+    "name": "T. Robinson",
+    "attributeValue": "58.435"
+  },
+  {
+    "name": "M. Obafemi",
+    "attributeValue": "58.304"
+  },
+  {
+    "name": "Y. Mbombo",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "F. Ladapo",
+    "attributeValue": "58.739"
+  },
+  {
+    "name": "Park Hee Seong",
+    "attributeValue": "53.522"
+  },
+  {
+    "name": "C. Zamudio",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "Maicon Sampinho",
+    "attributeValue": "58.304"
+  },
+  {
+    "name": "O. Storflor",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "M. Born",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "A. Pellegrino",
+    "attributeValue": "59.043"
+  },
+  {
+    "name": "B. Moussiti-Oko",
+    "attributeValue": "53.130"
+  },
+  {
+    "name": "R. Kolo-Muani",
+    "attributeValue": "55.957"
+  },
+  {
+    "name": "K. Guthrie",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "Dani Gómez",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "C. Melivilú",
+    "attributeValue": "57.522"
+  },
+  {
+    "name": "P. Sabbag",
+    "attributeValue": "53.870"
+  },
+  {
+    "name": "G. Yalçin",
+    "attributeValue": "57.565"
+  },
+  {
+    "name": "Lim Jae Hyeok",
+    "attributeValue": "55.478"
+  },
+  {
+    "name": "J. Bohui",
+    "attributeValue": "59.522"
+  },
+  {
+    "name": "M. Tumminello",
+    "attributeValue": "52.870"
+  },
+  {
+    "name": "Y. Mena",
+    "attributeValue": "56.826"
+  },
+  {
+    "name": "E. Bearzotti",
+    "attributeValue": "55.000"
+  },
+  {
+    "name": "L. Musculus",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "Rafhael Lucas",
+    "attributeValue": "62.522"
+  },
+  {
+    "name": "M. Wilks",
+    "attributeValue": "57.565"
+  },
+  {
+    "name": "S. Camara Jönsson",
+    "attributeValue": "52.130"
+  },
+  {
+    "name": "I. Huguenet",
+    "attributeValue": "56.565"
+  },
+  {
+    "name": "K. Belmar",
+    "attributeValue": "61.130"
+  },
+  {
+    "name": "C. McAleny",
+    "attributeValue": "60.957"
+  },
+  {
+    "name": "J. Arak",
+    "attributeValue": "58.870"
+  },
+  {
+    "name": "B. Corr",
+    "attributeValue": "55.957"
+  },
+  {
+    "name": "R. Bentancourt",
+    "attributeValue": "58.261"
+  },
+  {
+    "name": "M. Wegner",
+    "attributeValue": "62.348"
+  },
+  {
+    "name": "M. Bringaker",
+    "attributeValue": "58.565"
+  },
+  {
+    "name": "Ricardo Almeida",
+    "attributeValue": "56.826"
+  },
+  {
+    "name": "Rafaelson",
+    "attributeValue": "56.478"
+  },
+  {
+    "name": "H. Al Juhayyim",
+    "attributeValue": "61.522"
+  },
+  {
+    "name": "A. Vrenezi",
+    "attributeValue": "59.174"
+  },
+  {
+    "name": "J. Karlsson",
+    "attributeValue": "60.261"
+  },
+  {
+    "name": "A. Da Cruz",
+    "attributeValue": "58.609"
+  },
+  {
+    "name": "J. Hurtado",
+    "attributeValue": "60.043"
+  },
+  {
+    "name": "M. Moström",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "G. Guerra",
+    "attributeValue": "58.870"
+  },
+  {
+    "name": "L. John-Lewis",
+    "attributeValue": "56.130"
+  },
+  {
+    "name": "M. Ziereis",
+    "attributeValue": "59.391"
+  },
+  {
+    "name": "D. Widemann",
+    "attributeValue": "59.652"
+  },
+  {
+    "name": "W. Janssens",
+    "attributeValue": "59.957"
+  },
+  {
+    "name": "D. Watari",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "L. Suárez",
+    "attributeValue": "55.261"
+  },
+  {
+    "name": "J. Hoffman",
+    "attributeValue": "57.783"
+  },
+  {
+    "name": "R. Espejord",
+    "attributeValue": "56.043"
+  },
+  {
+    "name": "P. Yrizar",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "Juan Delgado",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "J. Hornkamp",
+    "attributeValue": "56.391"
+  },
+  {
+    "name": "G. Martin",
+    "attributeValue": "56.087"
+  },
+  {
+    "name": "Uxío",
+    "attributeValue": "56.261"
+  },
+  {
+    "name": "Brugui",
+    "attributeValue": "63.348"
+  },
+  {
+    "name": "F. Schubert",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "C. Ngonge",
+    "attributeValue": "57.957"
+  },
+  {
+    "name": "M. Al Saiari",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "A. Gaich",
+    "attributeValue": "53.696"
+  },
+  {
+    "name": "A. Abdu Jaber",
+    "attributeValue": "57.783"
+  },
+  {
+    "name": "S. Herrera",
+    "attributeValue": "55.435"
+  },
+  {
+    "name": "L. McAlinden",
+    "attributeValue": "56.826"
+  },
+  {
+    "name": "Y. Hasegawa",
+    "attributeValue": "55.043"
+  },
+  {
+    "name": "Tan Tiancheng",
+    "attributeValue": "53.652"
+  },
+  {
+    "name": "C. Andrew",
+    "attributeValue": "61.783"
+  },
+  {
+    "name": "S. Essende",
+    "attributeValue": "54.522"
+  },
+  {
+    "name": "A. Bakayoko",
+    "attributeValue": "59.000"
+  },
+  {
+    "name": "T. Conechny",
+    "attributeValue": "58.783"
+  },
+  {
+    "name": "R. Uldrikis",
+    "attributeValue": "56.478"
+  },
+  {
+    "name": "S. Pino",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "H. Camara",
+    "attributeValue": "58.957"
+  },
+  {
+    "name": "Kim Gun Hee",
+    "attributeValue": "58.304"
+  },
+  {
+    "name": "Paulo Vitor",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "Ricardo Schutte",
+    "attributeValue": "58.174"
+  },
+  {
+    "name": "W. Jordán",
+    "attributeValue": "57.130"
+  },
+  {
+    "name": "M. Mandron",
+    "attributeValue": "58.391"
+  },
+  {
+    "name": "M. Barreiro",
+    "attributeValue": "56.652"
+  },
+  {
+    "name": "F. Barboza",
+    "attributeValue": "57.913"
+  },
+  {
+    "name": "F. Coniglio",
+    "attributeValue": "53.957"
+  },
+  {
+    "name": "R. Guder",
+    "attributeValue": "61.043"
+  },
+  {
+    "name": "Jordi Sánchez",
+    "attributeValue": "51.783"
+  },
+  {
+    "name": "D. Otto",
+    "attributeValue": "54.870"
+  },
+  {
+    "name": "Borja Estepa",
+    "attributeValue": "59.913"
+  },
+  {
+    "name": "Rubén Mesa",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "M. Léris",
+    "attributeValue": "51.913"
+  },
+  {
+    "name": "F. Hornby",
+    "attributeValue": "55.391"
+  },
+  {
+    "name": "A. López",
+    "attributeValue": "57.609"
+  },
+  {
+    "name": "A. Akinyemi",
+    "attributeValue": "54.609"
+  },
+  {
+    "name": "Pedro Neto",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "C. Fagan",
+    "attributeValue": "60.391"
+  },
+  {
+    "name": "M. Clayton",
+    "attributeValue": "59.261"
+  },
+  {
+    "name": "H. Silveira",
+    "attributeValue": "51.913"
+  },
+  {
+    "name": "Andrés Martín",
+    "attributeValue": "56.913"
+  },
+  {
+    "name": "D. Agyei",
+    "attributeValue": "57.783"
+  },
+  {
+    "name": "J. Porsan-Clémenté",
+    "attributeValue": "58.130"
+  },
+  {
+    "name": "R. Hardie",
+    "attributeValue": "55.826"
+  },
+  {
+    "name": "L. Dodds",
+    "attributeValue": "61.652"
+  },
+  {
+    "name": "T. Matsuura",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "M. Agger",
+    "attributeValue": "54.783"
+  },
+  {
+    "name": "A. Boupendza",
+    "attributeValue": "55.609"
+  },
+  {
+    "name": "I. Al Maghrabi",
+    "attributeValue": "61.174"
+  },
+  {
+    "name": "L. Pintor",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "T. Cicek",
+    "attributeValue": "59.217"
+  },
+  {
+    "name": "M. Briceño",
+    "attributeValue": "59.000"
+  },
+  {
+    "name": "D. van der Heijden",
+    "attributeValue": "53.130"
+  },
+  {
+    "name": "O. Zawada",
+    "attributeValue": "54.826"
+  },
+  {
+    "name": "J. Sinclair",
+    "attributeValue": "58.348"
+  },
+  {
+    "name": "Jon Bakero",
+    "attributeValue": "57.609"
+  },
+  {
+    "name": "Gao Di",
+    "attributeValue": "57.913"
+  },
+  {
+    "name": "J. Zwarts",
+    "attributeValue": "57.957"
+  },
+  {
+    "name": "R. Fergonzi",
+    "attributeValue": "52.174"
+  },
+  {
+    "name": "A. Pelvas",
+    "attributeValue": "58.435"
+  },
+  {
+    "name": "A. Oviedo",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "Hugo Duro",
+    "attributeValue": "52.043"
+  },
+  {
+    "name": "M. Cubillos",
+    "attributeValue": "61.435"
+  },
+  {
+    "name": "Ernest Forgás",
+    "attributeValue": "54.391"
+  },
+  {
+    "name": "K. Appin",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "D. Mullen",
+    "attributeValue": "61.043"
+  },
+  {
+    "name": "A. Mosquera",
+    "attributeValue": "55.130"
+  },
+  {
+    "name": "M. Gómez",
+    "attributeValue": "54.696"
+  },
+  {
+    "name": "Fachendinho",
+    "attributeValue": "57.652"
+  },
+  {
+    "name": "Yago",
+    "attributeValue": "57.826"
+  },
+  {
+    "name": "M. Piątkowski",
+    "attributeValue": "56.348"
+  },
+  {
+    "name": "O. Rodas",
+    "attributeValue": "55.739"
+  },
+  {
+    "name": "B. Lozano",
+    "attributeValue": "56.261"
+  },
+  {
+    "name": "I. Wadji",
+    "attributeValue": "58.522"
+  },
+  {
+    "name": "Liu Weidong",
+    "attributeValue": "59.435"
+  },
+  {
+    "name": "N. Bustos",
+    "attributeValue": "56.217"
+  },
+  {
+    "name": "K. Brünker",
+    "attributeValue": "57.000"
+  },
+  {
+    "name": "Tiagildo Serra",
+    "attributeValue": "58.304"
+  },
+  {
+    "name": "L. Salas",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "R. Brewster",
+    "attributeValue": "58.043"
+  },
+  {
+    "name": "M. Jelavić",
+    "attributeValue": "55.739"
+  },
+  {
+    "name": "J. Villalba",
+    "attributeValue": "57.304"
+  },
+  {
+    "name": "B. Mwila",
+    "attributeValue": "56.000"
+  },
+  {
+    "name": "S. Mvibudulu",
+    "attributeValue": "57.957"
+  },
+  {
+    "name": "André Anderson",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "W. Jobello",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "M. Green",
+    "attributeValue": "61.652"
+  },
+  {
+    "name": "M. Maphangule",
+    "attributeValue": "57.304"
+  },
+  {
+    "name": "L. Dajaku",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "C. Porter",
+    "attributeValue": "58.304"
+  },
+  {
+    "name": "M. Gueye",
+    "attributeValue": "54.174"
+  },
+  {
+    "name": "J. Murray",
+    "attributeValue": "54.261"
+  },
+  {
+    "name": "S. Ambri",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "M. Pode",
+    "attributeValue": "55.522"
+  },
+  {
+    "name": "M. Pronichev",
+    "attributeValue": "58.043"
+  },
+  {
+    "name": "K. Çelik",
+    "attributeValue": "57.739"
+  },
+  {
+    "name": "J. Schneider",
+    "attributeValue": "58.174"
+  },
+  {
+    "name": "F. Illarregui",
+    "attributeValue": "61.304"
+  },
+  {
+    "name": "J. Nuttall",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "Hélton Carvalhal",
+    "attributeValue": "48.391"
+  },
+  {
+    "name": "A. Abang",
+    "attributeValue": "55.348"
+  },
+  {
+    "name": "O. Shaw",
+    "attributeValue": "54.000"
+  },
+  {
+    "name": "M. Cullen",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "F. Onyeka",
+    "attributeValue": "58.739"
+  },
+  {
+    "name": "A. Dávila",
+    "attributeValue": "52.348"
+  },
+  {
+    "name": "J. Odgaard",
+    "attributeValue": "55.174"
+  },
+  {
+    "name": "S. McCoulsky",
+    "attributeValue": "57.217"
+  },
+  {
+    "name": "E. Riis Jakobsen",
+    "attributeValue": "52.565"
+  },
+  {
+    "name": "M. Biamou",
+    "attributeValue": "55.087"
+  },
+  {
+    "name": "M. Verreth",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "A. Mangan",
+    "attributeValue": "61.870"
+  },
+  {
+    "name": "Jefté",
+    "attributeValue": "56.348"
+  },
+  {
+    "name": "V. Pinson",
+    "attributeValue": "54.522"
+  },
+  {
+    "name": "T. Sawada",
+    "attributeValue": "58.913"
+  },
+  {
+    "name": "Lucas Rodrigues",
+    "attributeValue": "55.000"
+  },
+  {
+    "name": "M. Phaeton",
+    "attributeValue": "59.739"
+  },
+  {
+    "name": "J. Konings",
+    "attributeValue": "55.522"
+  },
+  {
+    "name": "A. Ndiaye",
+    "attributeValue": "53.478"
+  },
+  {
+    "name": "C. Gameiro",
+    "attributeValue": "59.174"
+  },
+  {
+    "name": "F. Ahumada",
+    "attributeValue": "57.826"
+  },
+  {
+    "name": "S. Otsuki",
+    "attributeValue": "62.957"
+  },
+  {
+    "name": "C. Ponce",
+    "attributeValue": "55.217"
+  },
+  {
+    "name": "S. Al Shehri",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "A. Connolly",
+    "attributeValue": "53.870"
+  },
+  {
+    "name": "Z. Ljubijankič",
+    "attributeValue": "61.000"
+  },
+  {
+    "name": "R. Murray",
+    "attributeValue": "63.087"
+  },
+  {
+    "name": "Borja Domingo",
+    "attributeValue": "53.652"
+  },
+  {
+    "name": "R. Sawakami",
+    "attributeValue": "58.435"
+  },
+  {
+    "name": "G. Ávalos",
+    "attributeValue": "51.783"
+  },
+  {
+    "name": "O. Karlsson",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "D. Pérez",
+    "attributeValue": "59.174"
+  },
+  {
+    "name": "Rubén Enri",
+    "attributeValue": "55.130"
+  },
+  {
+    "name": "M. Simon",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "P. Magnín",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "V. Gyökeres",
+    "attributeValue": "56.348"
+  },
+  {
+    "name": "S. Humphrys",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "E. Ogude",
+    "attributeValue": "55.609"
+  },
+  {
+    "name": "A. Lassiter",
+    "attributeValue": "57.000"
+  },
+  {
+    "name": "G. Miller",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "C. Kane",
+    "attributeValue": "57.957"
+  },
+  {
+    "name": "S. Odey",
+    "attributeValue": "55.913"
+  },
+  {
+    "name": "S. Adekoya",
+    "attributeValue": "61.478"
+  },
+  {
+    "name": "I. Diarra",
+    "attributeValue": "55.609"
+  },
+  {
+    "name": "A. Sevinç",
+    "attributeValue": "57.217"
+  },
+  {
+    "name": "S. Czajkowski",
+    "attributeValue": "54.000"
+  },
+  {
+    "name": "A. Nabi",
+    "attributeValue": "60.043"
+  },
+  {
+    "name": "Kim Jong Min",
+    "attributeValue": "52.478"
+  },
+  {
+    "name": "C. Dyson",
+    "attributeValue": "57.217"
+  },
+  {
+    "name": "Oh Se Hun",
+    "attributeValue": "52.478"
+  },
+  {
+    "name": "A. Nicholls",
+    "attributeValue": "60.609"
+  },
+  {
+    "name": "M. Gallegos",
+    "attributeValue": "53.652"
+  },
+  {
+    "name": "A. May",
+    "attributeValue": "57.739"
+  },
+  {
+    "name": "Y. Akgün",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "D. Frieser",
+    "attributeValue": "56.478"
+  },
+  {
+    "name": "J. Burkardt",
+    "attributeValue": "56.565"
+  },
+  {
+    "name": "A. Lupu",
+    "attributeValue": "53.870"
+  },
+  {
+    "name": "A. Maziero",
+    "attributeValue": "54.783"
+  },
+  {
+    "name": "Jose",
+    "attributeValue": "53.478"
+  },
+  {
+    "name": "M. Kolar",
+    "attributeValue": "54.217"
+  },
+  {
+    "name": "F. Brügmann",
+    "attributeValue": "58.043"
+  },
+  {
+    "name": "V. Sköld",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "J. Torres",
+    "attributeValue": "58.522"
+  },
+  {
+    "name": "A. Nilsson",
+    "attributeValue": "58.957"
+  },
+  {
+    "name": "R. de la Rosa",
+    "attributeValue": "55.304"
+  },
+  {
+    "name": "J. Sierra",
+    "attributeValue": "53.348"
+  },
+  {
+    "name": "E. Rueda",
+    "attributeValue": "58.174"
+  },
+  {
+    "name": "R. Hepburn-Murphy",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "H. Mörschel",
+    "attributeValue": "54.783"
+  },
+  {
+    "name": "G. Omotayo",
+    "attributeValue": "55.174"
+  },
+  {
+    "name": "T. Chorý",
+    "attributeValue": "49.522"
+  },
+  {
+    "name": "J. Vázquez",
+    "attributeValue": "54.957"
+  },
+  {
+    "name": "J. Ibehre",
+    "attributeValue": "56.957"
+  },
+  {
+    "name": "Li Yuanyi",
+    "attributeValue": "58.478"
+  },
+  {
+    "name": "M. López",
+    "attributeValue": "55.913"
+  },
+  {
+    "name": "A. Sarr",
+    "attributeValue": "55.957"
+  },
+  {
+    "name": "M. Toye",
+    "attributeValue": "54.478"
+  },
+  {
+    "name": "N. Jackson",
+    "attributeValue": "55.870"
+  },
+  {
+    "name": "B. Källman",
+    "attributeValue": "56.000"
+  },
+  {
+    "name": "L. Fritzson",
+    "attributeValue": "58.174"
+  },
+  {
+    "name": "I. Ugbo",
+    "attributeValue": "52.783"
+  },
+  {
+    "name": "T. Robinet",
+    "attributeValue": "59.522"
+  },
+  {
+    "name": "J. Victoria",
+    "attributeValue": "54.174"
+  },
+  {
+    "name": "K. Yamaguchi",
+    "attributeValue": "59.478"
+  },
+  {
+    "name": "N. Laursen",
+    "attributeValue": "57.652"
+  },
+  {
+    "name": "T. Buitink",
+    "attributeValue": "54.391"
+  },
+  {
+    "name": "H. Eisa",
+    "attributeValue": "59.087"
+  },
+  {
+    "name": "A. Stadler",
+    "attributeValue": "60.174"
+  },
+  {
+    "name": "M. Al Mania",
+    "attributeValue": "55.696"
+  },
+  {
+    "name": "Giovanni",
+    "attributeValue": "58.826"
+  },
+  {
+    "name": "A. Dabasse",
+    "attributeValue": "54.478"
+  },
+  {
+    "name": "A. Pinga",
+    "attributeValue": "56.261"
+  },
+  {
+    "name": "N. Andereggen",
+    "attributeValue": "57.478"
+  },
+  {
+    "name": "M. Forss",
+    "attributeValue": "50.913"
+  },
+  {
+    "name": "P. Michael",
+    "attributeValue": "55.522"
+  },
+  {
+    "name": "A. Helmersen",
+    "attributeValue": "55.130"
+  },
+  {
+    "name": "A. Yildirim",
+    "attributeValue": "55.478"
+  },
+  {
+    "name": "D. Telford",
+    "attributeValue": "56.261"
+  },
+  {
+    "name": "A. Fontana",
+    "attributeValue": "54.652"
+  },
+  {
+    "name": "Y. Mamilonne",
+    "attributeValue": "53.826"
+  },
+  {
+    "name": "O. Leguizamón",
+    "attributeValue": "55.043"
+  },
+  {
+    "name": "T. Bonga",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "Kim Yong Jin",
+    "attributeValue": "48.826"
+  },
+  {
+    "name": "S. Moussa",
+    "attributeValue": "54.913"
+  },
+  {
+    "name": "J. Vega",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "T. Goppel",
+    "attributeValue": "58.783"
+  },
+  {
+    "name": "Robert",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "R. Griffiths",
+    "attributeValue": "54.217"
+  },
+  {
+    "name": "H. Johansen",
+    "attributeValue": "55.391"
+  },
+  {
+    "name": "J. Asiri",
+    "attributeValue": "55.304"
+  },
+  {
+    "name": "Darío Poveda",
+    "attributeValue": "54.913"
+  },
+  {
+    "name": "J. Tuominen",
+    "attributeValue": "54.696"
+  },
+  {
+    "name": "J. Vogliotti",
+    "attributeValue": "52.087"
+  },
+  {
+    "name": "E. Maanane",
+    "attributeValue": "53.696"
+  },
+  {
+    "name": "D. Vlahovic",
+    "attributeValue": "54.609"
+  },
+  {
+    "name": "L. Amarilla",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "S. Ormeño",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "N. Blissett",
+    "attributeValue": "55.652"
+  },
+  {
+    "name": "S. Bastoni",
+    "attributeValue": "58.739"
+  },
+  {
+    "name": "K. Appiah-Kubi",
+    "attributeValue": "60.130"
+  },
+  {
+    "name": "K. Woolery",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "E. Omondi",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "M. Wintzheimer",
+    "attributeValue": "54.696"
+  },
+  {
+    "name": "B. Anderson",
+    "attributeValue": "54.304"
+  },
+  {
+    "name": "E. Mensah",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "S. Baradji",
+    "attributeValue": "56.087"
+  },
+  {
+    "name": "Y. Shimaya",
+    "attributeValue": "59.043"
+  },
+  {
+    "name": "K. Scheidhauer",
+    "attributeValue": "56.217"
+  },
+  {
+    "name": "Rubén Sánchez",
+    "attributeValue": "54.217"
+  },
+  {
+    "name": "S. Ohlsson",
+    "attributeValue": "56.043"
+  },
+  {
+    "name": "M. Cortesi",
+    "attributeValue": "55.696"
+  },
+  {
+    "name": "K. Finnbogason",
+    "attributeValue": "54.000"
+  },
+  {
+    "name": "G. Simeone",
+    "attributeValue": "53.348"
+  },
+  {
+    "name": "J. Benteke",
+    "attributeValue": "57.000"
+  },
+  {
+    "name": "E. Bytyqi",
+    "attributeValue": "57.435"
+  },
+  {
+    "name": "J. Morias",
+    "attributeValue": "58.130"
+  },
+  {
+    "name": "S. Harrison",
+    "attributeValue": "56.435"
+  },
+  {
+    "name": "P. Klimala",
+    "attributeValue": "54.870"
+  },
+  {
+    "name": "K. Sterling",
+    "attributeValue": "56.130"
+  },
+  {
+    "name": "A. Karadas",
+    "attributeValue": "55.696"
+  },
+  {
+    "name": "N. Gómez",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "S. Benega",
+    "attributeValue": "56.391"
+  },
+  {
+    "name": "F. El Khoumisti",
+    "attributeValue": "56.217"
+  },
+  {
+    "name": "T. Warschewski",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "B. Dia",
+    "attributeValue": "53.217"
+  },
+  {
+    "name": "F. Brown Forbes",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "S. Banza",
+    "attributeValue": "54.957"
+  },
+  {
+    "name": "L. Tupta",
+    "attributeValue": "56.609"
+  },
+  {
+    "name": "M. Majrashi",
+    "attributeValue": "57.174"
+  },
+  {
+    "name": "R. Tulloch",
+    "attributeValue": "54.870"
+  },
+  {
+    "name": "L. Agüero",
+    "attributeValue": "55.261"
+  },
+  {
+    "name": "M. Romero",
+    "attributeValue": "54.696"
+  },
+  {
+    "name": "Cheng Yuan",
+    "attributeValue": "59.652"
+  },
+  {
+    "name": "S. Otayf",
+    "attributeValue": "58.043"
+  },
+  {
+    "name": "D. Sula",
+    "attributeValue": "57.435"
+  },
+  {
+    "name": "E. Kupen",
+    "attributeValue": "56.913"
+  },
+  {
+    "name": "D. Carr",
+    "attributeValue": "54.957"
+  },
+  {
+    "name": "M. Diallo",
+    "attributeValue": "53.652"
+  },
+  {
+    "name": "C. Brandeborn",
+    "attributeValue": "58.522"
+  },
+  {
+    "name": "M. Drennan",
+    "attributeValue": "58.043"
+  },
+  {
+    "name": "M. Taylor-Crossdale",
+    "attributeValue": "57.391"
+  },
+  {
+    "name": "C. Omeje",
+    "attributeValue": "53.609"
+  },
+  {
+    "name": "M. Ndjoli",
+    "attributeValue": "57.130"
+  },
+  {
+    "name": "K. Tagawa",
+    "attributeValue": "55.261"
+  },
+  {
+    "name": "J. Herrera",
+    "attributeValue": "52.565"
+  },
+  {
+    "name": "B. Adekanye",
+    "attributeValue": "56.870"
+  },
+  {
+    "name": "D. Loader",
+    "attributeValue": "55.870"
+  },
+  {
+    "name": "G. Herrem",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "J. Calero",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "T. Kunimoto",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "R. Obermair",
+    "attributeValue": "55.652"
+  },
+  {
+    "name": "T. Freriks",
+    "attributeValue": "51.826"
+  },
+  {
+    "name": "Carlos Vicente",
+    "attributeValue": "57.391"
+  },
+  {
+    "name": "D. N'Lundulu",
+    "attributeValue": "55.217"
+  },
+  {
+    "name": "Lee Eun Beom",
+    "attributeValue": "57.565"
+  },
+  {
+    "name": "J. Velásquez",
+    "attributeValue": "55.348"
+  },
+  {
+    "name": "G. Reilly",
+    "attributeValue": "57.435"
+  },
+  {
+    "name": "A. Al Hamdan",
+    "attributeValue": "53.130"
+  },
+  {
+    "name": "D. Henriquez",
+    "attributeValue": "56.652"
+  },
+  {
+    "name": "L. Charman",
+    "attributeValue": "54.783"
+  },
+  {
+    "name": "M. Sifneos",
+    "attributeValue": "52.304"
+  },
+  {
+    "name": "M. Belkheir",
+    "attributeValue": "57.609"
+  },
+  {
+    "name": "R. Yamasaki",
+    "attributeValue": "52.522"
+  },
+  {
+    "name": "J. Molina",
+    "attributeValue": "52.348"
+  },
+  {
+    "name": "O. Olomola",
+    "attributeValue": "55.087"
+  },
+  {
+    "name": "E. List",
+    "attributeValue": "59.043"
+  },
+  {
+    "name": "M. Salazar",
+    "attributeValue": "59.130"
+  },
+  {
+    "name": "G. Mainero",
+    "attributeValue": "55.609"
+  },
+  {
+    "name": "I. Camara",
+    "attributeValue": "56.304"
+  },
+  {
+    "name": "C. Kountouriotis",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "D. Chávez",
+    "attributeValue": "59.522"
+  },
+  {
+    "name": "R. Germain",
+    "attributeValue": "51.478"
+  },
+  {
+    "name": "M. Kristensen",
+    "attributeValue": "59.391"
+  },
+  {
+    "name": "J. Valencia",
+    "attributeValue": "51.783"
+  },
+  {
+    "name": "K. Athiu",
+    "attributeValue": "52.913"
+  },
+  {
+    "name": "M. Batmaz",
+    "attributeValue": "52.652"
+  },
+  {
+    "name": "M. Gneba",
+    "attributeValue": "57.565"
+  },
+  {
+    "name": "M. Erboğa",
+    "attributeValue": "52.304"
+  },
+  {
+    "name": "G. Bizzotto",
+    "attributeValue": "58.783"
+  },
+  {
+    "name": "M. Skenderović",
+    "attributeValue": "53.565"
+  },
+  {
+    "name": "J. Illum",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "J. Wind",
+    "attributeValue": "52.870"
+  },
+  {
+    "name": "Kim Gyeong Min",
+    "attributeValue": "51.478"
+  },
+  {
+    "name": "T. Almada",
+    "attributeValue": "55.696"
+  },
+  {
+    "name": "K. Riksvold",
+    "attributeValue": "54.913"
+  },
+  {
+    "name": "M. Mølvadgaard",
+    "attributeValue": "55.217"
+  },
+  {
+    "name": "B. Galván",
+    "attributeValue": "57.913"
+  },
+  {
+    "name": "D. Corcoran",
+    "attributeValue": "57.696"
+  },
+  {
+    "name": "C. Beardsley",
+    "attributeValue": "58.652"
+  },
+  {
+    "name": "G. Gori",
+    "attributeValue": "53.957"
+  },
+  {
+    "name": "F. Piszczek",
+    "attributeValue": "54.652"
+  },
+  {
+    "name": "M. Krauß",
+    "attributeValue": "55.261"
+  },
+  {
+    "name": "S. Lavery",
+    "attributeValue": "55.783"
+  },
+  {
+    "name": "A. Greene",
+    "attributeValue": "60.435"
+  },
+  {
+    "name": "K. Yamga",
+    "attributeValue": "56.000"
+  },
+  {
+    "name": "M. Górski",
+    "attributeValue": "59.000"
+  },
+  {
+    "name": "S. Jones",
+    "attributeValue": "55.130"
+  },
+  {
+    "name": "J. Romil",
+    "attributeValue": "55.304"
+  },
+  {
+    "name": "M. Berden",
+    "attributeValue": "54.000"
+  },
+  {
+    "name": "A. Verda",
+    "attributeValue": "52.304"
+  },
+  {
+    "name": "A. Pululu",
+    "attributeValue": "56.348"
+  },
+  {
+    "name": "N. Mbouhom",
+    "attributeValue": "57.043"
+  },
+  {
+    "name": "J. Morsay",
+    "attributeValue": "54.043"
+  },
+  {
+    "name": "M. Balcılar",
+    "attributeValue": "54.478"
+  },
+  {
+    "name": "J. Álvarez",
+    "attributeValue": "54.304"
+  },
+  {
+    "name": "A. Bianchimano",
+    "attributeValue": "51.478"
+  },
+  {
+    "name": "Sergio Moreno",
+    "attributeValue": "51.130"
+  },
+  {
+    "name": "G. Vrioni",
+    "attributeValue": "53.739"
+  },
+  {
+    "name": "M. Abu Shararah",
+    "attributeValue": "57.304"
+  },
+  {
+    "name": "E. Amenyido",
+    "attributeValue": "57.087"
+  },
+  {
+    "name": "J. Franzoni",
+    "attributeValue": "54.304"
+  },
+  {
+    "name": "M. Drawz",
+    "attributeValue": "56.783"
+  },
+  {
+    "name": "C. Stockton",
+    "attributeValue": "54.130"
+  },
+  {
+    "name": "M. Molina",
+    "attributeValue": "54.174"
+  },
+  {
+    "name": "M. Rhead",
+    "attributeValue": "53.565"
+  },
+  {
+    "name": "I. Kanu",
+    "attributeValue": "54.913"
+  },
+  {
+    "name": "A. Al Obud",
+    "attributeValue": "54.304"
+  },
+  {
+    "name": "E. Bullaude",
+    "attributeValue": "55.043"
+  },
+  {
+    "name": "S. Cosgrove",
+    "attributeValue": "55.478"
+  },
+  {
+    "name": "Park Yong Ji",
+    "attributeValue": "57.174"
+  },
+  {
+    "name": "V. Arboleda",
+    "attributeValue": "56.261"
+  },
+  {
+    "name": "Yoon Dong Min",
+    "attributeValue": "58.043"
+  },
+  {
+    "name": "B. Morris",
+    "attributeValue": "55.348"
+  },
+  {
+    "name": "R. Wolsztyński",
+    "attributeValue": "56.130"
+  },
+  {
+    "name": "L. Cruz",
+    "attributeValue": "55.609"
+  },
+  {
+    "name": "F. Krüger",
+    "attributeValue": "56.000"
+  },
+  {
+    "name": "A. Rodríguez",
+    "attributeValue": "56.826"
+  },
+  {
+    "name": "S. Smith",
+    "attributeValue": "54.522"
+  },
+  {
+    "name": "B. Ashley-Seal",
+    "attributeValue": "54.217"
+  },
+  {
+    "name": "A. Ćatić",
+    "attributeValue": "58.043"
+  },
+  {
+    "name": "A. Akinola",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "B. Njie",
+    "attributeValue": "56.435"
+  },
+  {
+    "name": "D. Salazar",
+    "attributeValue": "53.304"
+  },
+  {
+    "name": "V. Drchal",
+    "attributeValue": "53.609"
+  },
+  {
+    "name": "R. Grego-Cox",
+    "attributeValue": "56.522"
+  },
+  {
+    "name": "M. Özvardar",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "A. Siemaszko",
+    "attributeValue": "52.565"
+  },
+  {
+    "name": "C. Hall",
+    "attributeValue": "56.043"
+  },
+  {
+    "name": "L. Pfeiffer",
+    "attributeValue": "53.087"
+  },
+  {
+    "name": "O. Patrick",
+    "attributeValue": "56.391"
+  },
+  {
+    "name": "L. Kryeziu",
+    "attributeValue": "56.174"
+  },
+  {
+    "name": "Y. Yakovenko",
+    "attributeValue": "51.435"
+  },
+  {
+    "name": "J. Kristoffersen",
+    "attributeValue": "49.739"
+  },
+  {
+    "name": "R. Singh",
+    "attributeValue": "54.000"
+  },
+  {
+    "name": "K. Ikeda",
+    "attributeValue": "55.913"
+  },
+  {
+    "name": "M. Fonseca",
+    "attributeValue": "54.217"
+  },
+  {
+    "name": "Y. Roemer",
+    "attributeValue": "55.522"
+  },
+  {
+    "name": "R. Simpson",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "R. Marín",
+    "attributeValue": "55.000"
+  },
+  {
+    "name": "A. Ramalingom",
+    "attributeValue": "55.261"
+  },
+  {
+    "name": "Zhou Liao",
+    "attributeValue": "54.870"
+  },
+  {
+    "name": "V. Kušej",
+    "attributeValue": "55.913"
+  },
+  {
+    "name": "J. Peñaloza",
+    "attributeValue": "53.565"
+  },
+  {
+    "name": "D. Martinović",
+    "attributeValue": "53.043"
+  },
+  {
+    "name": "T. Müsel",
+    "attributeValue": "55.826"
+  },
+  {
+    "name": "B. Goller",
+    "attributeValue": "56.174"
+  },
+  {
+    "name": "F. Hollinger-Janzen",
+    "attributeValue": "53.000"
+  },
+  {
+    "name": "O. Sterling-James",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "A. Önal",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "L. Forte",
+    "attributeValue": "56.435"
+  },
+  {
+    "name": "G. Verón",
+    "attributeValue": "53.174"
+  },
+  {
+    "name": "M. Sawa",
+    "attributeValue": "54.870"
+  },
+  {
+    "name": "A. Hernández",
+    "attributeValue": "54.826"
+  },
+  {
+    "name": "K. Alexandersson",
+    "attributeValue": "50.217"
+  },
+  {
+    "name": "I. El Kabbou",
+    "attributeValue": "56.217"
+  },
+  {
+    "name": "F. López",
+    "attributeValue": "55.130"
+  },
+  {
+    "name": "M. Steeves",
+    "attributeValue": "51.609"
+  },
+  {
+    "name": "A. Lotti",
+    "attributeValue": "54.261"
+  },
+  {
+    "name": "J. Sotirio",
+    "attributeValue": "56.826"
+  },
+  {
+    "name": "B. McGrath",
+    "attributeValue": "57.348"
+  },
+  {
+    "name": "S. Kaya",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "Y. Mabella",
+    "attributeValue": "54.043"
+  },
+  {
+    "name": "C. Elva",
+    "attributeValue": "55.217"
+  },
+  {
+    "name": "A. Al Yami",
+    "attributeValue": "54.913"
+  },
+  {
+    "name": "J. Ingham",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "M. Álvarez",
+    "attributeValue": "55.783"
+  },
+  {
+    "name": "M. Rosas",
+    "attributeValue": "54.217"
+  },
+  {
+    "name": "M. Kudus",
+    "attributeValue": "57.783"
+  },
+  {
+    "name": "M. Curry",
+    "attributeValue": "54.304"
+  },
+  {
+    "name": "F. Castro",
+    "attributeValue": "53.739"
+  },
+  {
+    "name": "S. Wilson",
+    "attributeValue": "52.217"
+  },
+  {
+    "name": "B. Wright",
+    "attributeValue": "50.609"
+  },
+  {
+    "name": "H. Benkaïd",
+    "attributeValue": "57.565"
+  },
+  {
+    "name": "Obama",
+    "attributeValue": "54.957"
+  },
+  {
+    "name": "N. Bazan",
+    "attributeValue": "55.783"
+  },
+  {
+    "name": "K. Leidsman",
+    "attributeValue": "53.304"
+  },
+  {
+    "name": "P. Esquivel",
+    "attributeValue": "53.261"
+  },
+  {
+    "name": "A. Barreal",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "D. García",
+    "attributeValue": "53.957"
+  },
+  {
+    "name": "G. León",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "N. Bizet",
+    "attributeValue": "51.348"
+  },
+  {
+    "name": "K. Yajima",
+    "attributeValue": "54.130"
+  },
+  {
+    "name": "K. McFarlane",
+    "attributeValue": "53.261"
+  },
+  {
+    "name": "A. Jakubiak",
+    "attributeValue": "54.609"
+  },
+  {
+    "name": "G. Azzinnari",
+    "attributeValue": "54.130"
+  },
+  {
+    "name": "G. Blackwood",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "J. Hanato",
+    "attributeValue": "59.000"
+  },
+  {
+    "name": "C. Baker-Richardson",
+    "attributeValue": "49.130"
+  },
+  {
+    "name": "B. Varga",
+    "attributeValue": "53.957"
+  },
+  {
+    "name": "M. Folivi",
+    "attributeValue": "51.739"
+  },
+  {
+    "name": "Y. Begraoui",
+    "attributeValue": "54.870"
+  },
+  {
+    "name": "A. Collins",
+    "attributeValue": "53.696"
+  },
+  {
+    "name": "F. Lobos",
+    "attributeValue": "51.087"
+  },
+  {
+    "name": "I. Boye",
+    "attributeValue": "50.870"
+  },
+  {
+    "name": "M. Vano",
+    "attributeValue": "51.174"
+  },
+  {
+    "name": "J. Hooper",
+    "attributeValue": "55.478"
+  },
+  {
+    "name": "Mollejo",
+    "attributeValue": "55.435"
+  },
+  {
+    "name": "V. Oliver",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "Pedro Goulart",
+    "attributeValue": "52.304"
+  },
+  {
+    "name": "J. Lahne",
+    "attributeValue": "59.870"
+  },
+  {
+    "name": "M. Cavalleri",
+    "attributeValue": "52.261"
+  },
+  {
+    "name": "A. Beyazıt",
+    "attributeValue": "59.739"
+  },
+  {
+    "name": "A. Baroan",
+    "attributeValue": "57.652"
+  },
+  {
+    "name": "M. Candlin",
+    "attributeValue": "58.130"
+  },
+  {
+    "name": "H. Smith",
+    "attributeValue": "52.609"
+  },
+  {
+    "name": "M. Nilor",
+    "attributeValue": "52.217"
+  },
+  {
+    "name": "D. Gremsl",
+    "attributeValue": "57.870"
+  },
+  {
+    "name": "M. Bevan",
+    "attributeValue": "53.913"
+  },
+  {
+    "name": "S. Abraham",
+    "attributeValue": "54.478"
+  },
+  {
+    "name": "D. Morrissey",
+    "attributeValue": "54.783"
+  },
+  {
+    "name": "L. Espinoza",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "N. Hunziker",
+    "attributeValue": "54.870"
+  },
+  {
+    "name": "I. Meite",
+    "attributeValue": "49.783"
+  },
+  {
+    "name": "L. Krüger",
+    "attributeValue": "51.913"
+  },
+  {
+    "name": "E. Stokes",
+    "attributeValue": "54.826"
+  },
+  {
+    "name": "G. Kelly",
+    "attributeValue": "52.087"
+  },
+  {
+    "name": "K. Majić",
+    "attributeValue": "52.217"
+  },
+  {
+    "name": "J. Archer",
+    "attributeValue": "52.609"
+  },
+  {
+    "name": "B. Singh",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "M. Nikolić",
+    "attributeValue": "55.696"
+  },
+  {
+    "name": "M. Kahrıman",
+    "attributeValue": "52.870"
+  },
+  {
+    "name": "T. Campbell",
+    "attributeValue": "56.391"
+  },
+  {
+    "name": "Y. Fortune",
+    "attributeValue": "54.783"
+  },
+  {
+    "name": "K. Ayong",
+    "attributeValue": "51.739"
+  },
+  {
+    "name": "M. Urynowicz",
+    "attributeValue": "53.304"
+  },
+  {
+    "name": "G. Tryggvason",
+    "attributeValue": "53.957"
+  },
+  {
+    "name": "W. Tchuameni",
+    "attributeValue": "51.000"
+  },
+  {
+    "name": "M. Wada",
+    "attributeValue": "52.739"
+  },
+  {
+    "name": "A. Canessa",
+    "attributeValue": "50.348"
+  },
+  {
+    "name": "A. Azeez",
+    "attributeValue": "54.043"
+  },
+  {
+    "name": "M. Holzer",
+    "attributeValue": "51.783"
+  },
+  {
+    "name": "Kim Hyo Gi",
+    "attributeValue": "50.913"
+  },
+  {
+    "name": "W. Ali",
+    "attributeValue": "53.478"
+  },
+  {
+    "name": "A. Jakobsen",
+    "attributeValue": "53.304"
+  },
+  {
+    "name": "M. Arturia",
+    "attributeValue": "51.652"
+  },
+  {
+    "name": "K. Goba",
+    "attributeValue": "51.261"
+  },
+  {
+    "name": "B. Kavlak",
+    "attributeValue": "52.870"
+  },
+  {
+    "name": "A. Aliev",
+    "attributeValue": "51.130"
+  },
+  {
+    "name": "Li Shenglong",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "S. Quigley",
+    "attributeValue": "52.130"
+  },
+  {
+    "name": "S. Solli",
+    "attributeValue": "56.087"
+  },
+  {
+    "name": "M. Firlej",
+    "attributeValue": "53.609"
+  },
+  {
+    "name": "V. Arveladze",
+    "attributeValue": "50.696"
+  },
+  {
+    "name": "J. von Moos",
+    "attributeValue": "53.609"
+  },
+  {
+    "name": "S. Karweina",
+    "attributeValue": "52.739"
+  },
+  {
+    "name": "A. Soukouna",
+    "attributeValue": "55.000"
+  },
+  {
+    "name": "K. Ogawa",
+    "attributeValue": "52.217"
+  },
+  {
+    "name": "L. Scott",
+    "attributeValue": "53.130"
+  },
+  {
+    "name": "N. Awuku",
+    "attributeValue": "52.739"
+  },
+  {
+    "name": "M. Meli",
+    "attributeValue": "52.913"
+  },
+  {
+    "name": "M. Ludwig",
+    "attributeValue": "56.348"
+  },
+  {
+    "name": "S. Hiramatsu",
+    "attributeValue": "49.870"
+  },
+  {
+    "name": "J. Romero",
+    "attributeValue": "55.783"
+  },
+  {
+    "name": "A. Appiah",
+    "attributeValue": "54.391"
+  },
+  {
+    "name": "P. Tomczyk",
+    "attributeValue": "51.130"
+  },
+  {
+    "name": "A. Oteh",
+    "attributeValue": "54.565"
+  },
+  {
+    "name": "M. Bayo",
+    "attributeValue": "55.696"
+  },
+  {
+    "name": "H. Hyseni",
+    "attributeValue": "51.304"
+  },
+  {
+    "name": "N. D'Agostino",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "C. Trejo",
+    "attributeValue": "53.652"
+  },
+  {
+    "name": "M. Obiero",
+    "attributeValue": "53.261"
+  },
+  {
+    "name": "T. Attis",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "A. Tecpanécatl",
+    "attributeValue": "53.783"
+  },
+  {
+    "name": "M. Sevimler",
+    "attributeValue": "51.957"
+  },
+  {
+    "name": "M. Jørgensen",
+    "attributeValue": "53.348"
+  },
+  {
+    "name": "R. Alm",
+    "attributeValue": "56.696"
+  },
+  {
+    "name": "Cao Ziheng",
+    "attributeValue": "57.435"
+  },
+  {
+    "name": "S. Wamangituka",
+    "attributeValue": "51.304"
+  },
+  {
+    "name": "M. Trovato",
+    "attributeValue": "57.174"
+  },
+  {
+    "name": "A. Beestin",
+    "attributeValue": "55.478"
+  },
+  {
+    "name": "N. Ennis",
+    "attributeValue": "53.783"
+  },
+  {
+    "name": "J. Hardy",
+    "attributeValue": "50.522"
+  },
+  {
+    "name": "Ryang Yong Gi",
+    "attributeValue": "56.304"
+  },
+  {
+    "name": "S. Micolta",
+    "attributeValue": "56.565"
+  },
+  {
+    "name": "C. Huanca",
+    "attributeValue": "50.478"
+  },
+  {
+    "name": "G. Shaw",
+    "attributeValue": "52.522"
+  },
+  {
+    "name": "S. Guðjohnsen",
+    "attributeValue": "50.304"
+  },
+  {
+    "name": "T. Abraham",
+    "attributeValue": "51.826"
+  },
+  {
+    "name": "Du Changjie",
+    "attributeValue": "58.696"
+  },
+  {
+    "name": "J. Anthony",
+    "attributeValue": "55.043"
+  },
+  {
+    "name": "R. Coughlan",
+    "attributeValue": "57.609"
+  },
+  {
+    "name": "A. Ba",
+    "attributeValue": "54.870"
+  },
+  {
+    "name": "Gui Hong",
+    "attributeValue": "56.565"
+  },
+  {
+    "name": "F. Ourega",
+    "attributeValue": "55.913"
+  },
+  {
+    "name": "H. Evjen",
+    "attributeValue": "53.957"
+  },
+  {
+    "name": "F. Quiroz",
+    "attributeValue": "53.304"
+  },
+  {
+    "name": "C. Cooke",
+    "attributeValue": "50.391"
+  },
+  {
+    "name": "M. Lillebo",
+    "attributeValue": "53.522"
+  },
+  {
+    "name": "C. Akono",
+    "attributeValue": "55.696"
+  },
+  {
+    "name": "R. Kehr",
+    "attributeValue": "52.304"
+  },
+  {
+    "name": "C. Manicone",
+    "attributeValue": "52.348"
+  },
+  {
+    "name": "E. Botheim",
+    "attributeValue": "51.957"
+  },
+  {
+    "name": "A. Kabashi",
+    "attributeValue": "54.957"
+  },
+  {
+    "name": "J. Chávez",
+    "attributeValue": "53.957"
+  },
+  {
+    "name": "M. Jay",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "O. Atilgan",
+    "attributeValue": "53.087"
+  },
+  {
+    "name": "A. Errico",
+    "attributeValue": "52.478"
+  },
+  {
+    "name": "Y. Al Shammari",
+    "attributeValue": "54.000"
+  },
+  {
+    "name": "E. Mergen",
+    "attributeValue": "52.957"
+  },
+  {
+    "name": "Y. Soma",
+    "attributeValue": "56.565"
+  },
+  {
+    "name": "J. Scott",
+    "attributeValue": "51.435"
+  },
+  {
+    "name": "K. Stanek",
+    "attributeValue": "50.696"
+  },
+  {
+    "name": "J. McKay",
+    "attributeValue": "50.217"
+  },
+  {
+    "name": "M. Isaza",
+    "attributeValue": "51.913"
+  },
+  {
+    "name": "K. Sheppard",
+    "attributeValue": "50.391"
+  },
+  {
+    "name": "M. Djitté",
+    "attributeValue": "55.565"
+  },
+  {
+    "name": "J. Jiménez",
+    "attributeValue": "51.087"
+  },
+  {
+    "name": "Yan Peng",
+    "attributeValue": "52.478"
+  },
+  {
+    "name": "J. Oswell",
+    "attributeValue": "52.304"
+  },
+  {
+    "name": "R. Bennett",
+    "attributeValue": "50.435"
+  },
+  {
+    "name": "N. Amamoo",
+    "attributeValue": "57.261"
+  },
+  {
+    "name": "A. Semenyo",
+    "attributeValue": "52.261"
+  },
+  {
+    "name": "P. Harant",
+    "attributeValue": "49.870"
+  },
+  {
+    "name": "V. Glaentzlin",
+    "attributeValue": "52.217"
+  },
+  {
+    "name": "A. Campion",
+    "attributeValue": "50.609"
+  },
+  {
+    "name": "Y. Otto",
+    "attributeValue": "50.130"
+  },
+  {
+    "name": "Y. Dieudonne",
+    "attributeValue": "52.870"
+  },
+  {
+    "name": "J. Graham",
+    "attributeValue": "54.391"
+  },
+  {
+    "name": "B. Cam",
+    "attributeValue": "54.435"
+  },
+  {
+    "name": "C. Fermina",
+    "attributeValue": "51.043"
+  },
+  {
+    "name": "R. Cretaro",
+    "attributeValue": "56.000"
+  },
+  {
+    "name": "R. Solan",
+    "attributeValue": "53.174"
+  },
+  {
+    "name": "A. Samuel",
+    "attributeValue": "56.174"
+  },
+  {
+    "name": "Y. Toure",
+    "attributeValue": "52.826"
+  },
+  {
+    "name": "S. Grønning",
+    "attributeValue": "53.348"
+  },
+  {
+    "name": "D. Williams",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "A. Díaz",
+    "attributeValue": "54.826"
+  },
+  {
+    "name": "A. Fletcher",
+    "attributeValue": "56.217"
+  },
+  {
+    "name": "K. Pagliuca",
+    "attributeValue": "48.696"
+  },
+  {
+    "name": "R. Harker",
+    "attributeValue": "50.391"
+  },
+  {
+    "name": "L. Rogerson",
+    "attributeValue": "55.913"
+  },
+  {
+    "name": "K. Ademi",
+    "attributeValue": "49.870"
+  },
+  {
+    "name": "Su Yuanjie",
+    "attributeValue": "55.130"
+  },
+  {
+    "name": "B. Folami",
+    "attributeValue": "51.304"
+  },
+  {
+    "name": "Lee Rae Joon",
+    "attributeValue": "53.565"
+  },
+  {
+    "name": "B. Dione",
+    "attributeValue": "52.826"
+  },
+  {
+    "name": "K. Kovačević",
+    "attributeValue": "52.217"
+  },
+  {
+    "name": "D. Parker",
+    "attributeValue": "52.913"
+  },
+  {
+    "name": "C. Thompson",
+    "attributeValue": "50.826"
+  },
+  {
+    "name": "N. Cordero",
+    "attributeValue": "54.261"
+  },
+  {
+    "name": "S. Coly",
+    "attributeValue": "51.783"
+  },
+  {
+    "name": "F. Chenkam",
+    "attributeValue": "53.217"
+  },
+  {
+    "name": "R. Edmondson",
+    "attributeValue": "51.261"
+  },
+  {
+    "name": "K. Wootton",
+    "attributeValue": "51.130"
+  },
+  {
+    "name": "J. Padilla",
+    "attributeValue": "51.348"
+  },
+  {
+    "name": "T. Abrahams",
+    "attributeValue": "53.652"
+  },
+  {
+    "name": "S. Ben Amar",
+    "attributeValue": "50.957"
+  },
+  {
+    "name": "M. Gillam",
+    "attributeValue": "53.130"
+  },
+  {
+    "name": "F. Kaya",
+    "attributeValue": "51.000"
+  },
+  {
+    "name": "J. Zea",
+    "attributeValue": "53.609"
+  },
+  {
+    "name": "Vasco Paciência",
+    "attributeValue": "52.043"
+  },
+  {
+    "name": "F. Akammadu",
+    "attributeValue": "51.739"
+  },
+  {
+    "name": "D. Mushitu",
+    "attributeValue": "51.087"
+  },
+  {
+    "name": "M. Berisha",
+    "attributeValue": "55.174"
+  },
+  {
+    "name": "M. Harris",
+    "attributeValue": "55.652"
+  },
+  {
+    "name": "Jo Yong Jae",
+    "attributeValue": "49.304"
+  },
+  {
+    "name": "H. Al Yami",
+    "attributeValue": "54.043"
+  },
+  {
+    "name": "M. Guel",
+    "attributeValue": "52.826"
+  },
+  {
+    "name": "D. Szczepan",
+    "attributeValue": "51.652"
+  },
+  {
+    "name": "O. Yilmaz",
+    "attributeValue": "49.087"
+  },
+  {
+    "name": "N. Abdali",
+    "attributeValue": "52.174"
+  },
+  {
+    "name": "D. Malhue",
+    "attributeValue": "52.609"
+  },
+  {
+    "name": "F. Baptiste",
+    "attributeValue": "52.478"
+  },
+  {
+    "name": "N. Anhölcher",
+    "attributeValue": "53.130"
+  },
+  {
+    "name": "S. Grønli",
+    "attributeValue": "53.087"
+  },
+  {
+    "name": "D. Takahashi",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "C. Rojas",
+    "attributeValue": "50.652"
+  },
+  {
+    "name": "R. Escobar",
+    "attributeValue": "50.609"
+  },
+  {
+    "name": "M. Ogkmpoe",
+    "attributeValue": "50.000"
+  },
+  {
+    "name": "Wang Ziming",
+    "attributeValue": "53.261"
+  },
+  {
+    "name": "T. O'Neill",
+    "attributeValue": "49.391"
+  },
+  {
+    "name": "Pedrosa",
+    "attributeValue": "52.348"
+  },
+  {
+    "name": "E. Crona",
+    "attributeValue": "50.739"
+  },
+  {
+    "name": "M. Idzik",
+    "attributeValue": "50.391"
+  },
+  {
+    "name": "L. Gelzleichter",
+    "attributeValue": "47.696"
+  },
+  {
+    "name": "S. Kulenović",
+    "attributeValue": "51.043"
+  },
+  {
+    "name": "J. Hallam",
+    "attributeValue": "52.391"
+  },
+  {
+    "name": "K. Suzuki",
+    "attributeValue": "50.522"
+  },
+  {
+    "name": "C. Ellis",
+    "attributeValue": "54.087"
+  },
+  {
+    "name": "I. Cameron",
+    "attributeValue": "54.696"
+  },
+  {
+    "name": "S. Giménez",
+    "attributeValue": "50.652"
+  },
+  {
+    "name": "O. Solbakken",
+    "attributeValue": "52.522"
+  },
+  {
+    "name": "I. Pearce",
+    "attributeValue": "51.087"
+  },
+  {
+    "name": "A. Majok",
+    "attributeValue": "49.957"
+  },
+  {
+    "name": "E. Chilufya",
+    "attributeValue": "55.043"
+  },
+  {
+    "name": "A. Jakupović",
+    "attributeValue": "48.739"
+  },
+  {
+    "name": "K. Ichimi",
+    "attributeValue": "52.826"
+  },
+  {
+    "name": "J. Ponticelli",
+    "attributeValue": "51.043"
+  },
+  {
+    "name": "J. Pérez",
+    "attributeValue": "50.348"
+  },
+  {
+    "name": "B. Nygren",
+    "attributeValue": "50.609"
+  },
+  {
+    "name": "F. Espinoza",
+    "attributeValue": "52.957"
+  },
+  {
+    "name": "I. Koné",
+    "attributeValue": "51.913"
+  },
+  {
+    "name": "S. Pedersen",
+    "attributeValue": "51.739"
+  },
+  {
+    "name": "M. Al Hamad",
+    "attributeValue": "50.957"
+  },
+  {
+    "name": "D. Breitfelder",
+    "attributeValue": "50.478"
+  },
+  {
+    "name": "L. Robles",
+    "attributeValue": "51.217"
+  },
+  {
+    "name": "N. Mbo",
+    "attributeValue": "51.739"
+  },
+  {
+    "name": "C. Lokoli-Ngoy",
+    "attributeValue": "53.304"
+  },
+  {
+    "name": "K. Henry",
+    "attributeValue": "53.739"
+  },
+  {
+    "name": "D. López",
+    "attributeValue": "49.870"
+  },
+  {
+    "name": "H. Cardwell",
+    "attributeValue": "50.826"
+  },
+  {
+    "name": "L. Perea",
+    "attributeValue": "48.304"
+  },
+  {
+    "name": "I. Olaofe",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "A. Linnér",
+    "attributeValue": "52.043"
+  },
+  {
+    "name": "J. Roberts",
+    "attributeValue": "50.783"
+  },
+  {
+    "name": "R. Balanta",
+    "attributeValue": "50.565"
+  },
+  {
+    "name": "D. Arias",
+    "attributeValue": "50.000"
+  },
+  {
+    "name": "W. Hanssen",
+    "attributeValue": "52.913"
+  },
+  {
+    "name": "H. Al Shaie",
+    "attributeValue": "52.087"
+  },
+  {
+    "name": "H. Sobol",
+    "attributeValue": "51.696"
+  },
+  {
+    "name": "G. McDonagh",
+    "attributeValue": "50.870"
+  },
+  {
+    "name": "M. Kristensen",
+    "attributeValue": "45.826"
+  },
+  {
+    "name": "M. Solberg",
+    "attributeValue": "51.652"
+  },
+  {
+    "name": "V. Arzayus",
+    "attributeValue": "47.609"
+  },
+  {
+    "name": "M. Godoy",
+    "attributeValue": "50.304"
+  },
+  {
+    "name": "J. Łoś",
+    "attributeValue": "49.913"
+  },
+  {
+    "name": "S. Gussiås",
+    "attributeValue": "50.565"
+  },
+  {
+    "name": "P. Waring",
+    "attributeValue": "49.913"
+  },
+  {
+    "name": "A. Agouda",
+    "attributeValue": "51.870"
+  },
+  {
+    "name": "M. El Idrissy",
+    "attributeValue": "50.391"
+  },
+  {
+    "name": "R. Kamber",
+    "attributeValue": "54.522"
+  },
+  {
+    "name": "Chang Feiya",
+    "attributeValue": "53.522"
+  },
+  {
+    "name": "J. Kayode",
+    "attributeValue": "47.913"
+  },
+  {
+    "name": "R. Swan",
+    "attributeValue": "54.043"
+  },
+  {
+    "name": "R. Lopez-Espin",
+    "attributeValue": "48.739"
+  },
+  {
+    "name": "J. Romo",
+    "attributeValue": "53.391"
+  },
+  {
+    "name": "K. Yamaguchi",
+    "attributeValue": "52.130"
+  },
+  {
+    "name": "W. Graham",
+    "attributeValue": "50.261"
+  },
+  {
+    "name": "M. Henvey",
+    "attributeValue": "51.304"
+  },
+  {
+    "name": "K. Mellado",
+    "attributeValue": "50.217"
+  },
+  {
+    "name": "A. Addai",
+    "attributeValue": "50.870"
+  },
+  {
+    "name": "M. García",
+    "attributeValue": "51.739"
+  },
+  {
+    "name": "V. Triboulet",
+    "attributeValue": "49.261"
+  },
+  {
+    "name": "L. Hlabi",
+    "attributeValue": "51.348"
+  },
+  {
+    "name": "A. Takagi",
+    "attributeValue": "53.609"
+  },
+  {
+    "name": "M. Leiva",
+    "attributeValue": "50.478"
+  },
+  {
+    "name": "A. Hodžić",
+    "attributeValue": "49.348"
+  },
+  {
+    "name": "O. Nowak",
+    "attributeValue": "48.435"
+  },
+  {
+    "name": "J. Alvarado",
+    "attributeValue": "51.391"
+  },
+  {
+    "name": "M. Said",
+    "attributeValue": "50.043"
+  },
+  {
+    "name": "A. Benedyczak",
+    "attributeValue": "49.348"
+  },
+  {
+    "name": "C. Peters",
+    "attributeValue": "53.130"
+  },
+  {
+    "name": "Z. Hakeem",
+    "attributeValue": "54.522"
+  },
+  {
+    "name": "C. Ortiz",
+    "attributeValue": "48.609"
+  },
+  {
+    "name": "P. Samiec-Talar",
+    "attributeValue": "49.870"
+  },
+  {
+    "name": "D. Butterworth",
+    "attributeValue": "53.652"
+  },
+  {
+    "name": "A. Sow",
+    "attributeValue": "53.217"
+  },
+  {
+    "name": "H. Palacios",
+    "attributeValue": "49.000"
+  },
+  {
+    "name": "O. Aga",
+    "attributeValue": "49.565"
+  },
+  {
+    "name": "D. Wenzel-Halls",
+    "attributeValue": "51.130"
+  },
+  {
+    "name": "C. Magerusan",
+    "attributeValue": "50.087"
+  },
+  {
+    "name": "F. Macias",
+    "attributeValue": "48.870"
+  },
+  {
+    "name": "M. Ndione",
+    "attributeValue": "49.435"
+  },
+  {
+    "name": "H. McKirdy",
+    "attributeValue": "52.261"
+  },
+  {
+    "name": "M. Howard",
+    "attributeValue": "49.348"
+  },
+  {
+    "name": "J. McAtee",
+    "attributeValue": "52.565"
+  },
+  {
+    "name": "I. Sadiq",
+    "attributeValue": "53.087"
+  },
+  {
+    "name": "L. Morrison",
+    "attributeValue": "50.870"
+  },
+  {
+    "name": "D. Castro",
+    "attributeValue": "49.478"
+  },
+  {
+    "name": "C. Scott",
+    "attributeValue": "48.913"
+  },
+  {
+    "name": "S. Brady",
+    "attributeValue": "50.435"
+  },
+  {
+    "name": "J. Suárez",
+    "attributeValue": "50.043"
+  },
+  {
+    "name": "V. Barbero",
+    "attributeValue": "52.522"
+  },
+  {
+    "name": "V. Adeboyejo",
+    "attributeValue": "50.870"
+  },
+  {
+    "name": "E. McKeown",
+    "attributeValue": "48.391"
+  },
+  {
+    "name": "J. Ferreira",
+    "attributeValue": "49.261"
+  },
+  {
+    "name": "T. Lauritsen",
+    "attributeValue": "49.478"
+  },
+  {
+    "name": "S. Gucciardo",
+    "attributeValue": "53.609"
+  },
+  {
+    "name": "S. Machino",
+    "attributeValue": "49.565"
+  },
+  {
+    "name": "A. Nelson",
+    "attributeValue": "50.174"
+  },
+  {
+    "name": "Mao Haoyu",
+    "attributeValue": "50.043"
+  },
+  {
+    "name": "J. Macdonald",
+    "attributeValue": "51.261"
+  },
+  {
+    "name": "H. Sharahili",
+    "attributeValue": "50.043"
+  },
+  {
+    "name": "G. Gibson",
+    "attributeValue": "50.522"
+  },
+  {
+    "name": "M. Contreras",
+    "attributeValue": "51.174"
+  },
+  {
+    "name": "Y. Ogaki",
+    "attributeValue": "52.391"
+  },
+  {
+    "name": "R. Masterson",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "A. Vucenovic",
+    "attributeValue": "49.043"
+  },
+  {
+    "name": "J. Meiser",
+    "attributeValue": "52.696"
+  },
+  {
+    "name": "A. Reid",
+    "attributeValue": "50.609"
+  },
+  {
+    "name": "S. Walker",
+    "attributeValue": "49.957"
+  },
+  {
+    "name": "T. Wood",
+    "attributeValue": "52.304"
+  },
+  {
+    "name": "Strefezza",
+    "attributeValue": "45.696"
+  },
+  {
+    "name": "Xie Weijun",
+    "attributeValue": "48.217"
+  },
+  {
+    "name": "R. Campbell",
+    "attributeValue": "50.391"
+  },
+  {
+    "name": "S. Boyd",
+    "attributeValue": "48.957"
+  },
+  {
+    "name": "H. Brkic",
+    "attributeValue": "48.043"
+  },
+  {
+    "name": "J. Gallagher",
+    "attributeValue": "49.261"
+  },
+  {
+    "name": "F. Al Birekan",
+    "attributeValue": "49.391"
+  },
+  {
+    "name": "J. Lankester",
+    "attributeValue": "52.391"
+  },
+  {
+    "name": "K. Velde",
+    "attributeValue": "49.913"
+  },
+  {
+    "name": "M. Saavedra",
+    "attributeValue": "51.609"
+  },
+  {
+    "name": "Jin Hui",
+    "attributeValue": "48.435"
+  },
+  {
+    "name": "J. Hamilton",
+    "attributeValue": "50.087"
+  },
+  {
+    "name": "Zhao Xuebin",
+    "attributeValue": "49.261"
+  },
+  {
+    "name": "C. Lemonheigh-Evans",
+    "attributeValue": "49.348"
+  },
+  {
+    "name": "O. Edlund",
+    "attributeValue": "50.478"
+  },
+  {
+    "name": "N. Sette",
+    "attributeValue": "48.043"
+  },
+  {
+    "name": "L. Pierre",
+    "attributeValue": "49.130"
+  },
+  {
+    "name": "K. Mooney",
+    "attributeValue": "48.043"
+  },
+  {
+    "name": "J. Piggott",
+    "attributeValue": "48.000"
+  },
+  {
+    "name": "D. Smith",
+    "attributeValue": "50.957"
+  },
+  {
+    "name": "E. Banza",
+    "attributeValue": "51.217"
+  },
+  {
+    "name": "G. Hurst",
+    "attributeValue": "50.870"
+  },
+  {
+    "name": "Lei Wenjie",
+    "attributeValue": "51.174"
+  },
+  {
+    "name": "L. Allan",
+    "attributeValue": "49.609"
+  },
+  {
+    "name": "P. Selkos",
+    "attributeValue": "51.870"
+  },
+  {
+    "name": "S. Jamieson",
+    "attributeValue": "51.391"
+  },
+  {
+    "name": "Felipe Ferreyra",
+    "attributeValue": "49.913"
+  },
+  {
+    "name": "T. Hara",
+    "attributeValue": "47.522"
+  },
+  {
+    "name": "K. Krygård",
+    "attributeValue": "51.261"
+  },
+  {
+    "name": "C. Farren",
+    "attributeValue": "48.087"
+  },
+  {
+    "name": "T. Mannek",
+    "attributeValue": "46.652"
+  },
+  {
+    "name": "M. Twarowski",
+    "attributeValue": "47.261"
+  },
+  {
+    "name": "P. Buch Christiansen",
+    "attributeValue": "49.652"
+  },
+  {
+    "name": "L. McCarron",
+    "attributeValue": "50.043"
+  },
+  {
+    "name": "M. Bildøy",
+    "attributeValue": "51.739"
+  },
+  {
+    "name": "Zhong Yihao",
+    "attributeValue": "55.826"
+  },
+  {
+    "name": "M. Ramkilde",
+    "attributeValue": "49.913"
+  },
+  {
+    "name": "J. Nahr",
+    "attributeValue": "52.870"
+  },
+  {
+    "name": "S. Fukahori",
+    "attributeValue": "54.130"
+  },
+  {
+    "name": "Y. Mustafa",
+    "attributeValue": "53.000"
+  },
+  {
+    "name": "J. Smylie",
+    "attributeValue": "46.913"
+  },
+  {
+    "name": "W. Longbottom",
+    "attributeValue": "49.565"
+  },
+  {
+    "name": "A. Rose",
+    "attributeValue": "49.696"
+  },
+  {
+    "name": "D. Valencia",
+    "attributeValue": "49.739"
+  },
+  {
+    "name": "S. Byrne",
+    "attributeValue": "50.913"
+  },
+  {
+    "name": "A. Jarvis",
+    "attributeValue": "47.652"
+  },
+  {
+    "name": "F. Langsdorf",
+    "attributeValue": "47.087"
+  },
+  {
+    "name": "Zhao Mingyu",
+    "attributeValue": "52.391"
+  },
+  {
+    "name": "Yan Hao",
+    "attributeValue": "50.696"
+  },
+  {
+    "name": "E. Dubickas",
+    "attributeValue": "52.304"
+  },
+  {
+    "name": "M. Knox",
+    "attributeValue": "50.609"
+  },
+  {
+    "name": "A. Al Meqran",
+    "attributeValue": "49.478"
+  },
+  {
+    "name": "J. Skotadis",
+    "attributeValue": "49.609"
+  },
+  {
+    "name": "K. Høgh",
+    "attributeValue": "48.261"
+  },
+  {
+    "name": "R. Campbell",
+    "attributeValue": "50.087"
+  },
+  {
+    "name": "R. Yamamoto",
+    "attributeValue": "49.609"
+  },
+  {
+    "name": "J. Olstad",
+    "attributeValue": "50.000"
+  },
+  {
+    "name": "M. Kaufmann",
+    "attributeValue": "46.304"
+  },
+  {
+    "name": "E. Ceide",
+    "attributeValue": "48.174"
+  },
+  {
+    "name": "B. Waine",
+    "attributeValue": "48.957"
+  },
+  {
+    "name": "L. Smyth",
+    "attributeValue": "51.304"
+  },
+  {
+    "name": "G. Newell",
+    "attributeValue": "48.043"
+  },
+  {
+    "name": "A. Scott",
+    "attributeValue": "50.348"
+  },
+  {
+    "name": "A. Romairone",
+    "attributeValue": "47.783"
+  },
+  {
+    "name": "A. Georgiou",
+    "attributeValue": "48.261"
+  },
+  {
+    "name": "Ning Weichen",
+    "attributeValue": "47.783"
+  },
+  {
+    "name": "S. Boyd",
+    "attributeValue": "45.391"
+  },
+  {
+    "name": "Dong Honglin",
+    "attributeValue": "50.826"
+  },
+  {
+    "name": "A. Stamatelopoulos",
+    "attributeValue": "47.435"
+  },
+  {
+    "name": "M. Ormazábal",
+    "attributeValue": "53.435"
+  },
+  {
+    "name": "D. Parkhouse",
+    "attributeValue": "48.130"
+  },
+  {
+    "name": "R. Fujimura",
+    "attributeValue": "51.435"
+  },
+  {
+    "name": "S. Pryce",
+    "attributeValue": "49.043"
+  },
+  {
+    "name": "A. Ahl Holmström",
+    "attributeValue": "48.609"
+  },
+  {
+    "name": "Nan Xiaoheng",
+    "attributeValue": "46.826"
+  },
+  {
+    "name": "C. Gutiérrez",
+    "attributeValue": "48.609"
+  },
+  {
+    "name": "J. Larsen",
+    "attributeValue": "46.826"
+  },
+  {
+    "name": "O. Klitten",
+    "attributeValue": "47.130"
+  },
+  {
+    "name": "Anwar Memet Ali",
+    "attributeValue": "52.696"
+  },
+  {
+    "name": "J. Iaciofano",
+    "attributeValue": "49.783"
+  },
+  {
+    "name": "A. Vergara",
+    "attributeValue": "48.304"
+  },
+  {
+    "name": "S. Bareiro",
+    "attributeValue": "47.304"
+  },
+  {
+    "name": "H. Andersson",
+    "attributeValue": "51.348"
+  },
+  {
+    "name": "B. Taverner",
+    "attributeValue": "47.739"
+  },
+  {
+    "name": "M. Skjellerup",
+    "attributeValue": "46.043"
+  },
+  {
+    "name": "S. Twine",
+    "attributeValue": "49.043"
+  },
+  {
+    "name": "K. Ogudugu",
+    "attributeValue": "48.000"
+  },
+  {
+    "name": "A. Reghba",
+    "attributeValue": "49.087"
+  },
+  {
+    "name": "T. Nakagawa",
+    "attributeValue": "52.696"
+  },
+  {
+    "name": "A. Skindlo",
+    "attributeValue": "51.391"
+  },
+  {
+    "name": "R. Meshino",
+    "attributeValue": "50.261"
+  },
+  {
+    "name": "A. Bark",
+    "attributeValue": "48.652"
+  },
+  {
+    "name": "C. Murphy",
+    "attributeValue": "49.261"
+  },
+  {
+    "name": "L. Mwandwe",
+    "attributeValue": "47.478"
+  },
+  {
+    "name": "Yang Fangzhi",
+    "attributeValue": "49.217"
+  },
+  {
+    "name": "L. Reilly",
+    "attributeValue": "47.870"
+  },
+  {
+    "name": "M. Najjar",
+    "attributeValue": "47.826"
+  },
+  {
+    "name": "M. Bloomfield",
+    "attributeValue": "48.261"
+  },
+  {
+    "name": "B. Reynolds",
+    "attributeValue": "46.217"
+  },
+  {
+    "name": "B. Seymour",
+    "attributeValue": "49.304"
+  },
+  {
+    "name": "T. Rohde",
+    "attributeValue": "48.522"
+  },
+  {
+    "name": "L. Jephcott",
+    "attributeValue": "48.565"
+  },
+  {
+    "name": "J. O'Keeffe",
+    "attributeValue": "47.522"
+  },
+  {
+    "name": "A. Ammitzbøll",
+    "attributeValue": "48.043"
+  },
+  {
+    "name": "Cao Sheng",
+    "attributeValue": "49.739"
+  },
+  {
+    "name": "B. Galach",
+    "attributeValue": "50.348"
+  },
+  {
+    "name": "W. Møller",
+    "attributeValue": "45.913"
+  },
+  {
+    "name": "J. Adebayo-Smith",
+    "attributeValue": "46.261"
+  },
+  {
+    "name": "D. Asonganyi",
+    "attributeValue": "50.739"
+  },
+  {
+    "name": "T. Knowles",
+    "attributeValue": "46.522"
+  },
+  {
+    "name": "S. Parada",
+    "attributeValue": "49.130"
+  },
+  {
+    "name": "J. Morris",
+    "attributeValue": "45.174"
+  },
+  {
+    "name": "C. Björk",
+    "attributeValue": "49.348"
+  },
+  {
+    "name": "Gao Dalun",
+    "attributeValue": "49.739"
+  },
+  {
+    "name": "R. Hackett-Fairchild",
+    "attributeValue": "48.435"
+  },
+  {
+    "name": "Kwon Ki Pyo",
+    "attributeValue": "46.391"
+  },
+  {
+    "name": "H. Benns",
+    "attributeValue": "47.174"
+  },
+  {
+    "name": "M. Al Dhafeeri",
+    "attributeValue": "48.348"
+  },
+  {
+    "name": "F. Sinclair-Smith",
+    "attributeValue": "46.043"
+  },
+  {
+    "name": "M. Foy",
+    "attributeValue": "46.739"
+  },
+  {
+    "name": "K. Hawley",
+    "attributeValue": "43.391"
+  },
+  {
+    "name": "N. Ayéva",
+    "attributeValue": "49.435"
+  },
+  {
+    "name": "R. Roache",
+    "attributeValue": "44.652"
+  },
+  {
+    "name": "A. Kaltner",
+    "attributeValue": "47.957"
+  },
+  {
+    "name": "J. Young",
+    "attributeValue": "44.957"
+  },
+  {
+    "name": "N. Christoffersson",
+    "attributeValue": "40.652"
+  },
+  {
+    "name": "B. Worman",
+    "attributeValue": "44.783"
+  },
+  {
+    "name": "D. Walker-Rice",
+    "attributeValue": "45.174"
+  }
+]
